@@ -10,11 +10,23 @@ Everything runs on [Agora's Conversational AI platform](https://docs.agora.io/en
 
 ## Three Ways to Build
 
-You don't need to write code. Pick the tool you're comfortable with:
+You don't need to write code. Pick the approach you're comfortable with:
 
-### Claude Code (Local, Most Capable)
+### Terminal AI Coding Agents (Local, Most Capable)
 
-[Claude Code](https://docs.anthropic.com/en/docs/claude-code) is Anthropic's CLI coding assistant. It runs in your terminal, reads the repo's instructions, and handles everything — cloning, dependencies, configuration, running servers.
+A terminal-based AI coding agent can clone the repo, read the instructions, install dependencies, configure environment variables, and start the servers — all from a single prompt. The repo includes an `AGENT.md` file written specifically for AI coding assistants, so any capable agent can follow it.
+
+We recommend **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** — it handles the full agent-samples architecture well and has excellent support for large codebases. But any terminal-based coding agent will work:
+
+| Agent | Description |
+|-------|-------------|
+| [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | Anthropic's CLI agent. Deep reasoning, large context window (Recommended) |
+| [Codex CLI](https://github.com/openai/codex) | OpenAI's terminal agent. Fast, lightweight |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google's CLI agent. Generous free tier |
+| [OpenCode](https://github.com/opencode-ai/opencode) | Model-agnostic. Works with any LLM provider |
+| [Aider](https://aider.chat) | Git-focused. Auto-commits with clear messages |
+
+**Example prompt** (works with any of the above):
 
 ```
 Clone https://github.com/AgoraIO-Conversational-AI/agent-samples
@@ -30,7 +42,7 @@ and then I want to run the Video AI Agent with Avatar Sample here
 on my laptop. Be sure to read the AGENT.md before you begin building.
 ```
 
-Claude Code reads `AGENT.md` (a guide written specifically for AI coding assistants), installs dependencies, asks for your API keys, configures `.env`, and starts both servers. Within minutes you have a working agent in your browser.
+The agent reads `AGENT.md`, installs dependencies, asks for your API keys, configures `.env`, and starts both servers. Within minutes you have a working agent in your browser.
 
 **Install Claude Code:**
 
@@ -66,7 +78,7 @@ and read AGENT.md then set it up
 
 ### Why Different Repos?
 
-Lovable and v0 have platform constraints (no GitHub package installs, can't read into `node_modules`, sandboxed builds) so they need self-contained repos with all code inlined. Claude Code has no such limitations — it works directly with agent-samples' full architecture.
+Lovable and v0 have platform constraints (no GitHub package installs, can't read into `node_modules`, sandboxed builds) so they need self-contained repos with all code inlined. Terminal agents have no such limitations — they work directly with agent-samples' full architecture.
 
 ## What You'll Need
 
@@ -233,17 +245,17 @@ With Agora + Anam + Thymia as your foundation, here are starting points:
 
 ## Terminal Basics (If You're New)
 
-If you're using Claude Code and are new to the terminal, here's all you need:
+If you're using a terminal-based coding agent and are new to the terminal, here's all you need:
 
 ```bash
 pwd                    # Where am I?
 ls                     # What's in this folder?
 cd Projects            # Go into a folder
 mkdir my-hackathon     # Create a new folder
-claude                 # Launch Claude Code
+claude                 # Launch Claude Code (or your agent of choice)
 ```
 
-That's it. Once Claude Code is running, you communicate in plain English.
+That's it. Once your coding agent is running, you communicate in plain English.
 
 ## Resources
 
@@ -257,6 +269,10 @@ That's it. Once Claude Code is running, you communicate in plain English.
 | **Agora Console**             | [console.agora.io](https://console.agora.io)                                                                                 |
 | **Agora ConvoAI Docs**        | [docs.agora.io/en/conversational-ai](https://docs.agora.io/en/conversational-ai/overview/product-overview)                   |
 | **Claude Code**               | [docs.anthropic.com/en/docs/claude-code](https://docs.anthropic.com/en/docs/claude-code)                                     |
+| **Codex CLI**                 | [github.com/openai/codex](https://github.com/openai/codex)                                                                   |
+| **Gemini CLI**                | [github.com/google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)                                           |
+| **OpenCode**                  | [github.com/opencode-ai/opencode](https://github.com/opencode-ai/opencode)                                                   |
+| **Aider**                     | [aider.chat](https://aider.chat)                                                                                              |
 | **Anam**                      | [anam.ai](https://www.anam.ai/)                                                                                              |
 | **Thymia**                    | [thymia.ai](https://thymia.ai/)                                                                                              |
 | **OpenAI API Keys**           | [platform.openai.com](https://platform.openai.com/settings/organization/api-keys)                                            |

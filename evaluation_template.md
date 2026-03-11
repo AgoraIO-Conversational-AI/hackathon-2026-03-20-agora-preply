@@ -6,9 +6,9 @@
 
 ## Scoring Sheet
 
-| Name | Innovation (15%) | Functionality (20%) | Impact (5%) | Technical Execution (20%) | Documentation and Ease of Testing (20%) | User Experience (20%) | Bonus Point | Total Score | Notes |
-|------|---|---|---|---|---|---|---|---|---|
-| [Project Name] |  PTS \* (.0.15) |  PTS \* (.0.20) |  PTS \* (.0.05) |  PTS \* (.0.20) |  PTS \* (.0.20) |  PTS \* (.0.20) | +Bonus_PTS | \_\_ | [Brief overall assessment] |
+| Name           | Innovation (15%) | Functionality (20%) | Impact (5%)    | Technical Execution (20%) | Documentation and Ease of Testing (20%) | User Experience (20%) | Bonus Point | Total Score | Notes                      |
+| -------------- | ---------------- | ------------------- | -------------- | ------------------------- | --------------------------------------- | --------------------- | ----------- | ----------- | -------------------------- |
+| [Project Name] | PTS \* (.0.15)   | PTS \* (.0.20)      | PTS \* (.0.05) | PTS \* (.0.20)            | PTS \* (.0.20)                          | PTS \* (.0.20)        | +Bonus_PTS  | \_\_        | [Brief overall assessment] |
 
 ## Scoring Details
 
@@ -61,7 +61,7 @@ Potential to improve real-world language learning outcomes
 
 **Score: \_\_**
 
-Code quality, architecture decisions, and effective integration of Agora ConvoAI
+Code quality, architecture decisions, and effective integration of Agora
 
 **Evaluation Notes:**
 [Provide detailed feedback on this criterion]
@@ -101,8 +101,6 @@ Quality of the learner experience — natural conversation flow, helpful feedbac
 - **Areas for Improvement:**
 
 -
-
-
 
 ## Bonus Point
 

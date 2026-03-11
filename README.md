@@ -3,6 +3,7 @@
 Welcome to the Preply x Agora Hackathon in Barcelona! Join us for two days of building AI-powered language learning experiences. With a prize pool of €17,500, this hackathon brings together developers, designers, and AI enthusiasts to reimagine how people learn languages using real-time voice AI agents, video avatars, and voice biomarkers.
 
 **Prizes:**
+
 - 🥇 1st Place: €10,000 + Preply fast-track opportunity
 - 🥈 2nd Place: €5,000
 - 🥉 3rd Place: €2,500
@@ -24,12 +25,13 @@ Everything you need to get a voice or video AI agent running in minutes — setu
 Build AI-powered language learning experiences using Agora's Conversational AI Engine. Create voice AI agents that help people learn languages through real-time conversation, pronunciation practice, cultural immersion, and personalized feedback — optionally enhanced with video avatars (Anam) and voice biomarkers (Thymia).
 
 ### Focus Areas
+
 - Visualizing Learning Progress — Track and display learner advancement with AI-driven analytics
 - Accelerating Learning with Agents — Build AI tutors that adapt to individual learning styles and pace
 - Live Learning & Real-Time Context — Create immersive conversational experiences with real-time feedback
 
-
 ### Recommended Technologies
+
 - Agora Conversational AI Engine
 - Agora RTC SDK
 - OpenAI API
@@ -37,35 +39,38 @@ Build AI-powered language learning experiences using Agora's Conversational AI E
 - Thymia Voice Biomarkers
 - AWS
 
-
-
 ---
 
 ## 🔧 **Project Requirements & Constraints**
 
 ### Required Technologies
-All submissions **must** integrate the following:
 
-| Technology | Description | Documentation |
-|------------|-------------|---------------|
-| **Agora Conversational AI Engine** | Voice-to-voice AI agent platform with real-time STT, LLM, and TTS pipeline | [Docs](https://docs.agora.io/en/conversational-ai/overview/product-overview) |
+All submissions **must** integrate **at least one** of the following Agora products:
 
+| Technology                  | Description                                             | Documentation                                                                |
+| --------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Agora Conversational AI** | Voice AI agents with real-time STT → LLM → TTS pipeline | [Docs](https://docs.agora.io/en/conversational-ai/overview/product-overview) |
+| **Agora RTC SDK**           | Real-time audio/video calling and streaming             | [Docs](https://docs.agora.io/en/video-calling/overview/product-overview)     |
+| **Agora RTM (Signaling)**   | Real-time messaging, presence, and data channels        | [Docs](https://docs.agora.io/en/signaling/overview/product-overview)         |
+| **Agora App Builder**       | No-code video calling experiences                       | [App Builder](https://appbuilder.agora.io/)                                  |
+| **Agora Cloud Recording**   | Record calls and streams in the cloud                   | [Docs](https://docs.agora.io/en/cloud-recording/overview/product-overview)   |
 
 ### Rules
-- All projects must integrate the Agora Conversational AI Engine
+
+- All projects must integrate at least one Agora product
 - Projects must address a language learning use case
 - Code must be original work created during the hackathon
 - Teams may use pre-existing libraries, frameworks, and APIs (with proper attribution)
 - Teams must submit a working demo and source code via pull request
 
-
 ### Bonus Point Opportunities
+
 Go above and beyond for extra credit:
+
 - ⭐ Integration of Anam video avatars for face-to-face language practice
 - ⭐ Integration of Thymia voice biomarkers to detect learner stress, fatigue, or frustration
-- ⭐ Use of additional Agora products (RTM for messaging, Cloud Recording, etc.)
+- ⭐ Use of multiple Agora products together
 - ⭐ Creative use of OpenAI or AWS services
-
 
 ---
 
@@ -75,20 +80,19 @@ Try the voice and video AI agents live at **[convoai-demo.agora.io](https://conv
 
 ### Starter Repositories
 
-| Repository | Description |
-|------------|-------------|
-| [**agent-samples**](https://github.com/AgoraIO-Conversational-AI/agent-samples) | Full-stack voice and video AI agent with Python backend and React frontends |
+| Repository                                                                                  | Description                                                                              |
+| ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [**agent-samples**](https://github.com/AgoraIO-Conversational-AI/agent-samples)             | Full-stack voice and video AI agent with Python backend and React frontends              |
 | [**vibe-coding-lovable**](https://github.com/AgoraIO-Conversational-AI/vibe-coding-lovable) | Lovable-optimized starter — build a voice AI agent in your browser with zero local setup |
-| [**vibe-coding-v0**](https://github.com/AgoraIO-Conversational-AI/vibe-coding-v0) | v0-optimized starter — build a voice AI agent with Vercel hosting |
-| [**server-custom-llm**](https://github.com/AgoraIO-Conversational-AI/server-custom-llm) | Custom LLM middleware for RAG, tool calling, Thymia biomarkers, and conversation memory |
-
+| [**vibe-coding-v0**](https://github.com/AgoraIO-Conversational-AI/vibe-coding-v0)           | v0-optimized starter — build a voice AI agent with Vercel hosting                        |
+| [**server-custom-llm**](https://github.com/AgoraIO-Conversational-AI/server-custom-llm)     | Custom LLM middleware for RAG, tool calling, Thymia biomarkers, and conversation memory  |
 
 ### Documentation
+
 - [**Coding Guide (for AI and humans)**](docs/guide.md)
 - [Agora ConvoAI Documentation](https://docs.agora.io/en/conversational-ai/overview/product-overview)
 - [Agora Console (get your App ID)](https://console.agora.io/)
 - [Thymia Integration Recipe](https://github.com/AgoraIO-Conversational-AI/agent-samples/blob/main/recipes/thymia.md)
-
 
 ---
 
@@ -117,12 +121,11 @@ Inside the `submissions/` directory, create a new folder using your team name.
 Example:
 
 submissions/
- ├── team-name/
- │   ├── README.md  # (Required: Describe your project)
- │   ├── demo.mp4  # (Required: A demo video)
- │   ├── src/  # (Your source code)
- │   └── docs/  # (Any documentation or images)
-
+├── team-name/
+│ ├── README.md # (Required: Describe your project)
+│ ├── demo.mp4 # (Required: A demo video)
+│ ├── src/ # (Your source code)
+│ └── docs/ # (Any documentation or images)
 
 ### **4. Work on Your Project**
 
@@ -159,15 +162,15 @@ Projects will be evaluated based on:
 ✅ **Innovation** (15%) – Originality of the language learning concept and creative use of AI agent capabilities
 ✅ **Functionality** (20%) – How well the language learning agent works — conversation quality, accuracy, and reliability
 ✅ **Impact** (5%) – Potential to improve real-world language learning outcomes
-✅ **Technical Execution** (20%) – Code quality, architecture decisions, and effective integration of Agora ConvoAI
+✅ **Technical Execution** (20%) – Code quality, architecture decisions, and effective integration of Agora
 ✅ **Documentation and Ease of Testing** (20%) – Quality of documentation and how easily judges can test the language learning experience
 ✅ **User Experience** (20%) – Quality of the learner experience — natural conversation flow, helpful feedback, and engaging interaction
 
 ### Judging Panel
+
 - **TBD** – TBD, Preply
 - **TBD** – TBD, Agora
 - **TBD** – TBD, TBD
-
 
 📋 See the full [Judging Rubric](./hackathon-rating-rubric.md) for detailed scoring criteria and evaluation process.
 
@@ -177,8 +180,6 @@ Projects will be evaluated based on:
 
 For any questions, join our [Discord](https://discord.gg/kS7etQFKC).
 
-
 For urgent matters during the event, reach out to the organizers directly at the venue.
-
 
 **Happy hacking and good luck!** 🚀

@@ -2,6 +2,8 @@
 
 Whether you're joining the Agora + Anam + Thymia hackathon or just exploring conversational AI for the first time, this guide gets you from zero to a working AI agent you can talk to. The entire setup takes one prompt to an AI coding assistant.
 
+> **Note:** This guide focuses on Agora Conversational AI — the most popular path for this hackathon. However, the hackathon accepts **any Agora product** (RTC, RTM, App Builder, Cloud Recording). See the [hackathon README](../README.md) for the full list of accepted technologies.
+
 ## Contents
 
 - [What You'll Build](#what-youll-build)
@@ -38,13 +40,13 @@ A terminal-based AI coding agent can clone the repo, read the instructions, inst
 
 We recommend **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** — it handles the full agent-samples architecture well and has excellent support for large codebases. But any terminal-based coding agent will work:
 
-| Agent | Description |
-|-------|-------------|
+| Agent                                                         | Description                                                               |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | Anthropic's CLI agent. Deep reasoning, large context window (Recommended) |
-| [Codex CLI](https://github.com/openai/codex) | OpenAI's terminal agent. Fast, lightweight |
-| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google's CLI agent. Generous free tier |
-| [OpenCode](https://github.com/opencode-ai/opencode) | Model-agnostic. Works with any LLM provider |
-| [Aider](https://aider.chat) | Git-focused. Auto-commits with clear messages |
+| [Codex CLI](https://github.com/openai/codex)                  | OpenAI's terminal agent. Fast, lightweight                                |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli)     | Google's CLI agent. Generous free tier                                    |
+| [OpenCode](https://github.com/opencode-ai/opencode)           | Model-agnostic. Works with any LLM provider                               |
+| [Aider](https://aider.chat)                                   | Git-focused. Auto-commits with clear messages                             |
 
 **Example prompt** (works with any of the above):
 
@@ -304,7 +306,7 @@ That's it. Once your coding agent is running, you communicate in plain English.
 | **Codex CLI**                 | [github.com/openai/codex](https://github.com/openai/codex)                                                                   |
 | **Gemini CLI**                | [github.com/google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)                                           |
 | **OpenCode**                  | [github.com/opencode-ai/opencode](https://github.com/opencode-ai/opencode)                                                   |
-| **Aider**                     | [aider.chat](https://aider.chat)                                                                                              |
+| **Aider**                     | [aider.chat](https://aider.chat)                                                                                             |
 | **Anam**                      | [anam.ai](https://www.anam.ai/)                                                                                              |
 | **Thymia**                    | [thymia.ai](https://thymia.ai/)                                                                                              |
 | **OpenAI API Keys**           | [platform.openai.com](https://platform.openai.com/settings/organization/api-keys)                                            |

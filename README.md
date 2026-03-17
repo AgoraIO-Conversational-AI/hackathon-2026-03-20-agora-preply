@@ -30,6 +30,8 @@ Build AI-powered language learning experiences using Agora's Conversational AI E
 - Accelerating Learning with Agents — Build AI tutors that adapt to individual learning styles and pace
 - Live Learning & Real-Time Context — Create immersive conversational experiences with real-time feedback
 
+💡 Need inspiration? Check out the [Thought Starters](./Thought_Starters.md) for project ideas.
+
 ### Recommended Technologies
 
 - Agora Conversational AI Engine
@@ -69,7 +71,8 @@ Go above and beyond for extra credit:
 
 - ⭐ Integration of third-party APIs (Anam avatars, Thymia biomarkers, OpenAI, etc.)
 - ⭐ Use of multiple Agora products together
-- ⭐ Language learning increased engagement
+- ⭐ Features that increase learner engagement
+- ⭐ **AI Craftsmanship** — Show us *how* you built with AI. Include your planning process, prompting strategies, model choices, test-driven workflows, and iteration logs. See [How We Built This](#how-we-built-this) below.
 
 ---
 
@@ -119,18 +122,22 @@ cd hackathon-2026-03-20-agora-preply
 Inside the `submissions/` directory, create a new folder using your team name.  
 Example:
 
+```
 submissions/
 ├── team-name/
-│ ├── README.md # (Required: Describe your project)
-│ ├── demo.mp4 # (Required: A demo video)
-│ ├── src/ # (Your source code)
-│ └── docs/ # (Any documentation or images)
+│   ├── README.md          # (Required: Describe your project)
+│   ├── HOW_WE_BUILT.md    # (Recommended: Your AI development process — see below)
+│   ├── demo.mp4           # (Required: A demo video)
+│   ├── src/               # (Your source code)
+│   └── docs/              # (Any documentation or images)
+```
 
 ### **4. Work on Your Project**
 
 - Develop your project inside your team folder.
 - Include a `README.md` file explaining your project, its setup, and usage. Include any special instructions to run it.
 - Include a short demo video or screenshots in the `docs/` folder.
+- Include a `HOW_WE_BUILT.md` documenting your AI development process (see [How We Built This](#how-we-built-this) below).
 
 ### **5. Commit and Push Changes**
 
@@ -154,6 +161,22 @@ git push
 
 ---
 
+<a id="how-we-built-this"></a>
+
+## 🤖 **How We Built This (HOW_WE_BUILT.md)**
+
+We want to see *how* you work with AI, not just what you built. Include a `HOW_WE_BUILT.md` in your team folder covering any of the following:
+
+- **Planning** — How did you use AI to plan your architecture, break down tasks, or explore approaches?
+- **Model choices** — Which AI models/tools did you use for development and why? (Claude Code, Codex CLI, Gemini CLI, Copilot, Lovable, v0, etc.)
+- **Prompting strategies** — What prompting techniques worked well? What didn't? Share example prompts that led to breakthroughs.
+- **Testing & iteration** — How did you verify AI-generated code? Did you use test-driven development, manual testing, or AI-assisted debugging?
+- **Challenges & pivots** — Where did AI struggle? How did you course-correct?
+
+This doesn't need to be long — a few paragraphs with concrete examples is enough. Screenshots of prompts, conversation logs, or before/after iterations are great. This feeds into the **AI Craftsmanship** bonus when judging.
+
+---
+
 ## 🏆 **Judging Criteria**
 
 Projects will be evaluated based on:
@@ -164,6 +187,7 @@ Projects will be evaluated based on:
 ✅ **Technical Execution** (20%) – Code quality, architecture decisions, and effective integration of Agora
 ✅ **Documentation and Ease of Testing** (20%) – Quality of documentation and how easily judges can test the language learning experience
 ✅ **User Experience** (20%) – Quality of the learner experience — natural conversation flow, helpful feedback, and engaging interaction
+⭐ **AI Craftsmanship** (bonus, up to +1) – Documented AI development process via `HOW_WE_BUILT.md` (see above)
 
 ### Judging Panel
 

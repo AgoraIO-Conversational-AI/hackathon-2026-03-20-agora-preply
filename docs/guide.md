@@ -1,6 +1,6 @@
 # Build Voice & Video AI Agents in Minutes — A Hackathon Starter Guide
 
-Whether you're joining the Agora + Anam + Thymia hackathon or just exploring conversational AI for the first time, this guide gets you from zero to a working AI agent you can talk to. The entire setup takes one prompt to an AI coding assistant.
+Whether you're joining the Preply x Agora hackathon or just exploring conversational AI for the first time, this guide gets you from zero to a working AI agent you can talk to. The entire setup takes one prompt to an AI coding assistant.
 
 > **Note:** This guide focuses on Agora Conversational AI — the most popular path for this hackathon. However, the hackathon accepts **any Agora product** (RTC, RTM, App Builder, Cloud Recording). See the [hackathon README](../README.md) for the full list of accepted technologies.
 
@@ -267,15 +267,7 @@ Within 30-60 seconds of speaking, biomarker scores start appearing. The AI thera
 
 ## Hackathon Ideas
 
-With Agora + Anam + Thymia as your foundation, here are starting points:
-
-**Wellness coach with a face** — Combine Anam avatar with Thymia biomarkers. The AI therapist shows empathy through facial expressions while responding to real-time stress and emotion data.
-
-**Interview practice tool** — Use Thymia to track stress and confidence levels during mock interviews. The agent gives feedback based on vocal biomarkers, not just what you said.
-
-**Language learning with emotion tracking** — An AI tutor that detects frustration or fatigue and adjusts lesson difficulty in real-time.
-
-**Accessibility companion** — A voice-first agent with avatar presence for users who benefit from visual feedback alongside conversation.
+See the [Thought Starters](../Thought_Starters.md) for project ideas covering language anxiety coaching, pronunciation practice, avatar tutors, mock interview prep, cultural conversation partners, progress dashboards, and group language exchange.
 
 **Custom LLM middleware** — The Custom LLM server pattern lets you intercept every LLM call. Add RAG, tool calling, conversation memory, or any custom processing without touching the backend or client code.
 

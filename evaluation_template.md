@@ -6,9 +6,9 @@
 
 ## Scoring Sheet
 
-| Name           | Innovation (15%) | Functionality (20%) | Impact (5%)    | Technical Execution (20%) | Documentation and Ease of Testing (20%) | User Experience (20%) | Bonus Point | Total Score | Notes                      |
-| -------------- | ---------------- | ------------------- | -------------- | ------------------------- | --------------------------------------- | --------------------- | ----------- | ----------- | -------------------------- |
-| [Project Name] | PTS \* (.0.15)   | PTS \* (.0.20)      | PTS \* (.0.05) | PTS \* (.0.20)            | PTS \* (.0.20)                          | PTS \* (.0.20)        | +Bonus_PTS  | \_\_        | [Brief overall assessment] |
+| Name           | Innovation (15%) | Functionality (20%) | Impact (5%)    | Technical Execution (20%) | Documentation and Ease of Testing (20%) | User Experience (20%) | AI Craftsmanship Bonus | Total Score | Notes                      |
+| -------------- | ---------------- | ------------------- | -------------- | ------------------------- | --------------------------------------- | --------------------- | ---------------------- | ----------- | -------------------------- |
+| [Project Name] | PTS \* (0.15)    | PTS \* (0.20)       | PTS \* (0.05)  | PTS \* (0.20)             | PTS \* (0.20)                           | PTS \* (0.20)         | +\_\_ (0-1 combined)   | \_\_        | [Brief overall assessment] |
 
 ## Scoring Details
 
@@ -23,7 +23,9 @@ Originality of the language learning concept and creative use of AI agent capabi
 
 **Strengths:**
 
-- **Areas for Improvement:**
+-
+
+**Areas for Improvement:**
 
 -
 
@@ -38,7 +40,9 @@ How well the language learning agent works — conversation quality, accuracy, a
 
 **Strengths:**
 
-- **Areas for Improvement:**
+-
+
+**Areas for Improvement:**
 
 -
 
@@ -53,7 +57,9 @@ Potential to improve real-world language learning outcomes
 
 **Strengths:**
 
-- **Areas for Improvement:**
+-
+
+**Areas for Improvement:**
 
 -
 
@@ -68,7 +74,9 @@ Code quality, architecture decisions, and effective integration of Agora
 
 **Strengths:**
 
-- **Areas for Improvement:**
+-
+
+**Areas for Improvement:**
 
 -
 
@@ -83,7 +91,9 @@ Quality of documentation and how easily judges can test the language learning ex
 
 **Strengths:**
 
-- **Areas for Improvement:**
+-
+
+**Areas for Improvement:**
 
 -
 
@@ -98,21 +108,54 @@ Quality of the learner experience — natural conversation flow, helpful feedbac
 
 **Strengths:**
 
-- **Areas for Improvement:**
+-
+
+**Areas for Improvement:**
 
 -
 
-## Bonus Point
+## Bonus Points (up to +1 total)
 
-**Score: +\_\_**
+All bonus factors are evaluated together and contribute to a **single combined bonus score of 0 to +1**.
 
-[Evaluate any bonus criteria such as use of additional Agora products, exceptional innovation, etc.]
+### AI Craftsmanship
+
+_How intentionally and skillfully did the team use AI as a development tool?_
+
+Evaluate based on their `HOW_WE_BUILT.md`:
+
+- **Planning with AI** — Did they use AI to plan architecture, break down tasks, or explore approaches?
+- **Model/tool choices** — Did they make deliberate choices about which AI tools to use and explain why?
+- **Prompting strategies** — Do they share specific prompts, techniques, or examples that worked (or didn't)?
+- **Testing & iteration** — Did they verify AI-generated code through testing, debugging, or iterative refinement?
+- **Honest reflection** — Do they describe challenges, failures, and course-corrections?
+
+| Score | Criteria    |
+| ----- | ----------- |
+| +1.0  | Comprehensive build log with specific prompts, model selection rationale, test-driven AI workflow, and honest reflection. Judges can learn from this team's process. |
+| +0.75 | Solid AI workflow documentation with concrete examples covering planning, prompting, and iteration. |
+| +0.5  | Useful detail on AI tools and general approach, but lacks specific examples or iteration history. |
+| +0.25 | Brief mention of AI tools used with minimal process detail. |
+| +0    | No HOW_WE_BUILT.md or no meaningful documentation of AI process. |
+
+**Evaluation Notes:**
+[Provide detailed feedback on AI craftsmanship]
+
+### Other Bonus Factors
+
+[Consider: use of multiple Agora products, third-party API integrations (Anam, Thymia), features that increase learner engagement]
 
 **Notes:**
 
+### Combined Bonus Score
+
+**Bonus: +\_\_ / 1.0**
+
+[Considering all bonus factors above, award a single combined bonus score from 0 to 1.0]
+
 ## Total Score
 
-**Final Score: \_\_/5**
+**Final Score: \_\_/5 (+\_\_ bonus = \_\_ total)**
 
 ## Overall Feedback
 

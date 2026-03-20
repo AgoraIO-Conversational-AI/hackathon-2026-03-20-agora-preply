@@ -55,7 +55,7 @@ Everything you need to get an Agora Conversational voice or video AI agent runni
 | 5:00 PM | Award ceremony |
 | 5:00-6:00 PM | Networking & closing |
 
-**Teams:** Organized via Discord channels. Each team gets a name, channel, and number. Unassigned participants will be placed by Borys and Tamas.
+**Teams:** Organized via [Discord](https://discord.gg/bRgGaYCr) channels. Each team gets a name, channel, and number. Unassigned participants will be placed by Borys and Tamas.
 
 ---
 

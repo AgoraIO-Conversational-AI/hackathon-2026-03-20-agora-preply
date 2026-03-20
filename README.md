@@ -240,7 +240,7 @@ Each judge scores every category 1-5. All categories are weighted equally at 20%
 
 ## ❓ **Need Help?**
 
-For any questions, join our [Discord](https://discord.gg/kS7etQFKC).
+For any questions, join our [Discord](https://discord.gg/bRgGaYCr).
 
 For urgent matters during the event, reach out to the organizers directly at the venue.
 

@@ -1,0 +1,2438 @@
+{
+  "lesson_id": "emu-uk-en-b2-01",
+  "teacher_id": "teacher-rachel",
+  "student_ids": [
+    "student-andrii"
+  ],
+  "subject_type": "language",
+  "subject_config": {
+    "language_pair": "uk-en",
+    "l1": "Ukrainian",
+    "l2": "English"
+  },
+  "date": "2026-03-20",
+  "duration_minutes": 60,
+  "utterances": [
+    {
+      "speaker": "Rachel",
+      "text": "Hi Andrii! How's your week been?",
+      "timestamp": "00:00",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Hey Rachel! I'm okay, a bit tired actually. We had a huge release at work on Thursday and I was up until two in the morning debugging authentication issues.",
+      "timestamp": "00:08",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Oh no. Did you manage to rest this weekend?",
+      "timestamp": "00:21",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Well, on Saturday I mostly was sleeping. I mean, I slept most of the day. Then Sunday my friend Dmytro invited me to try a new coffee place in Podil.",
+      "timestamp": "00:29",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Podil has great cafes now.",
+      "timestamp": "00:44",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Yes, it's crazy how much it changed. Five years ago it was completely different area. Now every second building is a coffee shop or coworking space.",
+      "timestamp": "00:51",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "A completely different area, yes. Did you see any interesting tech news?",
+      "timestamp": "01:04",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Actually yes! I read that EU is planning new regulations for AI companies. They want to force companies to reveal what data they use for training. And I think the transparency is very important because nobody knows what these companies do with our data.",
+      "timestamp": "01:13",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That's relevant to today's topic. We're going to discuss data privacy and technology.",
+      "timestamp": "01:29",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Oh, perfect. I have strong opinions about this topic.",
+      "timestamp": "01:39",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That's a really interesting point about the AI regulations. Do you follow EU tech policy closely?",
+      "confidence": 0.94,
+      "timestamp": "01:42"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I follow it because it directly affects my work. When EU changes rules, we have to update our systems. Last year we spent three months adapting to the Digital Services Act requirements.",
+      "confidence": 0.85,
+      "timestamp": "01:45"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Three months is significant. That's a real cost for companies.",
+      "confidence": 0.93,
+      "timestamp": "01:48"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Good. But first - what does data privacy mean to you personally?",
+      "timestamp": "01:51",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "For me, the privacy means that I control what information about me is available to others. I should be the one who decides who can see my data, not some corporation.",
+      "timestamp": "01:56",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "You said 'the privacy means' - do we need 'the' when talking about privacy as a general concept?",
+      "timestamp": "02:12",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Hmm... no? Privacy means... just privacy, without the? Because it's abstract noun?",
+      "timestamp": "02:22",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Exactly. We'll work on this more later. I've sent you a short article from The Guardian about social media data collection. Read the first three paragraphs.",
+      "timestamp": "02:31",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Okay, give me a minute.",
+      "timestamp": "02:46",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Take your time.",
+      "timestamp": "02:52",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "This article is quite dense. Some interesting vocabulary here.",
+      "confidence": 0.87,
+      "timestamp": "02:56"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Take as long as you need. Highlight any words you don't know.",
+      "confidence": 0.94,
+      "timestamp": "03:10"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "I should mention that we're going to cover quite a lot today - article discussion, language focus on articles and prepositions, a structured debate, and some formal register practice. It's a packed lesson but I think you'll enjoy it.",
+      "confidence": 0.95,
+      "timestamp": "03:13"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Sounds great. I like when lessons have variety.",
+      "confidence": 0.89,
+      "timestamp": "03:17"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I think I know most of them. Okay, almost done.",
+      "confidence": 0.88,
+      "timestamp": "03:24"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Okay, I read it. So basically the article says that companies like Meta and Google collect much more data than people realize. They track not only what you post but also your location, browsing history, and how long you look at specific content.",
+      "timestamp": "03:42",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Good summary. What struck you most?",
+      "timestamp": "03:59",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "The part about eye tracking. I didn't know about this. I work in IT sector and even I didn't know they could track eye movements through cameras.",
+      "timestamp": "04:07",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Can you read the second paragraph aloud for me?",
+      "timestamp": "04:20",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "'The proliferation of data collection practices has raised significant concerns among privacy advocates. In recent years, tech giants have developed increasingly sophisticated methods to harvest user data, often without explicit consent. This data, which includes browsing habits, location history, and social connections, is then monetized through targeted advertising.'",
+      "timestamp": "04:30",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Well read. What does 'proliferation' mean?",
+      "timestamp": "04:55",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I think it means spreading quickly? When something grows and becomes more common? We have similar word in Ukrainian - 'proliferatsia' - but mostly in nuclear context.",
+      "timestamp": "05:04",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Exactly. And 'harvest' here is metaphorical. What does it imply?",
+      "timestamp": "05:17",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Normally harvest is about collecting crops from the field. So here they say companies collect data like farmers collect wheat. It sounds very... I don't know the word... like we are the crop. Humans are just resources to be collected.",
+      "timestamp": "05:25",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Rachel",
+      "text": "And you mentioned VPN and Signal. How many of your friends also take those precautions?",
+      "confidence": 0.93,
+      "timestamp": "05:29"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Almost nobody. My friends think I'm paranoid. They say 'Andrii, who cares about your data, you're not that important.' But that's exactly the problem - people think surveillance only matters if you're someone important.",
+      "confidence": 0.84,
+      "timestamp": "05:32"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That's a common attitude, isn't it?",
+      "confidence": 0.93,
+      "timestamp": "05:35"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Yes, and it's wrong. Mass surveillance works precisely because it collects data from everyone, not just important people. The patterns are what matter, not any individual piece of data.",
+      "confidence": 0.85,
+      "timestamp": "05:38"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "The word might be 'dehumanizing'.",
+      "timestamp": "05:44",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Yes! Dehumanizing. The technology treats people like a resource.",
+      "timestamp": "05:50",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Rachel",
+      "text": "What about the phrase 'pervasive surveillance' in that paragraph? What does 'pervasive' mean to you?",
+      "confidence": 0.94,
+      "timestamp": "05:53"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Pervasive means it's everywhere, you can't escape it. Like, surveillance is not just in one place - it's in your phone, your computer, street cameras, your smart TV. It's all around you.",
+      "confidence": 0.84,
+      "timestamp": "05:56"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Good definition. The idea that there's no escape from it.",
+      "confidence": 0.93,
+      "timestamp": "05:59"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Now the third paragraph.",
+      "timestamp": "06:02",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "'Critics argue that the current regulatory framework is insufficient to protect individuals from pervasive surveillance. While the European Union's General Data Protection Regulation has set a global benchmark, enforcement remains inconsistent, and many countries lack comparable legislation.'",
+      "timestamp": "06:08",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Your reaction?",
+      "timestamp": "06:33",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I completely agree. GDPR is a good start but not enough. In Ukraine we have a law about protection of personal data from 2010, but enforcement is very weak. Nobody follows it.",
+      "timestamp": "06:40",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Rachel",
+      "text": "How does that compare to the Kyiv tech scene?",
+      "timestamp": "06:55",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "There's a double standard. Many Ukrainian startups work with European clients so they follow GDPR anyway. Everything is strict - encryption, consent forms, data processing agreements. But for Ukrainian market, standards are much lower. It depends from the client basically.",
+      "timestamp": "07:03",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Andrii",
+      "text": "You know what really bothers me? Dark patterns. When websites design the 'accept all cookies' button to be big and green, and the 'reject' option is hidden in tiny gray text. This is manipulative design.",
+      "confidence": 0.83,
+      "timestamp": "07:07"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Dark patterns - good technical term. Can you give another example?",
+      "confidence": 0.94,
+      "timestamp": "07:10"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Sure. When you try to delete your Facebook account, they show you photos of your friends and say 'these people will miss you'. It's designed to make you feel guilty about leaving. That's not consent - that's emotional manipulation.",
+      "confidence": 0.82,
+      "timestamp": "07:13"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That's a really vivid example.",
+      "confidence": 0.93,
+      "timestamp": "07:16"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "The article mentions 'surveillance capitalism'. Know the term?",
+      "timestamp": "07:22",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Yes! I read Shoshana Zuboff's book, well, half of it - it's 700 pages. The main idea is companies make money by watching us and predicting behavior. I think the capitalism always finds new ways to make money from people - first labor, then attention, now data.",
+      "timestamp": "07:30",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Rachel",
+      "text": "You see it as evolution?",
+      "timestamp": "07:50",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Yes, but the difference is important. With the traditional capitalism, you know what you give - eight hours of work for a salary. But with surveillance capitalism, people don't realize they're giving anything. They think Facebook is free. Actually they pay with data worth billions.",
+      "timestamp": "07:56",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "A specific example from your own experience?",
+      "timestamp": "08:15",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Rachel",
+      "text": "I think what's particularly interesting about this article is that it highlights the tension between innovation and regulation. The author clearly favors stronger regulation but also acknowledges the complexity of implementing it across different legal systems and cultures.",
+      "confidence": 0.95,
+      "timestamp": "08:18"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Yes, I noticed that nuance too.",
+      "confidence": 0.88,
+      "timestamp": "08:21"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Last week I was talking with my wife about buying a new sofa. Just verbal conversation at home, no internet searches. Next day - sofa advertisements on Instagram. Either my phone was listening or algorithms predicted we'd want a sofa from other data. Both options are terrifying.",
+      "timestamp": "08:24",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Do you genuinely think the phone was listening?",
+      "timestamp": "08:41",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "As programmer, I know microphone access is controlled by the OS and constant recording would drain battery. But the algorithms are incredibly sophisticated - maybe they analyzed our purchase history, browsing patterns, the age of our furniture, and predicted we'd need a sofa. Which is almost scarier than listening.",
+      "timestamp": "08:50",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Do you personally use Diia?",
+      "confidence": 0.93,
+      "timestamp": "08:54"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Yes, I have to. It's become almost mandatory for many government services. And to be honest, it's very convenient. I don't need to carry physical documents anymore. But I'm always thinking about what happens if the database is hacked.",
+      "confidence": 0.84,
+      "timestamp": "08:57"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "And has it been hacked?",
+      "confidence": 0.93,
+      "timestamp": "09:00"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Not officially, but there were reports of data leaks from related government systems. In Ukraine we have a saying - 'your data is already on the darknet, just relax'. It's a joke but it's also kind of true.",
+      "confidence": 0.82,
+      "timestamp": "09:03"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "I want to come back to something. You said 'the capitalism always finds new ways' and 'the traditional capitalism'. Do we use 'the' before capitalism as a concept?",
+      "timestamp": "09:10",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Ah, no. Same as privacy. Capitalism - abstract noun, no article. Even with adjective - 'traditional capitalism' without 'the'. I know this but I automatically add 'the'.",
+      "timestamp": "09:23",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Good. Let's continue with the article. Is there a fair trade between convenience and privacy?",
+      "timestamp": "09:36",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Most people choose convenience because they don't understand consequences. My parents use all Google services - Gmail, Maps, Photos - and have no idea how much data Google has. They think they use 'free email'. The gap between what people think they give and what they actually give is enormous.",
+      "timestamp": "09:44",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Have you ever tried to see what data companies have on you? Under GDPR you can request it.",
+      "confidence": 0.94,
+      "timestamp": "09:47"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Yes! I requested my data from Google once. They sent me a file that was several gigabytes. It had every search I ever made, every place I visited with my phone, every YouTube video I watched. Ten years of my life in a zip file. It was honestly shocking.",
+      "confidence": 0.82,
+      "timestamp": "09:50"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That must have been eye-opening.",
+      "confidence": 0.93,
+      "timestamp": "09:53"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Very much. I deleted my Google account after that. Well, I tried to. It's actually very difficult to completely leave Google ecosystem when you use Android phone.",
+      "confidence": 0.84,
+      "timestamp": "09:56"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "And you personally?",
+      "timestamp": "10:03",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I try to protect myself - VPN, Signal instead of WhatsApp, Firefox with privacy extensions, no Facebook account. But it's impossible to completely avoid tracking. My friends tag me in photos, mention my name in group chats. The system has information about me even without my participation.",
+      "timestamp": "10:09",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That's called a 'data shadow' - you cast a digital shadow even without engaging.",
+      "timestamp": "10:28",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Data shadow! Great metaphor. You can't escape your shadow because other people create it for you.",
+      "timestamp": "10:36",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "What about consent with social media?",
+      "timestamp": "10:46",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Consent is a joke on the internet. Nobody reads terms of service. I am software engineer and even I don't read them. Companies make it intentionally complicated - pages of legal text. You have two choices: agree to everything or don't use service.",
+      "timestamp": "10:54",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'I am software engineer' - what's missing?",
+      "timestamp": "11:11",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Oh, I am a software engineer. Always forget articles with professions. In Ukrainian we say 'ya programist' - no article at all.",
+      "timestamp": "11:18",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Right - singular countable nouns need the indefinite article. What alternatives exist to the consent model?",
+      "timestamp": "11:29",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Apple's privacy labels are one approach - you see what each app collects before installing. But people still don't understand categories. Another is subscription models. But if you would tell people to pay five dollars per month for Facebook, they'd refuse.",
+      "timestamp": "11:39",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'If you would tell people' - conditional rule?",
+      "timestamp": "11:57",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Let me give you one more. Blank education is the key to progress.",
+      "confidence": 0.94,
+      "timestamp": "12:01"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Education. No article. General concept.",
+      "confidence": 0.87,
+      "timestamp": "12:04"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "And: Blank education that you receive at university shapes your career.",
+      "confidence": 0.94,
+      "timestamp": "12:07"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "The education that you receive. Specific because of 'that you receive at university'.",
+      "confidence": 0.84,
+      "timestamp": "12:10"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "You've got the pattern. Very good.",
+      "confidence": 0.93,
+      "timestamp": "12:13"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "If you told people... second conditional. Past simple in if-clause, would in main clause. Ukrainian 'yakscho b' is literally 'if would' so I translate directly.",
+      "timestamp": "12:16",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Good correction. Should governments step in?",
+      "timestamp": "12:19",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Definitely. Free market won't solve this. Companies are interested about collecting more data, not less. Self-regulation is like asking wolf to guard sheep.",
+      "timestamp": "12:26",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Let me give you a few more preposition tests. What about 'responsible'?",
+      "confidence": 0.94,
+      "timestamp": "12:30"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Responsible for? Companies are responsible for protecting user data.",
+      "confidence": 0.85,
+      "timestamp": "12:33"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Good. And 'consist'?",
+      "confidence": 0.93,
+      "timestamp": "12:36"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Consist of. The team consists of five developers.",
+      "confidence": 0.86,
+      "timestamp": "12:39"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'Focus'?",
+      "confidence": 0.93,
+      "timestamp": "12:42"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Focus on. We should focus on the most critical issues. This one I know well.",
+      "confidence": 0.85,
+      "timestamp": "12:45"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'Interested about' - what preposition?",
+      "timestamp": "12:48",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Interested in! Sorry. In Ukrainian the preposition is different and I pick wrong one in English.",
+      "timestamp": "12:51",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Always 'in'. What about Cambridge Analytica?",
+      "timestamp": "12:57",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "They used Facebook data to build psychological profiles of voters and target them with political ads. Used in Brexit and American elections. The scariest part - it showed data can manipulate the democracy. When someone changes how millions vote, that's a threat to the society.",
+      "timestamp": "13:06",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'Manipulate the democracy' and 'threat to the society' - abstract nouns again.",
+      "timestamp": "13:26",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Manipulate democracy. Threat to society. No 'the'. I keep doing this! When thinking about ideas, the articles just come out wrong.",
+      "timestamp": "13:34",
+      "confidence": 0.76
+    },
+    {
+      "speaker": "Rachel",
+      "text": "You're catching them faster though. Could Cambridge Analytica happen in Ukraine?",
+      "timestamp": "13:45",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Probably already happens. Ukrainian politics is opaque and corrupt. If you can buy votes with cash, imagine what you can do with psychological profiling. Political campaigns already use Facebook ads heavily.",
+      "timestamp": "13:54",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Tell me about the Diia app.",
+      "timestamp": "14:10",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Diia is government app that digitizes all documents - passport, driver license, tax number. Ukraine was one of first countries to do this nationally. Very innovative. But raises privacy concerns. Many people discussed about this when it launched.",
+      "timestamp": "14:17",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'Discussed about' - in English we discuss something directly, no 'about'.",
+      "timestamp": "14:35",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Right, discussed this. In Ukrainian 'obhovoryvaly pro tse' uses preposition 'pro' so I transfer it. The question with Diia is whether you trust government with all your data. After Soviet experience, many Ukrainians are very suspicious.",
+      "timestamp": "14:44",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Rachel",
+      "text": "How does Soviet legacy influence attitudes toward surveillance?",
+      "timestamp": "15:00",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Rachel",
+      "text": "You're making really thoughtful points about the Ukrainian context. I think having that personal connection to the topic makes your arguments much more compelling than abstract philosophical positions.",
+      "confidence": 0.95,
+      "timestamp": "15:03"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Thank you. It's easier to talk about things you actually experienced.",
+      "confidence": 0.87,
+      "timestamp": "15:06"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "My grandparents told me stories about KGB watching everyone. People were afraid to speak openly because neighbors could be informants. My grandmother never discussed politics at home. So when Ukrainians see any surveillance, even digital, they get nervous. But young people don't care - they share everything on Instagram like everywhere.",
+      "timestamp": "15:09",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That generational divide is fascinating. The 'nothing to hide' argument - what's your take?",
+      "timestamp": "15:28",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Rachel",
+      "text": "What about the cost argument? Regulation is expensive for companies to comply with. Small startups can't afford compliance departments.",
+      "confidence": 0.94,
+      "timestamp": "15:32"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "This is valid concern for small companies. But there are solutions - tiered regulation based on company size, grace periods for startups, shared compliance tools. GDPR already has some of these provisions.",
+      "confidence": 0.83,
+      "timestamp": "15:35"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "But in practice, those provisions are complex and confusing.",
+      "confidence": 0.93,
+      "timestamp": "15:38"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "True, implementation can be improved. But the principle is sound. We don't say 'small restaurants shouldn't follow hygiene rules because compliance is expensive'. We help them comply.",
+      "confidence": 0.84,
+      "timestamp": "15:41"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I hate this argument so much. The freedom of speech and the privacy are fundamental rights. You don't need to justify why you want them. It's like saying 'if you have nothing to say, why need freedom of speech?' The whole point of rights is you have them regardless.",
+      "timestamp": "15:44",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Great comparison. And the articles crept back - 'the freedom of speech', 'the privacy' as general concepts.",
+      "timestamp": "15:55",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Ugh! Freedom of speech and privacy. No 'the'. When I get emotional all grammar monitoring turns off. The more passionate I am, the worse the articles get.",
+      "timestamp": "16:03",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That's natural - passion overrides monitoring. It's real communication. Now, the article talks about a 'post-privacy' world. What does that mean to you?",
+      "timestamp": "16:15",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "It means privacy won't exist in the future. Everything tracked, and people will accept it as normal. That worries me. I think the privacy is one of most important rights. Without it, no real freedom.",
+      "timestamp": "16:27",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'The privacy' again.",
+      "timestamp": "16:42",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Privacy! Just privacy! I will get this right eventually.",
+      "timestamp": "16:47",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "Rachel",
+      "text": "You will. Do you think education is part of the solution?",
+      "timestamp": "16:55",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Schools should teach digital privacy from early age. Ukrainian education system is still very traditional - math and literature but nothing about online safety or data protection.",
+      "timestamp": "17:02",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'From an early age' - we need the article there. Good. What about big tech self-regulation?",
+      "timestamp": "17:17",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Absolutely not. These companies make billions from data collection. Asking them to self-regulate is like asking tobacco companies to reduce cigarette sales. Look at Facebook - promised to protect data after Cambridge Analytica, then more breaches, then sharing with third parties. Every time they say 'we take privacy seriously' and do the opposite.",
+      "timestamp": "17:26",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "What role do whistleblowers play in this? Think of people like Edward Snowden or Frances Haugen.",
+      "confidence": 0.94,
+      "timestamp": "17:29"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Whistleblowers are essential. Without Snowden, we wouldn't know about NSA mass surveillance. Without Haugen, we wouldn't know how Facebook deliberately amplifies harmful content. These people risked everything to tell truth.",
+      "confidence": 0.83,
+      "timestamp": "17:32"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "You said 'to tell truth' - what's missing there?",
+      "confidence": 0.93,
+      "timestamp": "17:35"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "To tell the truth. Here 'the' is needed because it's a specific truth - the truth about what these companies were doing. Not truth in general but the specific truth they revealed.",
+      "confidence": 0.82,
+      "timestamp": "17:38"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Excellent reasoning about when 'the' IS needed. Good.",
+      "confidence": 0.94,
+      "timestamp": "17:41"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "But couldn't competition solve this?",
+      "timestamp": "17:48",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "No, because of network effects. Social network is only valuable if friends are there. You can't leave Facebook because everyone is there - work groups, family photos, event invitations. And alternatives are owned by same companies - Instagram is Meta, WhatsApp is Meta. Where do you go?",
+      "timestamp": "17:55",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Good point about network effects. Now let's focus on language patterns. The biggest one: overusing 'the' with abstract nouns.",
+      "timestamp": "18:13",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I know. Ukrainian has no articles at all so the whole system is foreign to me.",
+      "timestamp": "18:25",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "When we talk about privacy, freedom, democracy as general concepts - zero article. But sometimes we DO use 'the'. When?",
+      "timestamp": "18:33",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "When it's specific? Like 'the privacy of the user' because 'of the user' limits it? Or 'the technology that Apple uses' because the relative clause makes it specific?",
+      "timestamp": "18:45",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Exactly. Let me test you. Blank freedom is a fundamental right.",
+      "timestamp": "19:00",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Freedom. No article.",
+      "timestamp": "19:06",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Rachel",
+      "text": "One more hedging challenge. 'Social media is destroying democracy and nobody cares.' Formally?",
+      "confidence": 0.94,
+      "timestamp": "19:09"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "There is growing concern among political scientists that social media platforms may be contributing to democratic erosion through the amplification of misinformation and the fragmentation of public discourse. However, it would be premature to draw definitive conclusions without further longitudinal research.",
+      "confidence": 0.79,
+      "timestamp": "19:12"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'Longitudinal research' - very academic. Where did you pick that up?",
+      "confidence": 0.93,
+      "timestamp": "19:15"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "From reading research papers about software quality metrics. We use longitudinal studies to track code quality over time. I just applied the concept to a different domain.",
+      "confidence": 0.85,
+      "timestamp": "19:18"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Blank technology that we use daily was unimaginable thirty years ago.",
+      "timestamp": "19:21",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "The technology that we use. Specific because of 'that we use'.",
+      "timestamp": "19:24",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "In blank modern society, people spend too much time online.",
+      "timestamp": "19:28",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Rachel",
+      "text": "What about the cultural argument? Different cultures have different expectations about privacy. In some Asian cultures, collective harmony is more important than individual privacy.",
+      "confidence": 0.94,
+      "timestamp": "19:32"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "It could be argued that cultural context is important, but there is also evidence to suggest that certain fundamental rights transcend cultural boundaries. The Universal Declaration of Human Rights includes privacy as a fundamental right, and it was created with input from diverse cultural perspectives.",
+      "confidence": 0.8,
+      "timestamp": "19:35"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Good use of hedging. But some would say the Universal Declaration reflects Western values.",
+      "confidence": 0.94,
+      "timestamp": "19:38"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "One might consider that this argument is sometimes used by authoritarian governments to justify surveillance practices. While cultural sensitivity is important, using cultural relativism to deny basic human rights is problematic.",
+      "confidence": 0.8,
+      "timestamp": "19:41"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "In modern society. Without 'the'. But I always want to say 'in the modern society'. It sounds more natural to me.",
+      "timestamp": "19:44",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That instinct comes from Ukrainian. Generic use needs zero article. Now prepositions. 'Depends from'?",
+      "timestamp": "19:47",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Depends on. Ukrainian 'vid' means 'from' but English uses 'on'. Depend on, rely on.",
+      "timestamp": "19:54",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'Interested'?",
+      "timestamp": "20:06",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Interested in. Not about.",
+      "timestamp": "20:11",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'Discussed about'?",
+      "timestamp": "20:18",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Discuss is transitive. No preposition. Ukrainian needs one, English doesn't.",
+      "timestamp": "20:23",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'Result' - this action resulted blank a disaster.",
+      "timestamp": "20:33",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Resulted in a disaster.",
+      "timestamp": "20:39",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Good. Collocations now. You said 'do a decision'. Correct form?",
+      "timestamp": "20:46",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Make a decision! Not do. And I said 'heavy opinion' - should be 'strong opinion'. In Ukrainian 'vazhka dumka' is 'heavy thought' so I transfer it.",
+      "timestamp": "20:54",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'Raise a question' or 'rise a question'?",
+      "timestamp": "21:08",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Raise. Raise is transitive - you raise something. Rise is intransitive - sun rises by itself.",
+      "timestamp": "21:14",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Great reasoning. Tense issue: 'I am working in tech for five years'. Why wrong?",
+      "timestamp": "21:24",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Because it started five years ago and continues now - present perfect continuous. 'I have been working in tech for five years.' Ukrainian uses present tense for both situations so I translate as present continuous.",
+      "timestamp": "21:32",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Rachel",
+      "text": "I want to point out something you're doing really well in the debate. You're anticipating my counterarguments and addressing them preemptively. That's a sophisticated argumentation strategy that many native speakers struggle with.",
+      "confidence": 0.95,
+      "timestamp": "21:35"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "It's from programming - we call it 'defensive coding'. You anticipate what can go wrong and handle it before it happens.",
+      "confidence": 0.85,
+      "timestamp": "21:40"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Conditional: 'if you would tell people'?",
+      "timestamp": "21:47",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Second conditional: if you told people, they would say no. Past simple in if-clause. Ukrainian 'yakscho b' is 'if would' so I transfer it.",
+      "timestamp": "21:56",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Rachel",
+      "text": "You know all the rules. The challenge is real-time application. Discourse markers - you overuse 'actually' as filler and 'on the other hand' without contrast.",
+      "timestamp": "22:09",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Ukrainian 'vlasne' translates as 'actually' but is used much more broadly. I need to replace some with 'well' or drop them. And 'on the other hand' should only introduce contrast, not be a general connector.",
+      "timestamp": "22:21",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Good self-analysis. Three sentences with abstract nouns, correct articles. Take your time.",
+      "timestamp": "22:36",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Privacy is becoming increasingly important in the digital age. Technology has fundamentally changed how we communicate. Democracy cannot function without transparency.",
+      "timestamp": "22:47",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "All perfect. No unnecessary articles. Ready for a debate?",
+      "timestamp": "23:02",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Always ready for a debate!",
+      "timestamp": "23:11",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Motion: 'Governments should regulate social media companies.' You argue for. I play devil's advocate. But formal register - conference speech level. 'It could be argued' not 'I think'. 'Represents a significant concern' not 'really bad'.",
+      "timestamp": "23:17",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Rachel",
+      "text": "You know, one thing that impresses me is how you can transfer concepts between your technical domain and language learning. The engineering mindset serves you well.",
+      "confidence": 0.95,
+      "timestamp": "23:20"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I think programming and language learning have a lot in common. Both have rules, both have exceptions to rules, both require practice to become fluent. The difference is computers don't judge you for making syntax errors. People sometimes do.",
+      "confidence": 0.84,
+      "timestamp": "23:23"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Ha! That's a great comparison. And I'd argue that making errors in a second language is much braver than making errors in code - there's more social vulnerability involved.",
+      "confidence": 0.94,
+      "timestamp": "23:26"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "True. When my code fails, nobody laughs. When I say 'the privacy' for the hundredth time, I feel embarrassed. Even though I shouldn't.",
+      "confidence": 0.85,
+      "timestamp": "23:29"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "You absolutely shouldn't. Every error is a sign that you're communicating, and that's what matters.",
+      "confidence": 0.94,
+      "timestamp": "23:32"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Okay. Hard to stay formal when passionate, but I'll try.",
+      "timestamp": "23:35",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Two-minute opening statement. Go.",
+      "timestamp": "23:42",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Ladies and gentlemen, I want to address an issue of critical importance for democratic institutions. The question of whether governments should regulate social media companies is not merely a policy debate - it is fundamentally about the kind of society we want to live in.",
+      "timestamp": "23:49",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Rachel",
+      "text": "One more informal-to-formal exercise. 'Big tech companies are making tons of money off our data and nobody's doing anything about it.'",
+      "confidence": 0.94,
+      "timestamp": "23:53"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Major technology corporations generate substantial revenue through the monetization of user data, yet regulatory responses have thus far proven inadequate to address the scale and scope of data exploitation.",
+      "confidence": 0.8,
+      "timestamp": "23:56"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Impressive vocabulary. 'Thus far proven inadequate' is very sophisticated.",
+      "confidence": 0.95,
+      "timestamp": "23:59"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I think I read that phrase in a Financial Times article. Sometimes phrases just stick in my memory.",
+      "confidence": 0.86,
+      "timestamp": "24:02"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Good start. Very formal. Continue.",
+      "timestamp": "24:09",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Social media companies have demonstrated repeatedly that they cannot regulate themselves. From Cambridge Analytica to numerous data breaches, when choosing between profit and user protection, they consistently choose profit. This is not because they are evil - their business model fundamentally depends on collecting and monetizing personal data.",
+      "timestamp": "24:15",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Strong argument. Continue.",
+      "timestamp": "24:35",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Furthermore, the scale of influence is unprecedented. Facebook has three billion users - more than any country. No private entity should have this much power over public discourse without democratic oversight. It could be argued that failing to regulate is itself a failure of governance.",
+      "timestamp": "24:42",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Excellent 'it could be argued'. Let me counter: government regulation leads to censorship. In China and Russia, 'regulation' means suppressing dissent.",
+      "timestamp": "25:02",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Valid concern. However, there is a fundamental difference between regulation and censorship. In democratic countries, regulation means transparent rules about data collection and user protection. It does not mean controlling speech. We regulate food safety and that doesn't mean we control what people eat.",
+      "timestamp": "25:13",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "But who draws the line? Today data protection, tomorrow content moderation.",
+      "timestamp": "25:33",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "This is slippery slope argument and I think... I mean, one might consider that democratic institutions have checks and balances to prevent overreach. Courts, free press, civil society. The slippery slope could be used against any regulation.",
+      "timestamp": "25:42",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Nice self-correction from 'I think' to 'one might consider'. Regulation stifles innovation. Most big tech is American or Chinese, not European.",
+      "timestamp": "26:00",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "This argument is fundamentally flawed. Innovation should not come at expense of rights. We don't let companies pollute rivers for innovation. European tech is growing under GDPR. The reason there's no European Facebook is first-mover advantage and network effects, not regulation.",
+      "timestamp": "26:12",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Name one European social media platform competing with Meta.",
+      "timestamp": "26:30",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Okay, there isn't one. But this is because network effects, not because regulation. Once a platform reaches critical mass, competition is nearly impossible regardless.",
+      "timestamp": "26:37",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Before we move on, let me also note that your pronunciation and intonation are very natural when you're in formal mode. You use rising intonation for questions, falling for statements, and appropriate stress patterns. That's an area where you don't need much work.",
+      "confidence": 0.95,
+      "timestamp": "26:40"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Thank you, that's nice to hear. I think watching a lot of English YouTube content helps with pronunciation. My grammar might be imperfect but at least I sound natural.",
+      "confidence": 0.85,
+      "timestamp": "26:43"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Now imagine writing a response to a customer who is worried about data security. More empathetic tone but still professional.",
+      "confidence": 0.94,
+      "timestamp": "26:46"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Thank you for reaching out with your concerns. I want to assure you that we take data security extremely seriously. Our team has implemented comprehensive measures including end-to-end encryption, regular security audits, and strict access controls. If you have specific concerns, I would be happy to schedule a call to discuss them in more detail.",
+      "confidence": 0.81,
+      "timestamp": "26:49"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That's an excellent customer-facing tone. Professional but warm. Very different register from the academic writing.",
+      "confidence": 0.94,
+      "timestamp": "26:52"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Interesting - so formal English is not one thing, it's a spectrum. Academic formal is different from business formal which is different from customer service formal.",
+      "confidence": 0.85,
+      "timestamp": "26:55"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Exactly! And being able to navigate that spectrum is what distinguishes B2 from C1. You're showing you can do it.",
+      "confidence": 0.95,
+      "timestamp": "26:58"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'Because network effects' - what's missing?",
+      "timestamp": "27:01",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Because of network effects. Dropped the preposition. 'Because of' before a noun phrase.",
+      "timestamp": "27:04",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Good catch. Authoritarian governments using regulation as cover for control?",
+      "timestamp": "27:08",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Strongest counterargument. But authoritarian regimes restrict social media regardless. China already has the Great Firewall, Russia blocks platforms whenever it wants. GDPR's existence changes nothing about what they do. We cannot let dictators dictate our policy.",
+      "timestamp": "27:16",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Social media is global but regulation is national. One country can't regulate a platform operating everywhere.",
+      "timestamp": "27:35",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "The Brussels Effect shows it can work. When EU introduced GDPR, companies complied because European market - 450 million consumers - is too big to ignore. EU regulation becomes global standard because companies prefer one set of rules. If the government will regulate... sorry, if a government regulates effectively, it sets standards worldwide.",
+      "timestamp": "27:43",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Good self-correction on 'if the government will regulate'. First conditional rule?",
+      "timestamp": "28:06",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "'If a government regulates' - present simple. No 'will' in the if-clause. I caught it this time!",
+      "timestamp": "28:15",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Let me give you one more workplace scenario. Your project manager wants to use a third-party library that you think has security vulnerabilities. How do you raise this concern?",
+      "confidence": 0.94,
+      "timestamp": "28:18"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I'd like to raise a potential concern about the proposed third-party dependency. While I appreciate that it would accelerate our development timeline, I've identified several security advisories in recent versions. Perhaps we could evaluate alternative libraries that offer similar functionality with a stronger security track record?",
+      "confidence": 0.81,
+      "timestamp": "28:21"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That was excellent. You raised the concern, offered evidence, and proposed an alternative - all without saying 'this library is dangerous, don't use it'.",
+      "confidence": 0.94,
+      "timestamp": "28:24"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Social media helped organize Maidan, Arab Spring. Regulation could suppress protests.",
+      "timestamp": "28:27",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "This is very personal. I was at Maidan in 2014. Social media was crucial - people used Facebook and Telegram to coordinate, share police movements, find medical supplies. If government controlled platforms, maybe revolution wouldn't have happened.",
+      "timestamp": "28:35",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Rachel",
+      "text": "What if a junior developer on your team writes insecure code? How do you address it formally?",
+      "confidence": 0.94,
+      "timestamp": "28:39"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I appreciate the work you've done on this feature. I noticed a few areas where we might want to strengthen the security implementation. Would you have time to review these points together? I think it would be a good learning opportunity for both of us.",
+      "confidence": 0.81,
+      "timestamp": "28:42"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Beautiful. 'Learning opportunity for both of us' is very inclusive and non-threatening.",
+      "confidence": 0.94,
+      "timestamp": "28:45"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Ha, much better than 'your code has security holes, fix it before it goes to production.' Which is closer to what I would normally say.",
+      "confidence": 0.86,
+      "timestamp": "28:48"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "How does that affect your position?",
+      "timestamp": "28:53",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "It complicates things. But the key distinction is between regulating data practices and regulating content. You can require algorithmic transparency and data protection without giving government power to block content.",
+      "timestamp": "29:00",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Formalize that distinction.",
+      "timestamp": "29:14",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "It is essential to distinguish between regulatory frameworks addressing data protection and algorithmic transparency on one hand, and content moderation policies on the other. The former can be implemented without impacting freedom of expression, while the latter carries inherent risks of censorship.",
+      "timestamp": "29:21",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That's genuinely academic quality language. Summarize your position - three sentences, formal.",
+      "timestamp": "29:41",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "In conclusion, the evidence overwhelmingly supports government regulation of social media. While concerns about censorship and innovation are valid, they can be addressed through transparent democratic processes. The cost of inaction - leaving corporations with unchecked power over public discourse - is too high to accept.",
+      "timestamp": "29:49",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Excellent. Now I want hedging practice. Respond to challenges using 'it could be argued', 'there is evidence to suggest', 'one might consider'.",
+      "timestamp": "30:09",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Ready.",
+      "timestamp": "30:23",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Young people are happy sharing data. Privacy is outdated.",
+      "timestamp": "30:28",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "It is worth noting that surveys show young people do care about privacy but express it differently. There is evidence to suggest they're more selective about what they share rather than sharing everything. It could be argued that privacy preferences are evolving, not disappearing.",
+      "timestamp": "30:36",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Rachel",
+      "text": "You know, I've been teaching English for twelve years, and I've noticed that software engineers often make very good language learners. I think it's because you're comfortable with rules, systems, and debugging - which is essentially what language correction is.",
+      "confidence": 0.95,
+      "timestamp": "30:39"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Ha, that's an interesting observation. We are used to error messages and fixing bugs. Grammar corrections are basically the same thing - the compiler tells you what's wrong and you fix it.",
+      "confidence": 0.85,
+      "timestamp": "30:46"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Natural use of hedging phrases. AI-powered surveillance could eliminate crime. Worth sacrificing privacy?",
+      "timestamp": "30:56",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "One might consider that the relationship between surveillance and crime prevention is more complex than it appears. While monitoring may deter street crime, evidence suggests limited effectiveness against organized crime. The social costs - chilling effect on speech, disproportionate impact on marginalized groups - may outweigh the benefits.",
+      "timestamp": "31:06",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Sophisticated. Excellent hedging.",
+      "timestamp": "31:27",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Ha, thank you. But this stuff is crazy important, you know? We're talking about fundamental rights here.",
+      "timestamp": "31:34",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Rachel",
+      "text": "There's the register shift! 'This stuff is crazy important'. Formally?",
+      "timestamp": "31:46",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "These issues are of paramount significance! Or 'this matter is of considerable importance'. The formal version sounds more convincing, doesn't it?",
+      "timestamp": "31:54",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Much more convincing. Same content, completely different effect. One more: companies should collect all data they want because users agree to terms of service.",
+      "timestamp": "32:06",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "It could be argued that 'free choice' here is misleading. When social media is essential for communication and employment, not using it isn't genuine choice - it's social exile. Furthermore, terms of service are deliberately incomprehensible. One study found it takes 76 minutes to read the average terms. That consent is meaningless.",
+      "timestamp": "32:16",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Rachel",
+      "text": "For the interview, let me give you one quick tip now. When they ask 'tell me about yourself', structure it as: current role, key achievement, why this opportunity. Keep it under two minutes.",
+      "confidence": 0.94,
+      "timestamp": "32:20"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Okay. Like: I'm currently a senior developer at a Ukrainian tech company where I've been leading our data infrastructure team. My key achievement this year was designing a federated learning system that improved our AI models while preserving user privacy. I'm excited about this opportunity because sustainable technology aligns with my values and I want to apply my experience to problems that matter.",
+      "confidence": 0.81,
+      "timestamp": "32:23"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That was really strong. Clear, concise, with a nice personal touch at the end. We'll refine it next week.",
+      "confidence": 0.95,
+      "timestamp": "32:26"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "It's easier when I have a structure to follow. Without structure I just ramble.",
+      "confidence": 0.87,
+      "timestamp": "32:29"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Brilliant. And I notice zero article errors in the last several minutes.",
+      "timestamp": "32:36",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "That's because I'm speaking slower and thinking more carefully. In casual conversation I'll still make the same errors, but at least I can do it right when focused.",
+      "timestamp": "32:44",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That's how you build the skill - conscious effort first, then automatic. Another challenge: smaller countries can't regulate Silicon Valley. Why bother?",
+      "timestamp": "32:55",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Very relevant for Ukraine - 40 million people, small market. Alone we can't pressure Facebook. But if Ukraine, Poland, Romania, Baltic states cooperate - that's 100 million people. Companies can't ignore that. EU model proves collective regulation works.",
+      "timestamp": "33:05",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Looking back at today, what was the most useful part for you?",
+      "confidence": 0.94,
+      "timestamp": "33:08"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Definitely the formal register practice with the debate and role-plays. It's one thing to know formal vocabulary, it's another to actually produce it in real time. The exercises forced me to activate vocabulary that I normally only use passively when reading.",
+      "confidence": 0.85,
+      "timestamp": "33:11"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That activation process is exactly what B2 to C1 progression looks like. Moving vocabulary and structures from passive knowledge to active production.",
+      "confidence": 0.94,
+      "timestamp": "33:14"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "And the article discussion was also very useful because it gave me context and vocabulary for the debate. Without reading the article first, I wouldn't have had such specific arguments.",
+      "confidence": 0.85,
+      "timestamp": "33:17"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Government bureaucrats don't understand technology well enough to regulate it. Your response?",
+      "timestamp": "33:24",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "There's truth to this. We all remember those US Congress hearings where senators couldn't understand how Facebook makes money. Embarrassing. But the solution is specialized regulatory agencies with technical experts, like we have for financial regulation. Not politicians deciding - technical people with regulatory authority.",
+      "timestamp": "33:32",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "How formally?",
+      "timestamp": "33:52",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "It would be advisable to establish dedicated regulatory bodies with deep technical expertise, similar to financial regulatory agencies. This would ensure oversight by individuals who genuinely understand the technologies in question.",
+      "timestamp": "33:59",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Rachel",
+      "text": "One last thing. When you write the paragraph, try to read it aloud before sending. You'll catch more errors that way.",
+      "confidence": 0.94,
+      "timestamp": "34:03"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Good tip. Reading aloud forces slower processing so I might catch the articles that I miss when just reading silently.",
+      "confidence": 0.85,
+      "timestamp": "34:06"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Exactly. The auditory feedback helps your monitoring.",
+      "confidence": 0.93,
+      "timestamp": "34:09"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I'll do that. Write first, check articles, then read aloud. Three-step process. Like code review but for English.",
+      "confidence": 0.87,
+      "timestamp": "34:12"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Perfect analogy. I think you should apply your engineering mindset to language learning more often - systematic, iterative improvement.",
+      "confidence": 0.94,
+      "timestamp": "34:15"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "That's an interesting idea. Maybe I should track my errors in a spreadsheet. Create a dashboard. 'Article errors: trending down. Preposition errors: stable. Conditional errors: improving.' Turn English learning into a data project.",
+      "confidence": 0.85,
+      "timestamp": "34:18"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Ha! I love that idea. You could even graph your improvement over time. Very on-brand for an engineer.",
+      "confidence": 0.93,
+      "timestamp": "34:21"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I might actually do this. Create a simple spreadsheet where after each lesson I log the types of errors and their frequency. Then I can see which areas are improving and which need more work.",
+      "confidence": 0.86,
+      "timestamp": "34:24"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That would be a fantastic learning tool. Data-driven language learning. Okay, I think we've had a truly excellent lesson today.",
+      "confidence": 0.94,
+      "timestamp": "34:27"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Yes, I agree. Thank you Rachel. Today was really productive and enjoyable. The combination of interesting topic and practical exercises works really well for me.",
+      "confidence": 0.87,
+      "timestamp": "34:30"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'It would be advisable' - perfect hedging. Great debate. Let me introduce some formal argumentation phrases for your toolkit.",
+      "timestamp": "34:33",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Let me get my notebook. Ready.",
+      "timestamp": "34:36",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Rachel",
+      "text": "First: 'This raises important questions about...' - for introducing new angles.",
+      "timestamp": "34:39",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "This raises important questions about the balance between security and freedom. I can use this to zoom out from a specific point to broader implications, right?",
+      "timestamp": "34:44",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Exactly. Next: 'While acknowledging the validity of opposing viewpoints...'",
+      "timestamp": "34:57",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Rachel",
+      "text": "One more thought for you to take away. You mentioned wanting to extend the 'zone' where your English is accurate. One technique is to start each English conversation at work with a conscious intention - 'today I'm watching articles' or 'today I'm watching prepositions'. Just one focus per day.",
+      "confidence": 0.95,
+      "timestamp": "35:00"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "That's actually a great idea. Like in programming when you focus on one type of bug at a time during debugging. If I try to fix everything at once, I fix nothing. But if I focus on just articles for one day, I might actually improve.",
+      "confidence": 0.85,
+      "timestamp": "35:03"
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Exactly. One focus per day. Monday: articles. Tuesday: prepositions. Wednesday: conditionals. Keep it simple.",
+      "confidence": 0.94,
+      "timestamp": "35:06"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I'll add this to my daily standup routine. Before each meeting: 'What am I watching today? Articles.'",
+      "confidence": 0.87,
+      "timestamp": "35:09"
+    },
+    {
+      "speaker": "Andrii",
+      "text": "While acknowledging the validity of opposing viewpoints, the evidence suggests well-designed privacy legislation does not impede innovation. Great for showing you engage with the other side before countering.",
+      "timestamp": "35:12",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'The implications of this extend beyond...'",
+      "timestamp": "35:20",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "The implications of this extend beyond the technology sector and affect fundamental aspects of democratic governance, including election integrity and the relationship between citizens and state.",
+      "timestamp": "35:27",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Rachel",
+      "text": "For formal disagreement: 'I would respectfully challenge that assertion' instead of 'I disagree'. 'The evidence does not appear to support that conclusion' instead of 'That's wrong'.",
+      "timestamp": "35:43",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I would respectfully challenge that assertion! Ha, very British. In Ukrainian culture we're much more direct. But I see how this works in professional settings - doesn't make people defensive.",
+      "timestamp": "35:57",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "In international settings, indirect style is more effective. Do you present arguments at work?",
+      "timestamp": "36:12",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "All the time. Code reviews, architecture meetings. Right now I usually say 'this approach won't work' which is blunt. More diplomatic language would be better with international colleagues.",
+      "timestamp": "36:20",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Instead of 'this code is bad', try 'I would suggest we consider an alternative approach.'",
+      "timestamp": "36:35",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "'This code is bad' is actually the polite version! Sometimes code reviews get much more direct. I should definitely work on workplace diplomacy.",
+      "timestamp": "36:43",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "We can do a workplace communication lesson. Now, role-play. You're at a tech conference. Audience asks: 'Why care about privacy when AI could solve healthcare and climate problems?'",
+      "timestamp": "36:55",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Thank you for raising that important question. It is worth noting that AI-driven data analysis offers significant benefits in healthcare and climate science. However, I would respectfully challenge the premise that we must choose between privacy and progress. There is evidence that privacy-preserving techniques like federated learning can enable AI innovation without compromising rights. We use federated learning at my company and it works well.",
+      "timestamp": "37:06",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Exceptional. Technical knowledge with hedging. Another question: 'Isn't this a First World problem?'",
+      "timestamp": "37:31",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "That is a thought-provoking question. While developing nations face urgent challenges, data privacy is not a luxury. The implications of weak data protection may be even more severe in developing countries with fewer legal protections. Ukraine's experience shows digital rights are critical where democratic institutions are still developing.",
+      "timestamp": "37:41",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Powerful personalization with Ukraine. Good 'thought-provoking question' for buying thinking time. One more: colleague says 'Collect all data. Data is the new oil.'",
+      "timestamp": "38:03",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I appreciate the analogy. However, if we would collect... if we collected data without safeguards, we face GDPR fines up to four percent of global revenue. Moreover, users are becoming privacy-conscious and may choose competitors. I'd propose data minimization - collect only what we need.",
+      "timestamp": "38:13",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Good self-correction 'if we would' to 'if we collected'. And the business argument - 'users may choose competitors' - speaks to your colleague's priorities. Very persuasive.",
+      "timestamp": "38:35",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Moral arguments don't work in tech companies. You have to show privacy affects revenue. Sad but effective.",
+      "timestamp": "38:46",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Adapting to your audience is an advanced skill. Now formal register exercises. I give informal, you rephrase formally.",
+      "timestamp": "38:58",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Like translation within the same language. Ready.",
+      "timestamp": "39:09",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'Social media companies totally don't care about privacy. They just want money.'",
+      "timestamp": "39:16",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "There is considerable evidence to suggest that social media companies prioritize revenue generation over user privacy protection. Their business models create structural incentives at odds with robust data protection.",
+      "timestamp": "39:24",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Excellent. 'The protection of user privacy' - 'the' is correct because it's specific. Next: 'Government should ban data selling. Not hard.'",
+      "timestamp": "39:41",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "One potential approach would be legislation prohibiting commercial sale of personal data. While seemingly straightforward, practical challenges of enforcement - cross-border jurisdiction, defining what constitutes a 'sale' in modern advertising technology - should not be underestimated.",
+      "timestamp": "39:51",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Rachel",
+      "text": "You added substantive complexity. Next: 'Kids put everything online. They'll regret it.'",
+      "timestamp": "40:09",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "It could be argued that the current generation's approach to online sharing may have long-term consequences not yet fully understood. The concept of a permanent digital footprint raises important questions about the right to be forgotten.",
+      "timestamp": "40:19",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Rachel",
+      "text": "One more: 'Facebook is the worst. They lied about everything.'",
+      "timestamp": "40:37",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Meta, formerly known as Facebook, has faced sustained criticism regarding transparency and data practices. Commentators argue the company's approach has had detrimental impact on the digital ecosystem, including normalizing invasive data collection and amplifying divisive content through algorithmic curation.",
+      "timestamp": "40:46",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Outstanding. Even updated to Meta. Now a mini-speech: thirty seconds on why data privacy matters. Everything we practiced - formal register, hedging, articles. Like a closing statement.",
+      "timestamp": "41:07",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Let me think.",
+      "timestamp": "41:22",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Take your time.",
+      "timestamp": "41:29",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "In an era of unprecedented technological advancement, data privacy has emerged as one of the defining challenges of our time. The evidence suggests that without robust regulatory frameworks, private corporations will continue to prioritize profit over individual rights. While technology itself is neutral, how it is deployed reflects the values of society. It is therefore essential that governments, civil society, and technology companies collaborate to establish a digital environment that respects privacy, promotes transparency, and upholds democratic values. The cost of inaction is too high to ignore.",
+      "timestamp": "41:37",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Andrii, that was genuinely impressive. Zero article errors, perfect register, clear structure with introduction, body, conclusion. If written down, it could appear in an academic paper.",
+      "timestamp": "42:04",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Really? No mistakes? I focused so hard on grammar I wasn't sure the content made sense.",
+      "timestamp": "42:17",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Both excellent. When you slow down, your English is remarkably strong. That's your target level.",
+      "timestamp": "42:27",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "That's motivating. The debate really warmed me up - the progression from casual to formal helped me get into the zone.",
+      "timestamp": "42:37",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "One more role-play before we shift. Conference moderator asks: 'As a Ukrainian developer, what unique perspective do you bring to data privacy?'",
+      "timestamp": "42:49",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Growing up in a post-Soviet country gives me a perspective many Western colleagues lack. Ukraine's experience with state surveillance during the Soviet era, and cybersecurity threats during the conflict with Russia, have given Ukrainians concrete understanding of why data protection matters. For us it's not abstract policy - it's lived reality. At the same time, Ukraine's tech ecosystem and digital government services like Diia show innovation and privacy can coexist.",
+      "timestamp": "43:00",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That was moving. Personal, authentic, zero grammar errors. Now email exercise - opening paragraph to your CEO arguing for more data security investment.",
+      "timestamp": "43:27",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I am writing to draw your attention to what I believe represents a critical gap in our data security infrastructure. Recent industry breaches, combined with increasingly stringent GDPR requirements, suggest that companies which fail to prioritize security face growing vulnerability to financial penalties and reputational damage. I would like to propose we allocate additional resources for a comprehensive security audit.",
+      "timestamp": "43:39",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Strong. One minor point: 'companies that fail' is preferred in American English for restrictive clauses, but 'which' is fine in British English.",
+      "timestamp": "44:04",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "The that-which distinction. Ukrainian uses one word for both. For a Dutch company, either would work I think.",
+      "timestamp": "44:15",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Exactly. Now let's practice a few more formal phrases in context. Imagine you're presenting quarterly security review to executives. Opening line?",
+      "timestamp": "44:27",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Good afternoon. I would like to present the findings of our quarterly security assessment and outline several recommendations that warrant immediate attention.",
+      "timestamp": "44:38",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Perfect opening. Now present a problem formally.",
+      "timestamp": "44:52",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Our analysis has identified a significant vulnerability in the authentication module that could potentially expose sensitive user data. While no breach has occurred, the implications of this extend beyond our immediate technical infrastructure and could affect customer trust and regulatory compliance.",
+      "timestamp": "45:00",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Excellent - you naturally used 'the implications of this extend beyond' from our earlier practice!",
+      "timestamp": "45:20",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Ha, I did! The phrases are sticking. I used it without even thinking about it.",
+      "timestamp": "45:28",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That's exactly the goal - from conscious to automatic. Now propose a solution formally.",
+      "timestamp": "45:38",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I would recommend that we allocate resources to address this vulnerability as a matter of priority. While acknowledging the competing demands on our engineering team, the potential consequences of inaction significantly outweigh the short-term costs of remediation.",
+      "timestamp": "45:48",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Beautiful formal language throughout. 'Competing demands', 'consequences of inaction', 'outweigh' - all sophisticated vocabulary choices.",
+      "timestamp": "46:07",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "These words I know from reading tech blogs and security reports. The passive vocabulary is there - it's the active production that needs practice.",
+      "timestamp": "46:17",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That's the gap we're closing every lesson. Now let me ask you to handle a formal disagreement scenario. Your CTO says: 'We should skip the security audit to meet our product deadline.'",
+      "timestamp": "46:28",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I understand the urgency of meeting our product timeline, and I appreciate the pressure the team is under. However, I would respectfully suggest that postponing the security audit may create greater risks than the delay it seeks to avoid. There is evidence from recent industry incidents that security vulnerabilities discovered post-launch result in costs that are significantly higher than those of proactive remediation.",
+      "timestamp": "46:41",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That was diplomatically perfect. You acknowledged the concern, then countered with evidence. Now imagine the CTO pushes back: 'The board is demanding this feature next month.'",
+      "timestamp": "47:05",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "It is worth noting that a security incident could delay not just this feature but our entire roadmap. Perhaps we could explore a compromise - conducting a focused audit on the components most critical to the new feature, which would allow us to proceed while managing the most significant risks. This approach would demonstrate due diligence to the board while maintaining momentum.",
+      "timestamp": "47:16",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That was masterful. You offered a compromise instead of just opposing. Very mature communication.",
+      "timestamp": "47:38",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Ha, this is actually much better than what I normally say in these situations. Usually I just say 'we can't skip security, it's dangerous' and then my CTO gets annoyed.",
+      "timestamp": "47:48",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "See the difference? Same message, but wrapped in formal register with a compromise, it becomes much more persuasive.",
+      "timestamp": "48:00",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I'm going to try this approach at our next sprint review. We actually have a similar situation now where product wants to cut testing time.",
+      "timestamp": "48:10",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Perfect real-world application. Okay, let's transition to wrapping up. How are you feeling about today?",
+      "timestamp": "48:21",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I feel great. This was one of the best lessons. The topic was interesting and exercises were practical. When the topic is boring, I lose motivation and make more errors. Today I was engaged.",
+      "timestamp": "48:31",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Engagement drives quality. Let me summarize key language areas. Number one: articles with abstract nouns.",
+      "timestamp": "48:46",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Zero article for concepts - privacy, technology, democracy. 'The' when specific - 'the privacy of the user'. 'A' for a particular type - 'a deep commitment to privacy'. Three-way system that Ukrainian doesn't have.",
+      "timestamp": "48:56",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "And articles with professions - 'a software engineer'.",
+      "timestamp": "49:11",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Right, I am a software engineer. Opposite problem - with abstract nouns I add 'the' that shouldn't be there, with professions I drop 'a' that should be there.",
+      "timestamp": "49:19",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Two: prepositions. Key ones?",
+      "timestamp": "49:33",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Depend on, rely on, interested in, result in, discuss directly without preposition. Don't translate Ukrainian prepositions literally.",
+      "timestamp": "49:39",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Three: present perfect for ongoing durations.",
+      "timestamp": "49:51",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I have been working for five years, not I am working for five years. Ukrainian uses present for both, so I need to consciously switch.",
+      "timestamp": "49:58",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Four: conditionals.",
+      "timestamp": "50:11",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "No 'would' or 'will' in if-clauses. Second conditional: if I knew, I would tell you. First: if the government regulates, companies will comply.",
+      "timestamp": "50:17",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Five: collocations.",
+      "timestamp": "50:31",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Make decisions, strong opinions, raise questions. Just memorize them.",
+      "timestamp": "50:37",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Six: formal register and hedging.",
+      "timestamp": "50:46",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "It could be argued that I made significant progress today. There is evidence to suggest continued practice will improve my formal English. Seriously though, the hedging phrases are genuinely useful for work presentations and meetings.",
+      "timestamp": "50:52",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Ha! Perfect demonstration. Now homework. Write a formal paragraph, 150-200 words, about government regulation of AI. At least three hedging phrases. Careful with articles. Email two days before next lesson.",
+      "timestamp": "51:09",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "AI regulation - I deal with this at work every day. Should I argue for or against? I have strong pro-regulation views but maybe arguing against would be better practice since it forces more careful language.",
+      "timestamp": "51:24",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Arguing against your beliefs is excellent practice. Forces more deliberate word choice.",
+      "timestamp": "51:39",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I'll argue against regulation then. Use the structure we practiced - introduction, evidence, counterargument, conclusion.",
+      "timestamp": "51:49",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Perfect. Bonus challenges: notice article and preposition errors at work, try one hedging phrase in a meeting.",
+      "timestamp": "52:01",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "My colleagues will think something is wrong with me. 'It could be argued that this pull request requires revision.' But we have sprint review Wednesday with international stakeholders - perfect place to try it.",
+      "timestamp": "52:11",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Sprint review is ideal. Also recommend BBC podcast 'Thinking Allowed' and reading one Economist article with language focus.",
+      "timestamp": "52:25",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "I already read The Economist but never focused on language - always content. Reading with language focus is a great idea. I'll highlight hedging phrases and notice how they handle articles.",
+      "timestamp": "52:35",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Goals for next lesson?",
+      "timestamp": "52:50",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Interview preparation! I might have an interview with a Dutch tech company next month. Senior developer role, all in English. I'm confident technically but struggle with behavioral questions - 'tell me about yourself', 'describe a challenge'. Never know how formal to be.",
+      "timestamp": "52:59",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Rachel",
+      "text": "We'll practice professional-but-personable balance. Send me the job description when you get it.",
+      "timestamp": "53:15",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Recruiter said they'd send it this week. The company does sustainable tech - software for monitoring carbon emissions. Interview will probably cover technical topics and environmental values.",
+      "timestamp": "53:24",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Sounds like a great opportunity. Any questions before we finish?",
+      "timestamp": "53:39",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "One thing. When we talked about abstract nouns, you said zero article for concepts and 'the' for specific. But what about 'a'? Like 'a deep understanding of technology'?",
+      "timestamp": "53:47",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'A' signals a particular type or quality. 'She has a deep understanding of technology' - one particular kind of understanding. Abstract but particularized.",
+      "timestamp": "54:04",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "So three options: no article for concept, 'the' for specific instance, 'a' for particular type. Three-way system Ukrainian doesn't have at all. No wonder it takes years to master.",
+      "timestamp": "54:15",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Rachel",
+      "text": "That systematic understanding will serve you well. C1 is definitely reachable by year end.",
+      "timestamp": "54:30",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "C1 is my goal! I was thinking about Cambridge C1 Advanced exam. I'll check if company would sponsor it. If the company will pay... I mean, if the company pays for it, I'll register.",
+      "timestamp": "54:38",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Excellent self-correction! 'If the company pays' - first conditional for a real possibility.",
+      "timestamp": "54:53",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "The grammar police officer in my head is waking up. Slowly but waking up.",
+      "timestamp": "55:03",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Ha! Quick review. Articles with abstract nouns?",
+      "timestamp": "55:13",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Zero article for concepts. 'The' when specific. 'A' for particular type.",
+      "timestamp": "55:20",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Preposition with 'depend'?",
+      "timestamp": "55:28",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "On.",
+      "timestamp": "55:33",
+      "confidence": 0.92
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'Interested'?",
+      "timestamp": "55:38",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "In.",
+      "timestamp": "55:42",
+      "confidence": 0.92
+    },
+    {
+      "speaker": "Rachel",
+      "text": "'Discuss'?",
+      "timestamp": "55:47",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "No preposition. Transitive.",
+      "timestamp": "55:50",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Conditional for hypothetical present?",
+      "timestamp": "55:55",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "If plus past simple, would plus infinitive. Never 'would' in the if-clause.",
+      "timestamp": "56:02",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Duration from past to now?",
+      "timestamp": "56:10",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Present perfect continuous. 'I have been working' not 'I am working'.",
+      "timestamp": "56:15",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "All correct. Great lesson, Andrii. Remember your own words: 'The cost of inaction is too high to ignore.' Perfect grammar, perfect register.",
+      "timestamp": "56:21",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "The cost of inaction is too high to ignore. Good motto for privacy and English learning both. If I don't keep working on grammar, I get more fossilized errors.",
+      "timestamp": "56:35",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Good analogy. Homework summary: formal paragraph about AI regulation, notice errors at work, hedging phrase in sprint review, optionally podcast and Economist article.",
+      "timestamp": "56:48",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Paragraph is priority - Sunday morning. Podcast during Monday commute. Economist Wednesday evening. Hedging phrase at sprint review Wednesday. All in the calendar.",
+      "timestamp": "57:01",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Love the scheduling. Very organized.",
+      "timestamp": "57:15",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Ha, I'm a software engineer - if it's not in the calendar, it doesn't exist. Maybe I should create a Jira ticket: 'LANG-42: Write formal paragraph. Story points: 3.'",
+      "timestamp": "57:21",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Priority: high! See you next week for interview prep.",
+      "timestamp": "57:35",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Andrii",
+      "text": "See you! Thanks for today - genuinely useful. I feel more confident about formal English. Bye Rachel!",
+      "timestamp": "57:43",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Rachel",
+      "text": "Bye! Don't forget the paragraph!",
+      "timestamp": "57:53",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Andrii",
+      "text": "Already in my calendar. Sunday 10 AM. Bye!",
+      "timestamp": "58:00",
+      "confidence": 0.88
+    }
+  ],
+  "transcription_meta": {
+    "provider": "emulated",
+    "model": "claude-generated-v1",
+    "avg_confidence": 0.87,
+    "languages_detected": [
+      "en"
+    ],
+    "verbatim": true
+  }
+}

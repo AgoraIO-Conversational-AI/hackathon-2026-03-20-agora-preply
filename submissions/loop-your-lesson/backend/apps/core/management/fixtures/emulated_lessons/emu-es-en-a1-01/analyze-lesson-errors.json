@@ -1,0 +1,461 @@
+{
+  "skill_name": "analyze-lesson-errors",
+  "lesson_id": "emu-es-en-a1-01",
+  "student_id": "student-carmen",
+  "reasoning": "Applied the error taxonomy (grammar, vocabulary, pragmatic categories) with severity calibrated against CEFR A1 descriptors. L1 transfer analysis used Spanish-English interlanguage patterns (null subjects, ser/estar-have/be age construction, false friends, adjective placement, preposition mapping). Errors expected at A1 (article confusion, preposition variability) rated minor; errors involving structures that should be emerging at A1+ (3rd person -s, basic question formation) rated moderate to major based on frequency and communicative impact. Self-corrections were tracked as evidence of developing interlanguage awareness.",
+  "talk_ratio": {
+    "student_pct": 49,
+    "teacher_pct": 51
+  },
+  "errors": [
+    {
+      "type": "grammar",
+      "subtype": "verb_tense",
+      "severity": "major",
+      "original": "I go to Camden Market",
+      "corrected": "I went to Camden Market",
+      "explanation": "Student used present simple instead of past simple when narrating a weekend event. Context clearly required past tense (\"how was your weekend\").",
+      "timestamp": "00:20",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "partial - Spanish also requires past tense here (\"fui\"), so this is a developmental error (incomplete acquisition of irregular past forms) rather than direct transfer",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 1
+    },
+    {
+      "type": "grammar",
+      "subtype": "null_subject",
+      "severity": "moderate",
+      "original": "Is very nice there!",
+      "corrected": "It is very nice there!",
+      "explanation": "Missing dummy subject \"it\". Spanish allows null subjects (\"Es muy bonito alli\") but English requires an explicit subject.",
+      "timestamp": "00:38",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Spanish is a pro-drop language; \"es\" does not require an overt subject. This is direct syntactic transfer from L1.",
+      "correction_strategy": "explicit",
+      "exercise_priority": 5,
+      "error_index": 2
+    },
+    {
+      "type": "grammar",
+      "subtype": "null_subject",
+      "severity": "moderate",
+      "original": "Is very cold today in London!",
+      "corrected": "It is very cold today in London!",
+      "explanation": "Same null subject pattern as #2. Weather expressions in Spanish (\"Hace frio\") do not require a subject.",
+      "timestamp": "00:56",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- pro-drop transfer, reinforced by Spanish weather constructions that use impersonal verbs",
+      "correction_strategy": "explicit",
+      "exercise_priority": 5,
+      "error_index": 3
+    },
+    {
+      "type": "grammar",
+      "subtype": "null_subject",
+      "severity": "moderate",
+      "original": "In Spain is not so cold",
+      "corrected": "In Spain it is not so cold",
+      "explanation": "Recurring null subject pattern.",
+      "timestamp": "01:16",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- pro-drop transfer",
+      "correction_strategy": "recast",
+      "exercise_priority": 4,
+      "error_index": 4
+    },
+    {
+      "type": "vocabulary",
+      "subtype": "false_friend",
+      "severity": "moderate",
+      "original": "Actually I live in London for three months now",
+      "corrected": "Currently I live in London for three months now",
+      "explanation": "Used \"actually\" (en realidad) when meaning \"actualmente\" (currently). Classic Spanish-English false friend.",
+      "timestamp": "03:13",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- direct lexical transfer; \"actualmente\" looks like \"actually\" but means \"currently\"",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 5
+    },
+    {
+      "type": "grammar",
+      "subtype": "preposition",
+      "severity": "moderate",
+      "original": "I go in the university every day",
+      "corrected": "I go to the university every day",
+      "explanation": "Used \"in\" instead of \"to\" for direction of movement.",
+      "timestamp": "03:53",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Spanish uses \"en\" for both location and some directional contexts; overgeneralization of \"in\" from \"en\"",
+      "correction_strategy": "explicit",
+      "exercise_priority": 3,
+      "error_index": 6
+    },
+    {
+      "type": "grammar",
+      "subtype": "article",
+      "severity": "minor",
+      "original": "I have the sister and the brother",
+      "corrected": "I have a sister and a brother",
+      "explanation": "Used definite article \"the\" instead of indefinite \"a\" when introducing family members for the first time.",
+      "timestamp": "05:00",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Spanish uses definite articles with family (\"tengo la hermana\") more freely than English",
+      "correction_strategy": "explicit",
+      "exercise_priority": 3,
+      "error_index": 7
+    },
+    {
+      "type": "grammar",
+      "subtype": "verb_form",
+      "severity": "major",
+      "original": "She have sixteen years",
+      "corrected": "She is sixteen years old",
+      "explanation": "Double error: (a) used \"have\" instead of \"be\" for age, and (b) missing 3rd person -s on \"have\". Spanish expresses age with \"tener\" (to have): \"tiene dieciseis anos.\"",
+      "timestamp": "09:50",
+      "communicative_impact": "high",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- direct structural transfer from \"tener + anos\" construction",
+      "correction_strategy": "explicit",
+      "exercise_priority": 5,
+      "error_index": 8
+    },
+    {
+      "type": "grammar",
+      "subtype": "question_formation",
+      "severity": "moderate",
+      "original": "Why you don't have years in English?",
+      "corrected": "Why don't you have years in English?",
+      "explanation": "Incorrect word order in a wh-question. Subject and auxiliary not inverted.",
+      "timestamp": "10:10",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "partial - Spanish wh-questions can have SVO order (\"Por que tu no tienes...\"), though inversion is also common",
+      "correction_strategy": "explicit",
+      "exercise_priority": 3,
+      "error_index": 9
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "major",
+      "original": "My father work in a hospital",
+      "corrected": "My father works in a hospital",
+      "explanation": "Missing 3rd person singular -s on present simple verb.",
+      "timestamp": "11:08",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "partial - Spanish 3rd person conjugation is more salient (-a/-e endings); English -s is less perceptually salient and easily omitted",
+      "correction_strategy": "explicit",
+      "exercise_priority": 5,
+      "error_index": 10
+    },
+    {
+      "type": "grammar",
+      "subtype": "null_subject",
+      "severity": "moderate",
+      "original": "Is because I practice a lot",
+      "corrected": "It is because I practice a lot",
+      "explanation": "Recurring null subject pattern.",
+      "timestamp": "11:45",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- pro-drop",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 11
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "major",
+      "original": "He run in the house all day",
+      "corrected": "He runs in the house all day",
+      "explanation": "Missing 3rd person -s.",
+      "timestamp": "13:31",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "partial - low perceptual salience of English -s",
+      "correction_strategy": "explicit",
+      "exercise_priority": 5,
+      "error_index": 12
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "major",
+      "original": "My mother don't like cats",
+      "corrected": "My mother doesn't like cats",
+      "explanation": "Used \"don't\" instead of \"doesn't\" for 3rd person singular negation.",
+      "timestamp": "14:04",
+      "communicative_impact": "low",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "explicit",
+      "exercise_priority": 5,
+      "error_index": 13
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "major",
+      "original": "she have two cats",
+      "corrected": "she has two cats",
+      "explanation": "Missing 3rd person form \"has\" for irregular verb \"have.\"",
+      "timestamp": "14:22",
+      "communicative_impact": "low",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "explicit",
+      "exercise_priority": 5,
+      "error_index": 14
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "major",
+      "original": "she live in a small village",
+      "corrected": "she lives in a small village",
+      "explanation": "Missing 3rd person -s.",
+      "timestamp": "18:16",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "partial - low salience of -s",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 15
+    },
+    {
+      "type": "grammar",
+      "subtype": "adverb_position",
+      "severity": "minor",
+      "original": "I forget always",
+      "corrected": "I always forget",
+      "explanation": "Adverb of frequency placed after the verb instead of before it.",
+      "timestamp": "18:35",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Spanish places frequency adverbs after the verb (\"olvido siempre\")",
+      "correction_strategy": "explicit",
+      "exercise_priority": 2,
+      "error_index": 16
+    },
+    {
+      "type": "vocabulary",
+      "subtype": "false_friend",
+      "severity": "moderate",
+      "original": "she is very sympathetic with everyone",
+      "corrected": "she is very friendly with everyone",
+      "explanation": "Used \"sympathetic\" (feeling sorry for) when meaning \"simpatica\" (friendly/nice). Spanish-English false friend.",
+      "timestamp": "24:55",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- direct lexical transfer from \"simpatico/a\"",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 17
+    },
+    {
+      "type": "grammar",
+      "subtype": "word_order",
+      "severity": "moderate",
+      "original": "My mother is a woman very nice",
+      "corrected": "My mother is a very nice woman",
+      "explanation": "Post-nominal adjective placement following Spanish word order.",
+      "timestamp": "26:52",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Spanish places adjectives after nouns (\"una mujer muy simpática\")",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 18
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "major",
+      "original": "He always help everyone",
+      "corrected": "He always helps everyone",
+      "explanation": "Missing 3rd person -s.",
+      "timestamp": "27:47",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "partial",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 19
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "major",
+      "original": "He like to read the newspaper",
+      "corrected": "He likes to read the newspaper",
+      "explanation": "Missing 3rd person -s.",
+      "timestamp": "31:28",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "partial",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 20
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "major",
+      "original": "He live in his own world",
+      "corrected": "He lives in his own world",
+      "explanation": "Missing 3rd person -s.",
+      "timestamp": "31:48",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "partial",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 21
+    },
+    {
+      "type": "grammar",
+      "subtype": "preposition",
+      "severity": "minor",
+      "original": "In Christmas",
+      "corrected": "At Christmas",
+      "explanation": "Incorrect preposition for holidays.",
+      "timestamp": "09:12",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Spanish uses \"en Navidad\"",
+      "correction_strategy": "explicit",
+      "exercise_priority": 2,
+      "error_index": 22
+    },
+    {
+      "type": "grammar",
+      "subtype": "there_is_are",
+      "severity": "moderate",
+      "original": "there is many chairs",
+      "corrected": "there are many chairs",
+      "explanation": "Used singular \"there is\" with plural noun.",
+      "timestamp": "34:08",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Spanish \"hay\" is invariable for singular and plural",
+      "correction_strategy": "explicit",
+      "exercise_priority": 3,
+      "error_index": 23
+    },
+    {
+      "type": "grammar",
+      "subtype": "preposition",
+      "severity": "moderate",
+      "original": "clothes in the floor, in the bed",
+      "corrected": "clothes on the floor, on the bed",
+      "explanation": "Used \"in\" instead of \"on\" for surfaces.",
+      "timestamp": "35:48",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Spanish \"en\" maps to both \"in\" and \"on\"",
+      "correction_strategy": "explicit",
+      "exercise_priority": 3,
+      "error_index": 24
+    },
+    {
+      "type": "grammar",
+      "subtype": "comparative",
+      "severity": "minor",
+      "original": "more tall",
+      "corrected": "taller",
+      "explanation": "Used analytic comparative instead of synthetic form for short adjective.",
+      "timestamp": "30:34",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Spanish uses analytic comparatives (\"mas alto\"), direct transfer of structure",
+      "correction_strategy": "explicit",
+      "exercise_priority": 2,
+      "error_index": 25
+    }
+  ],
+  "error_patterns": [
+    {
+      "pattern": "3rd_person_s",
+      "error_ids": [
+        10,
+        12,
+        13,
+        14,
+        15,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "pattern": "null_subject",
+      "error_ids": [
+        2,
+        3,
+        4,
+        11,
+        8
+      ]
+    },
+    {
+      "pattern": "preposition_confusion",
+      "error_ids": [
+        6,
+        22,
+        24
+      ]
+    },
+    {
+      "pattern": "false_friends",
+      "error_ids": [
+        5,
+        17
+      ]
+    },
+    {
+      "pattern": "adjective_word_order",
+      "error_ids": [
+        18
+      ]
+    },
+    {
+      "pattern": "age_construction",
+      "error_ids": [
+        8
+      ]
+    },
+    {
+      "pattern": "there_is_are",
+      "error_ids": [
+        23
+      ]
+    },
+    {
+      "pattern": "question_formation",
+      "error_ids": [
+        9
+      ]
+    },
+    {
+      "pattern": "comparative_form",
+      "error_ids": [
+        25
+      ]
+    }
+  ],
+  "summary": {
+    "total_errors": 25,
+    "estimated_level": "A1+"
+  }
+}

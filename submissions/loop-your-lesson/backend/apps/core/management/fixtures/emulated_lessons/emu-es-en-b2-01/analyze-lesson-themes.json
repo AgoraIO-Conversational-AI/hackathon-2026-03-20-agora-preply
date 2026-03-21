@@ -1,0 +1,313 @@
+{
+  "skill_name": "analyze-lesson-themes",
+  "lesson_id": "emu-es-en-b2-01",
+  "student_id": "student-pablo",
+  "reasoning": "Applied CEFR B2 conversation descriptors to identify themes, vocabulary patterns, and communicative functions. The lesson followed a clear pedagogical arc from warm-up personal narrative through structured debate to practical skill application (email writing), finishing with error consolidation. Vocabulary was assessed against B2-C1 boundary expectations. Themes were cross-referenced with error patterns to identify which topics triggered the most L1 transfer.",
+  "lesson_arc": "The lesson progresses through four distinct phases: (1) warm-up and personal narrative about work [00:00-03:00], (2) structured discussion and debate on remote/hybrid work and AI [03:00-31:00], (3) practical application via formal email writing [34:27-42:56], (4) error review, consolidation, and homework [42:56-59:17]. The teacher skillfully connected Pablo's real-world consulting experience to language learning goals, using his genuine need to write a schedule-change email as a vehicle for register and formality practice. The debate sections served dual purposes: building argumentative fluency and surfacing fossilized errors under communicative pressure.",
+  "themes": [
+    {
+      "topic": "Work update and consulting life",
+      "communicative_function": "narrating, reporting",
+      "initiated_by": "teacher",
+      "transcript_range": "00:00 - 03:00",
+      "vocabulary_active": [
+        {
+          "term": "digital transformation",
+          "context": "\"help them with their digital transformation strategy\"",
+          "level": "B2"
+        },
+        {
+          "term": "predictive analytics",
+          "context": "\"they want to use AI for... predictive analytics\"",
+          "level": "C1"
+        },
+        {
+          "term": "stakeholders",
+          "context": "\"workshops with the stakeholders\"",
+          "level": "B2"
+        },
+        {
+          "term": "KPIs",
+          "context": "\"explain the KPIs and the deliverables\"",
+          "level": "B2"
+        },
+        {
+          "term": "deliverables",
+          "context": "\"the KPIs and the deliverables to the whole team\"",
+          "level": "B2"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "buzzword",
+          "context": "\"that's a big buzzword these days\" (teacher)",
+          "level": "C1"
+        },
+        {
+          "term": "data-driven decision making",
+          "context": "teacher rephrased Pablo's description",
+          "level": "B2"
+        }
+      ],
+      "chunks": [
+        "\"working on a big project\"",
+        "\"attend a meeting\" (corrected from \"assist to\")",
+        "\"give a presentation\" (corrected from \"do a presentation\")",
+        "\"hold/have a meeting\" (corrected from \"make a meeting\")"
+      ]
+    },
+    {
+      "topic": "Remote and hybrid work debate",
+      "communicative_function": "arguing, evaluating, comparing",
+      "initiated_by": "student",
+      "transcript_range": "03:00 - 16:18",
+      "vocabulary_active": [
+        {
+          "term": "hybrid model",
+          "context": "\"We have a hybrid model\"",
+          "level": "B2"
+        },
+        {
+          "term": "presenteeism",
+          "context": "understood and used after teacher introduced",
+          "level": "C1"
+        },
+        {
+          "term": "proximity bias",
+          "context": "\"what they call proximity bias\"",
+          "level": "C1"
+        },
+        {
+          "term": "commuting",
+          "context": "\"I don't waste time commuting\"",
+          "level": "B2"
+        },
+        {
+          "term": "perception",
+          "context": "\"It's about perception\"",
+          "level": "B2"
+        },
+        {
+          "term": "paradigm shift",
+          "context": "\"Yes, absolutely. The pandemic demonstrated...\"",
+          "level": "C1"
+        },
+        {
+          "term": "talent acquisition",
+          "context": "understood context after teacher reframed",
+          "level": "B2"
+        },
+        {
+          "term": "sabbaticals",
+          "context": "\"flexible hours, the possibility to work from different locations, sabbaticals\"",
+          "level": "C1"
+        },
+        {
+          "term": "surveillance tools",
+          "context": "\"companies that try to use surveillance tools\"",
+          "level": "B2"
+        },
+        {
+          "term": "brainstorming sessions",
+          "context": "\"we schedule the brainstorming sessions\"",
+          "level": "B2"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "watercooler conversations",
+          "context": "teacher introduced the idiom",
+          "level": "C1"
+        },
+        {
+          "term": "spontaneous interaction",
+          "context": "teacher's reformulation",
+          "level": "B2"
+        },
+        {
+          "term": "trust-based management",
+          "context": "teacher's framing",
+          "level": "C1"
+        },
+        {
+          "term": "digital nomad",
+          "context": "teacher named the concept",
+          "level": "B2"
+        }
+      ],
+      "chunks": [
+        "\"depends on\" (corrected from \"depends of\")",
+        "\"I agree with\" (corrected from \"I am agree\")",
+        "\"on the other hand\" (discussed overuse)",
+        "\"at the same time\" (learned as alternative connector)",
+        "\"a one-size-fits-all approach\"",
+        "\"the benefits of both worlds\""
+      ]
+    },
+    {
+      "topic": "AI and the future of work debate",
+      "communicative_function": "arguing, speculating, hedging",
+      "initiated_by": "teacher",
+      "transcript_range": "24:30 - 33:50",
+      "vocabulary_active": [
+        {
+          "term": "augment",
+          "context": "\"AI will augment human capabilities\"",
+          "level": "C1"
+        },
+        {
+          "term": "displacement",
+          "context": "\"slow down job displacement\"",
+          "level": "C1"
+        },
+        {
+          "term": "precarious",
+          "context": "\"many of the new jobs... are precarious\"",
+          "level": "C1"
+        },
+        {
+          "term": "gig economy",
+          "context": "\"We already see this with the gig economy\"",
+          "level": "B2"
+        },
+        {
+          "term": "concentration of wealth",
+          "context": "\"a concentration of wealth that is dangerous\"",
+          "level": "C1"
+        },
+        {
+          "term": "explainability",
+          "context": "understood after teacher's framing",
+          "level": "C1"
+        },
+        {
+          "term": "accountability",
+          "context": "\"questions about bias, privacy, accountability\"",
+          "level": "B2"
+        },
+        {
+          "term": "black boxes",
+          "context": "\"many AI systems are black boxes\"",
+          "level": "B2"
+        },
+        {
+          "term": "human-in-the-loop",
+          "context": "understood and applied concept",
+          "level": "C1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "hedging language",
+          "context": "teacher's metalinguistic term",
+          "level": "C1"
+        },
+        {
+          "term": "paradigm shift",
+          "context": "teacher's prompt",
+          "level": "C1"
+        },
+        {
+          "term": "robot tax",
+          "context": "teacher introduced the term",
+          "level": "B2"
+        }
+      ],
+      "chunks": [
+        "\"evidence suggests that\" (learned)",
+        "\"it remains to be seen whether\" (learned)",
+        "\"one could argue that\" (learned and applied)",
+        "\"it's conceivable that\" (learned and applied)",
+        "\"do research\" (corrected from \"make research\")",
+        "\"make a decision\" (corrected from \"take a decision\")"
+      ]
+    },
+    {
+      "topic": "Formal email writing",
+      "communicative_function": "writing, requesting, negotiating",
+      "initiated_by": "teacher",
+      "transcript_range": "34:27 - 42:56",
+      "vocabulary_active": [
+        {
+          "term": "modification",
+          "context": "\"request a modification to my current working schedule\"",
+          "level": "B2"
+        },
+        {
+          "term": "adjustment",
+          "context": "\"propose an adjustment\"",
+          "level": "B2"
+        },
+        {
+          "term": "trial period",
+          "context": "\"suggest a trial period of one month\"",
+          "level": "B2"
+        },
+        {
+          "term": "at your convenience",
+          "context": "\"available to discuss this matter at your convenience\"",
+          "level": "C1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "deferential",
+          "context": "teacher describing \"at your convenience\"",
+          "level": "C1"
+        },
+        {
+          "term": "register inconsistency",
+          "context": "teacher's metalinguistic feedback",
+          "level": "C1"
+        },
+        {
+          "term": "signposting",
+          "context": "teacher's term for discourse organization",
+          "level": "B2"
+        }
+      ],
+      "chunks": [
+        "\"I am writing to request\"",
+        "\"I would like to propose\"",
+        "\"I would like to assure you\"",
+        "\"I would be grateful if you could\"",
+        "\"at your convenience\"",
+        "\"Kind regards\""
+      ]
+    },
+    {
+      "topic": "Error consolidation and collocations drill",
+      "communicative_function": "metalinguistic analysis, drilling",
+      "initiated_by": "teacher",
+      "transcript_range": "18:30 - 24:10",
+      "vocabulary_active": [
+        {
+          "term": "collocation",
+          "context": "understood and used the metalinguistic term",
+          "level": "B2"
+        },
+        {
+          "term": "false friend",
+          "context": "used the term naturally",
+          "level": "B2"
+        },
+        {
+          "term": "fossilized",
+          "context": "learned and played with the metaphor",
+          "level": "C1"
+        }
+      ],
+      "vocabulary_passive": [],
+      "chunks": [
+        "\"attend a meeting\" (not assist)",
+        "\"give a presentation\" (not do)",
+        "\"make a decision\" (not take)",
+        "\"meet a deadline\" (not comply with)",
+        "\"do research\" (not make)",
+        "\"make a complaint\"",
+        "\"pay a visit\"",
+        "\"raise a question\""
+      ]
+    }
+  ]
+}

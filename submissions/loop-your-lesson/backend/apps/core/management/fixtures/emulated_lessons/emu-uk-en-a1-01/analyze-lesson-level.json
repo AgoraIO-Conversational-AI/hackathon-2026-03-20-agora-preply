@@ -1,0 +1,45 @@
+{
+  "skill_name": "analyze-lesson-level",
+  "lesson_id": "emu-uk-en-a1-01",
+  "student_id": "student-oksana",
+  "level": "A1",
+  "confidence": "high",
+  "reasoning": "Assessed against CEFR conversation descriptors across five dimensions. Oksana demonstrates solid A1 competence in familiar transactional contexts (shopping, personal information) with clear A1-to-A2 boundary features emerging. Her vocabulary range covers basic concrete needs; grammatical accuracy shows systematic gaps in verb tense marking, articles, plurals, and 3rd person -s that are characteristic of early A1. Interaction patterns (frequent hesitation, L1 resort, formulaic chunks) are consistent with A1. The strongest evidence for A1 rather than pre-A1 is her ability to complete multi-turn transactional dialogues and self-correct when prompted. The strongest evidence against A2 is the systematic absence of past tense marking and article use.",
+  "dimensions": {
+    "range": "A1",
+    "accuracy": "A1",
+    "fluency": "A1",
+    "interaction": "A1",
+    "coherence": "A1"
+  },
+  "strengths": [
+    "Vocabulary recall",
+    "Transactional chunks",
+    "Self-correction capacity",
+    "Communicative willingness"
+  ],
+  "gaps": [
+    "Past tense marking (Accuracy) [exercise_focus: true]",
+    "Article system (Accuracy) [exercise_focus: true]",
+    "3rd person -s (Accuracy) [exercise_focus: true]",
+    "Plural marking (Accuracy) [exercise_focus: true]",
+    "Preposition selection (Accuracy) [exercise_focus: false]",
+    "Adverb/adjective distinction (Range) [exercise_focus: false]"
+  ],
+  "suggestions": [
+    "Focus next 2-3 lessons on past simple (regular -ed and high-frequency irregulars: went, bought, cooked, had). Use weekend narration as recurring warm-up to drill naturally.",
+    "Introduce article practice through the food/shopping context already established. \"The bread\" (specific), \"a tomato\" (one of many), \"some milk\" (uncountable) as a triad.",
+    "Build 3rd person -s awareness through describing family routines: \"She likes...\", \"He wants...\", \"It costs...\". Connect to shopping context (\"The milk costs...\").",
+    "Continue role-play approach - student showed dramatic improvement from first to third attempt. Increase complexity gradually (asking for directions next, as student requested).",
+    "Assign listening homework - student identified fast speech as main real-world barrier [03:50].",
+    "When talking about yesterday or last week, always use past forms: \"I went\", \"I bought\", \"I cooked\" (not \"I go\", \"I buy\", \"I cook\"). Practice saying 5 past sentences each evening.",
+    "Before a noun, think: can I count it? Yes = use \"a\" or \"an\". No = use \"some\". Practice: \"an apple\", \"a tomato\", \"some milk\", \"some bread\".",
+    "For he/she/it, add -s to the verb: \"she likes\", \"he wants\", \"it costs\". Practice with family descriptions: \"My daughter likes...\", \"My son wants...\"",
+    "After numbers, always add -s: \"two pounds\", \"three apples\", \"four tomatoes\".",
+    "Visit a shop this week and use: \"Can I have... please?\", \"How much is it?\", \"Sorry, can you speak slowly please?\""
+  ],
+  "zpd": {
+    "lower": "A1",
+    "upper": "A1+"
+  }
+}

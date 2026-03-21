@@ -1,0 +1,277 @@
+{
+  "skill_name": "analyze-lesson-errors",
+  "lesson_id": "emu-de-en-b2-01",
+  "student_id": "student-katrin",
+  "reasoning": "Applied the error taxonomy (grammar, vocabulary, pragmatic categories) with severity calibrated against CEFR B2 descriptors. German-English interlanguage patterns were the primary analytical lens, since the majority of errors trace to L1 transfer (false friends, preposition mapping, compound noun rules, relative pronoun system). At B2+, grammar is largely acquired; the error profile is characteristic of a learner transitioning to C1, where collocations, pragmatics, and prepositional idioms become the frontier.",
+  "talk_ratio": {
+    "student_pct": 62,
+    "teacher_pct": 38
+  },
+  "errors": [
+    {
+      "type": "grammar",
+      "subtype": "false_friend",
+      "severity": "moderate",
+      "original": "I become very frustrated",
+      "corrected": "I get very frustrated",
+      "explanation": "German \"bekommen\" means \"to receive\", but its phonetic similarity to English \"become\" causes persistent substitution. At B2, this false friend should be known declaratively but still surfaces under cognitive load.",
+      "timestamp": "03:33",
+      "communicative_impact": "medium",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 1
+    },
+    {
+      "type": "vocabulary",
+      "subtype": "false_friend",
+      "severity": "moderate",
+      "original": "the actual situation",
+      "corrected": "the current situation",
+      "explanation": "German \"aktuell\" means \"current/present\", not \"actual\". One of the most common German-English false friends.",
+      "timestamp": "03:33",
+      "communicative_impact": "medium",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 2
+    },
+    {
+      "type": "vocabulary",
+      "subtype": "false_friend",
+      "severity": "moderate",
+      "original": "We must be consequent about reducing production",
+      "corrected": "We must be consistent about reducing production",
+      "explanation": "German \"konsequent\" means consistent/rigorous, not \"consequent\" (which means \"following as a result\" in English).",
+      "timestamp": "09:05",
+      "communicative_impact": "medium",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 3
+    },
+    {
+      "type": "grammar",
+      "subtype": "noun_adjective_form",
+      "severity": "minor",
+      "original": "environment protection",
+      "corrected": "environmental protection",
+      "explanation": "German compounds nouns freely (Umweltschutz = Umwelt + Schutz). English requires the adjective form for modification.",
+      "timestamp": "05:07",
+      "communicative_impact": "low",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "elicitation",
+      "exercise_priority": 3,
+      "error_index": 4
+    },
+    {
+      "type": "grammar",
+      "subtype": "compound_noun",
+      "severity": "minor",
+      "original": "the green house effect",
+      "corrected": "the greenhouse effect",
+      "explanation": "Student split \"greenhouse\" into two words, likely translating German \"Treibhauseffekt\" component by component.",
+      "timestamp": "06:01",
+      "communicative_impact": "low",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "explicit",
+      "exercise_priority": 2,
+      "error_index": 5
+    },
+    {
+      "type": "grammar",
+      "subtype": "relative_pronoun",
+      "severity": "moderate",
+      "original": "the species which cannot adapt",
+      "corrected": "the species that cannot adapt",
+      "explanation": "Using \"which\" for animate referents. English distinguishes \"who/that\" (people/animals) from \"which\" (things).",
+      "timestamp": "06:40",
+      "communicative_impact": "low",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "explicit",
+      "exercise_priority": 3,
+      "error_index": 6
+    },
+    {
+      "type": "grammar",
+      "subtype": "relative_pronoun",
+      "severity": "moderate",
+      "original": "The people which are most affected",
+      "corrected": "The people who are most affected",
+      "explanation": "Repeat of #6 - using \"which\" for people. Confirms this is a systematic pattern, not a one-off slip.",
+      "timestamp": "13:30",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "Same as #6. German relative pronoun system does not encode animacy.",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 7
+    },
+    {
+      "type": "grammar",
+      "subtype": "relative_pronoun",
+      "severity": "minor",
+      "original": "the documentary what I watched",
+      "corrected": "the documentary that I watched",
+      "explanation": "Using \"what\" as a relative pronoun. \"What\" is not a relative pronoun in standard English.",
+      "timestamp": "50:44",
+      "communicative_impact": "low",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "self_correction",
+      "exercise_priority": 2,
+      "error_index": 8
+    },
+    {
+      "type": "grammar",
+      "subtype": "preposition",
+      "severity": "moderate",
+      "original": "I am interested for this argument",
+      "corrected": "I am interested in this argument",
+      "explanation": "Preposition transfer: German \"sich interessieren fuer\" (+ fuer/for) mapped to English, where the collocation requires \"in\".",
+      "timestamp": "10:02",
+      "communicative_impact": "low",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 9
+    },
+    {
+      "type": "grammar",
+      "subtype": "preposition",
+      "severity": "moderate",
+      "original": "it depends from both factors",
+      "corrected": "it depends on both factors",
+      "explanation": "Preposition transfer: German \"abhangen von\" (+ von/from) mapped to English, where \"depend\" takes \"on\".",
+      "timestamp": "43:38",
+      "communicative_impact": "low",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 10
+    },
+    {
+      "type": "vocabulary",
+      "subtype": "collocation",
+      "severity": "moderate",
+      "original": "There was heavy evidence",
+      "corrected": "There was strong evidence",
+      "explanation": "Wrong adjective-noun collocation. English collocates \"strong/compelling/overwhelming\" with \"evidence\", not \"heavy\".",
+      "timestamp": "15:18",
+      "communicative_impact": "low",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 11
+    },
+    {
+      "type": "pragmatic",
+      "subtype": "directness",
+      "severity": "moderate",
+      "original": "This argument is wrong.",
+      "corrected": "I'd question that assumption\" / \"I'm not sure I agree with that premise",
+      "explanation": "Excessive directness in expressing disagreement, inappropriate for English academic/professional discourse.",
+      "timestamp": "10:50",
+      "communicative_impact": "high",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "elicitation",
+      "exercise_priority": 5,
+      "error_index": 12
+    },
+    {
+      "type": "pragmatic",
+      "subtype": "register",
+      "severity": "minor",
+      "original": "I would like to express my disagreement",
+      "corrected": "I disagree\" / \"I'm not sure about that",
+      "explanation": "Overly formal register for conversational context. The student defaults to formal/academic English in casual settings.",
+      "timestamp": "23:27",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "Partial. The student's English exposure is primarily academic, reinforcing formal register as default. German directness may also lead to compensatory over-formality.",
+      "correction_strategy": "explicit",
+      "exercise_priority": 3,
+      "error_index": 13
+    },
+    {
+      "type": "grammar",
+      "subtype": "noun_adjective_form",
+      "severity": "minor",
+      "original": "when to use which... I mean, when to use what",
+      "corrected": "when to use which one",
+      "explanation": "Confusion about relative vs. interrogative pronoun usage, self-correcting in the wrong direction.",
+      "timestamp": "06:56",
+      "communicative_impact": "low",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "explicit",
+      "exercise_priority": 2,
+      "error_index": 14
+    }
+  ],
+  "error_patterns": [
+    {
+      "pattern": "False friends (bekommen/aktuell/konsequent)",
+      "error_ids": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "pattern": "Relative pronouns (who/which/that)",
+      "error_ids": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "pattern": "Preposition transfer (L1 mapping)",
+      "error_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "pattern": "German compound noun interference",
+      "error_ids": [
+        4,
+        5
+      ]
+    },
+    {
+      "pattern": "Collocation mismatch",
+      "error_ids": [
+        11
+      ]
+    },
+    {
+      "pattern": "Pragmatic directness / register",
+      "error_ids": [
+        12,
+        13
+      ]
+    },
+    {
+      "pattern": "Pronoun confusion (metalinguistic)",
+      "error_ids": [
+        14
+      ]
+    }
+  ],
+  "summary": {
+    "total_errors": 14,
+    "estimated_level": "B2+"
+  }
+}

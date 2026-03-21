@@ -1,0 +1,216 @@
+{
+  "skill_name": "generate-classtime-questions",
+  "lesson_id": "emu-de-en-b2-01",
+  "student_id": "student-katrin",
+  "reasoning": "Applied error taxonomy to 11 errors with exercise_priority >= 3. Used ZPD calibration from level analysis (lower bound B2, upper bound C1). Selected 7 questions covering the 5 highest-priority error patterns: false friends (3 errors consolidated into 1 categorizer), relative pronouns (3 errors into 1 choice + 1 gap), preposition transfer (2 errors into 1 gap), collocation (1 error into 1 gap-choices), and pragmatic directness (1 error into 1 choice + 1 boolean). Distribution: 2 zpd_lower (recognition/confidence), 3 zpd_target (at-level boundary), 2 zpd_stretch (production/complex). Mixed production and recognition tasks: errors with self-correction history (become/get, relative pronouns) get production tasks; persistent/new errors (prepositions, collocations, pragmatics) get recognition tasks.",
+  "session_title": "Practice: Climate change discussion - Katrin (2026-03-20)",
+  "feedback_mode": "practice",
+  "questions": [
+    {
+      "source_ref": {
+        "error_index": 0,
+        "error_type": "grammar",
+        "subtype": "false_friend",
+        "original": "I become very frustrated",
+        "corrected": "I get very frustrated",
+        "severity": "moderate",
+        "pattern_ref": "false_friends"
+      },
+      "payload_type": "categorizer",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Sort these German-English false friends by their correct English meaning",
+        "categories": ["get / receive", "current / present", "consistent / rigorous"],
+        "items": [
+          {"text": "become (bekommen)", "category_index": 0},
+          {"text": "actual (aktuell)", "category_index": 1},
+          {"text": "consequent (konsequent)", "category_index": 2},
+          {"text": "get (bekommen)", "category_index": 0},
+          {"text": "current (aktuell)", "category_index": 1},
+          {"text": "consistent (konsequent)", "category_index": 2}
+        ],
+        "explanation": "These are common German-English false friends. 'bekommen' = to get/receive (not 'become'), 'aktuell' = current (not 'actual'), 'konsequent' = consistent (not 'consequent')."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 6,
+        "error_type": "grammar",
+        "subtype": "relative_pronoun",
+        "original": "The people which are most affected",
+        "corrected": "The people who are most affected",
+        "severity": "moderate",
+        "pattern_ref": "relative_pronouns"
+      },
+      "payload_type": "choice",
+      "difficulty": "zpd_lower",
+      "payload": {
+        "title": "Which sentence uses the correct relative pronoun?",
+        "choices": [
+          {"text": "The people which are most affected by climate change have contributed the least to it.", "is_correct": false},
+          {"text": "The people who are most affected by climate change have contributed the least to it.", "is_correct": true},
+          {"text": "The people what are most affected by climate change have contributed the least to it.", "is_correct": false}
+        ],
+        "explanation": "Use 'who' for people, 'that' or 'which' for things. Never use 'what' as a relative pronoun.",
+        "content": "From the lesson: 'The people which are most affected by climate change are often the people who have contributed the least to it.'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 5,
+        "error_type": "grammar",
+        "subtype": "relative_pronoun",
+        "original": "the species which cannot adapt",
+        "corrected": "the species that cannot adapt",
+        "severity": "moderate",
+        "pattern_ref": "relative_pronouns"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Choose the correct relative pronoun",
+        "template_text": "The species {0} cannot adapt fast enough will die out. The researchers {1} study this problem are very concerned.",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "that", "is_correct": true},
+              {"content": "which", "is_correct": false},
+              {"content": "who", "is_correct": false}
+            ]
+          },
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "who", "is_correct": true},
+              {"content": "which", "is_correct": false},
+              {"content": "what", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "Use 'that' or 'which' for animals and things. Use 'who' for people. 'What' is not a relative pronoun in standard English."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 8,
+        "error_type": "grammar",
+        "subtype": "preposition",
+        "original": "I am interested for this argument",
+        "corrected": "I am interested in this argument",
+        "severity": "moderate",
+        "pattern_ref": "preposition_transfer"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Choose the correct English preposition",
+        "template_text": "I am very interested {0} environmental policy. The outcome depends {1} many factors.",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "in", "is_correct": true},
+              {"content": "for", "is_correct": false},
+              {"content": "about", "is_correct": false}
+            ]
+          },
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "on", "is_correct": true},
+              {"content": "from", "is_correct": false},
+              {"content": "of", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "'Interested in' (not 'for' - German 'fuer' does not transfer). 'Depends on' (not 'from' - German 'von' does not transfer). English prepositions must be learned as fixed collocations.",
+        "content": "From the lesson: 'I am interested for this argument' and 'it depends from both factors'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 10,
+        "error_type": "vocabulary",
+        "subtype": "collocation",
+        "original": "There was heavy evidence",
+        "corrected": "There was strong evidence",
+        "severity": "moderate",
+        "pattern_ref": "collocation_mismatch"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_lower",
+      "payload": {
+        "title": "Choose the correct collocation",
+        "template_text": "There is {0} evidence that fossil fuel companies knew about climate change decades ago. Despite {1} rain, thousands attended the climate protest.",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "strong", "is_correct": true},
+              {"content": "heavy", "is_correct": false},
+              {"content": "hard", "is_correct": false}
+            ]
+          },
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "heavy", "is_correct": true},
+              {"content": "strong", "is_correct": false},
+              {"content": "thick", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "Evidence is 'strong', 'compelling', or 'overwhelming' - not 'heavy'. Rain and traffic are 'heavy' - not 'strong'. English collocations must be learned as chunks.",
+        "content": "From the lesson: 'There was heavy evidence that companies like ExxonMobil knew about climate change'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 11,
+        "error_type": "pragmatic",
+        "subtype": "directness",
+        "original": "This argument is wrong.",
+        "corrected": "I'd question that assumption.",
+        "severity": "moderate",
+        "pattern_ref": "pragmatic_directness"
+      },
+      "payload_type": "choice",
+      "difficulty": "zpd_stretch",
+      "payload": {
+        "title": "Which response is most appropriate for an English academic seminar?",
+        "choices": [
+          {"text": "This argument is wrong because the data shows something different.", "is_correct": false},
+          {"text": "You must stop thinking about it this way.", "is_correct": false},
+          {"text": "I see your point, but the data seems to suggest a different conclusion. Could we look at the evidence together?", "is_correct": true},
+          {"text": "That is not correct.", "is_correct": false}
+        ],
+        "explanation": "In English academic discourse, hedging and collaborative language are more effective than direct contradiction. Acknowledge the other person's point, then present your evidence. This builds trust and invites dialogue rather than confrontation.",
+        "content": "Scenario: A classmate presents an argument in a seminar that you disagree with. How would you respond?"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 11,
+        "error_type": "pragmatic",
+        "subtype": "directness",
+        "original": "This argument is wrong.",
+        "corrected": "I'd question that assumption.",
+        "severity": "moderate",
+        "pattern_ref": "pragmatic_directness"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_stretch",
+      "payload": {
+        "title": "Rewrite this direct statement using hedging language",
+        "template_text": "It {0} be argued that individual action alone is not sufficient to address climate change. Research {1} to suggest that systemic changes may be more effective.",
+        "gaps": [
+          {"type": "blank", "solution": "could"},
+          {"type": "blank", "solution": "tends"}
+        ],
+        "explanation": "'Could be argued' is a distancing hedge that presents the claim as one possible interpretation. 'Tends to suggest' softens the claim by indicating a pattern rather than an absolute truth. These hedging tools make arguments more persuasive in English academic contexts.",
+        "content": "Transform: 'Individual action does not solve the problem. Research shows that systemic changes are more effective.'"
+      }
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "skill_name": "analyze-lesson-themes",
+  "lesson_id": "emu-uk-en-a1-01",
+  "student_id": "student-oksana",
+  "reasoning": "Analyzed the 55-minute transcript for communicative themes, vocabulary patterns, and pedagogical arc. The lesson follows a classic A1 functional syllabus: teacher builds from personal warm-up through controlled vocabulary presentation, semi-controlled price drills, and culminates in progressively freer role-play practice. The topic (shopping/food) was explicitly tied to the student's real-life need, maximizing relevance and motivation. CEFR A1 descriptors guided vocabulary-level tagging.",
+  "lesson_arc": "The lesson progresses through five clear stages: (1) warm-up / personal conversation about the weekend, (2) food vocabulary presentation with visual aids, (3) numbers, prices, and transactional language, (4) guided then free role-play dialogues as customer and shopkeeper, (5) review, error correction, and homework. The arc moves from receptive to productive, from controlled to free, building confidence incrementally. By the final role-play, Oksana handles an unexpected customer request (changing juice preference) independently - a clear sign of communicative growth within the lesson.",
+  "themes": [
+    {
+      "topic": "Weekend activities and personal life",
+      "communicative_function": "narrating, describing",
+      "initiated_by": "teacher",
+      "transcript_range": "00:05 - 04:06",
+      "vocabulary_active": [
+        {
+          "term": "park",
+          "context": "\"I go to park\"",
+          "level": "A1"
+        },
+        {
+          "term": "children",
+          "context": "\"my children\"",
+          "level": "A1"
+        },
+        {
+          "term": "daughter/son",
+          "context": "\"my daughter have seven years\"",
+          "level": "A1"
+        },
+        {
+          "term": "bread",
+          "context": "\"bread, and milk, and eggs\"",
+          "level": "A1"
+        },
+        {
+          "term": "eggs",
+          "context": "\"and eggs\"",
+          "level": "A1"
+        },
+        {
+          "term": "scary",
+          "context": "\"it is scary\"",
+          "level": "A1+"
+        },
+        {
+          "term": "relaxing",
+          "context": "\"Yes, relaxing\"",
+          "level": "A1+"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "lovely",
+          "context": "Teacher's frequent positive reinforcer",
+          "level": "A2"
+        },
+        {
+          "term": "confident",
+          "context": "\"you will feel more confident\"",
+          "level": "A2"
+        },
+        {
+          "term": "spring",
+          "context": "\"Spring is coming\"",
+          "level": "A1"
+        }
+      ],
+      "chunks": [
+        "\"How are you today?\"",
+        "\"Thank you, Sarah\"",
+        "\"I don't understand sometimes\""
+      ]
+    },
+    {
+      "topic": "Food vocabulary",
+      "communicative_function": "naming, describing, classifying",
+      "initiated_by": "teacher",
+      "transcript_range": "04:14 - 13:02",
+      "vocabulary_active": [
+        {
+          "term": "apple",
+          "context": "\"This is an apple\"",
+          "level": "A1"
+        },
+        {
+          "term": "bread",
+          "context": "\"This is bread\"",
+          "level": "A1"
+        },
+        {
+          "term": "milk",
+          "context": "\"Milk, yes\"",
+          "level": "A1"
+        },
+        {
+          "term": "cheese",
+          "context": "\"This is cheese\"",
+          "level": "A1"
+        },
+        {
+          "term": "chicken",
+          "context": "\"This is chicken\"",
+          "level": "A1"
+        },
+        {
+          "term": "rice",
+          "context": "\"This is rice\"",
+          "level": "A1"
+        },
+        {
+          "term": "tomato",
+          "context": "\"Tomato!\"",
+          "level": "A1"
+        },
+        {
+          "term": "potato",
+          "context": "\"This is potato\"",
+          "level": "A1"
+        },
+        {
+          "term": "water",
+          "context": "\"Water\"",
+          "level": "A1"
+        },
+        {
+          "term": "juice",
+          "context": "\"Juice\"",
+          "level": "A1"
+        },
+        {
+          "term": "borscht",
+          "context": "\"Red soup with vegetables\" (circumlocution)",
+          "level": "cultural"
+        },
+        {
+          "term": "dumplings",
+          "context": "\"like small... with potato inside\" (circumlocution)",
+          "level": "A2"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "beetroot",
+          "context": "\"It's a beetroot soup\"",
+          "level": "A2"
+        },
+        {
+          "term": "vowel",
+          "context": "\"apple starts with a vowel sound\"",
+          "level": "meta"
+        },
+        {
+          "term": "countable/uncountable",
+          "context": "grammar explanation",
+          "level": "meta"
+        }
+      ],
+      "chunks": [
+        "\"This is a/an...\"",
+        "\"I don't know\"",
+        "\"How to say...\""
+      ]
+    },
+    {
+      "topic": "Numbers, prices, and transactional language",
+      "communicative_function": "requesting, quantifying, transacting",
+      "initiated_by": "teacher",
+      "transcript_range": "14:47 - 24:18",
+      "vocabulary_active": [
+        {
+          "term": "pounds/pence",
+          "context": "\"one pound fifty\"",
+          "level": "A1"
+        },
+        {
+          "term": "numbers 11-20",
+          "context": "counted sequence",
+          "level": "A1"
+        },
+        {
+          "term": "kilo",
+          "context": "\"two kilos of apples\"",
+          "level": "A1"
+        },
+        {
+          "term": "bottle",
+          "context": "\"one bottle\"",
+          "level": "A1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "per kilo",
+          "context": "\"one pound fifty per kilo\"",
+          "level": "A2"
+        },
+        {
+          "term": "altogether",
+          "context": "\"nine pounds fifty altogether\"",
+          "level": "A2"
+        },
+        {
+          "term": "change",
+          "context": "\"here's your change\"",
+          "level": "A1+"
+        }
+      ],
+      "chunks": [
+        "\"How much is it?\"",
+        "\"It costs...\"",
+        "\"I want some...\"",
+        "\"Can I have... please?\""
+      ]
+    },
+    {
+      "topic": "Shopping role-plays",
+      "communicative_function": "transacting, negotiating, clarifying",
+      "initiated_by": "teacher",
+      "transcript_range": "24:18 - 45:30",
+      "vocabulary_active": [
+        {
+          "term": "semi-skimmed",
+          "context": "learned in context",
+          "level": "A2"
+        },
+        {
+          "term": "cheddar",
+          "context": "\"My children like cheddar\"",
+          "level": "A1+"
+        },
+        {
+          "term": "free-range",
+          "context": "heard passively",
+          "level": "A2"
+        },
+        {
+          "term": "chicken legs/breast",
+          "context": "\"chicken legs please\"",
+          "level": "A1+"
+        },
+        {
+          "term": "orange juice",
+          "context": "\"orange juice for children\"",
+          "level": "A1"
+        },
+        {
+          "term": "loaf of bread",
+          "context": "heard passively",
+          "level": "A2"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "run out",
+          "context": "\"we've run out of that\"",
+          "level": "B1"
+        },
+        {
+          "term": "changed my mind",
+          "context": "\"I've changed my mind\"",
+          "level": "A2+"
+        },
+        {
+          "term": "embarrassed",
+          "context": "used by student in narrative",
+          "level": "A2"
+        }
+      ],
+      "chunks": [
+        "\"Can I have... please?\"",
+        "\"Here you go\"",
+        "\"Anything else?\"",
+        "\"How can I help you?\"",
+        "\"Sorry, can you speak slowly please?\"",
+        "\"Have a nice day!\""
+      ]
+    },
+    {
+      "topic": "Review, error correction, and homework",
+      "communicative_function": "reviewing, metalinguistic reflection",
+      "initiated_by": "teacher",
+      "transcript_range": "45:30 - 54:48",
+      "vocabulary_active": [
+        {
+          "term": "bought",
+          "context": "\"I bought three tomatoes\" (self-corrected from \"buy\")",
+          "level": "A1+"
+        },
+        {
+          "term": "proud",
+          "context": "\"I feel proud\"",
+          "level": "A2"
+        },
+        {
+          "term": "confident",
+          "context": "\"I feel more confident\"",
+          "level": "A2"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "directions",
+          "context": "\"asking for directions\" (preview)",
+          "level": "A2"
+        }
+      ],
+      "chunks": [
+        "\"Sorry, can you speak slowly please?\"",
+        "\"How much is it?\""
+      ]
+    }
+  ]
+}

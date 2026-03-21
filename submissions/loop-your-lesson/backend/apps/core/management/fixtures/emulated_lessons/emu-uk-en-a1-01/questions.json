@@ -1,0 +1,222 @@
+{
+  "skill_name": "generate-classtime-questions",
+  "lesson_id": "emu-uk-en-a1-01",
+  "student_id": "student-oksana",
+  "reasoning": "Applied error taxonomy to 18 identified errors, selecting 7 questions targeting the 4 highest-priority error patterns: past tense narration (exercise_priority 4-5, 6 instances), 3rd person -s agreement (priority 4, 4 instances), article omission (priority 3-4, 3 instances), and plural -s omission (priority 3-4, 4 instances). ZPD calibration: A1 lower bound to A1+/pre-A2 upper bound. Distribution: 2 zpd_lower (recognition/confidence), 3 zpd_target (boundary practice), 2 zpd_stretch (production). Question types mapped per error-to-question table: verb tense -> gap(blank), SVA -> choice/gap(choices), articles -> gap(choices), plurals -> sorter/categorizer. Distractors drawn from student's actual errors and Ukrainian L1 transfer patterns (present-for-past, zero-article, have-for-age, on-for-to). Lesson context (shopping, food, family) used throughout for relevance.",
+  "session_title": "Practice: Shopping and food - Oksana (2026-03-20)",
+  "feedback_mode": "practice",
+  "questions": [
+    {
+      "source_ref": {
+        "error_index": 3,
+        "error_type": "grammar",
+        "subtype": "verb_tense",
+        "original": "She have seven years",
+        "corrected": "She is seven years old",
+        "severity": "major",
+        "pattern_ref": "l1_age_calque"
+      },
+      "payload_type": "choice",
+      "difficulty": "zpd_lower",
+      "payload": {
+        "title": "How do we say someone's age in English?",
+        "choices": [
+          {"text": "She has seven years", "is_correct": false},
+          {"text": "She is seven years old", "is_correct": true},
+          {"text": "She have seven years", "is_correct": false}
+        ],
+        "explanation": "In English we say 'She IS seven years old', not 'She HAS seven years'. Ukrainian uses 'maty roky' (to have years), but English uses 'to be' + age.",
+        "content": "In the lesson you said: 'She have seven years'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 5,
+        "error_type": "grammar",
+        "subtype": "preposition",
+        "original": "I go on shop",
+        "corrected": "I went to the shop",
+        "severity": "major",
+        "pattern_ref": "l1_preposition_transfer"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_lower",
+      "payload": {
+        "title": "Choose the correct preposition",
+        "template_text": "On Saturday I went {0} the shop.",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "to", "is_correct": true},
+              {"content": "on", "is_correct": false},
+              {"content": "in", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "We say 'go TO the shop', not 'go ON shop'. In Ukrainian 'na' can mean both 'on' and 'to', but in English they are different words.",
+        "content": "In the lesson you said: 'I go on shop'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 0,
+        "error_type": "grammar",
+        "subtype": "verb_tense",
+        "original": "I go to park",
+        "corrected": "I went to the park",
+        "severity": "moderate",
+        "pattern_ref": "past_tense_narration"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Past tense: What did you do at the weekend?",
+        "template_text": "Last weekend I {0} to the park with my children.",
+        "gaps": [
+          {"type": "blank", "solution": "went"}
+        ],
+        "explanation": "'Went' is the past tense of 'go'. When talking about last weekend, use past tense: I went, I bought, I cooked.",
+        "content": "In the lesson you said: 'I go to park'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 7,
+        "error_type": "grammar",
+        "subtype": "subject_verb_agreement",
+        "original": "My family like very much",
+        "corrected": "My family likes it very much",
+        "severity": "moderate",
+        "pattern_ref": "subject_verb_agreement_3s"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Third person -s: Complete the sentences",
+        "template_text": "My family {0} borscht very much. My daughter {1} cheese. The bread {2} one pound.",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "likes", "is_correct": true},
+              {"content": "like", "is_correct": false}
+            ]
+          },
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "likes", "is_correct": true},
+              {"content": "like", "is_correct": false}
+            ]
+          },
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "costs", "is_correct": true},
+              {"content": "cost", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "For he/she/it and singular nouns, add -s to the verb: likes, costs, wants. 'My family' and 'my daughter' and 'the bread' are all singular.",
+        "content": "In the lesson you said: 'My family like', 'bread cost', 'the cheese cost'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 8,
+        "error_type": "grammar",
+        "subtype": "article",
+        "original": "This is apple",
+        "corrected": "This is an apple",
+        "severity": "moderate",
+        "pattern_ref": "article_omission"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Articles: a, an, or some?",
+        "template_text": "This is {0} apple. I want {1} milk. Can I have {2} tomato?",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "an", "is_correct": true},
+              {"content": "a", "is_correct": false},
+              {"content": "some", "is_correct": false}
+            ]
+          },
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "some", "is_correct": true},
+              {"content": "a", "is_correct": false},
+              {"content": "an", "is_correct": false}
+            ]
+          },
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "a", "is_correct": true},
+              {"content": "an", "is_correct": false},
+              {"content": "some", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "Use 'an' before vowel sounds (an apple). Use 'a' before consonant sounds (a tomato). Use 'some' for uncountable nouns (some milk). Ukrainian has no articles, so this needs practice!",
+        "content": "In the lesson you said: 'This is apple' (missing 'an')"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 15,
+        "error_type": "grammar",
+        "subtype": "plural",
+        "original": "four tomato",
+        "corrected": "four tomatoes",
+        "severity": "moderate",
+        "pattern_ref": "plural_s_omission"
+      },
+      "payload_type": "categorizer",
+      "difficulty": "zpd_stretch",
+      "payload": {
+        "title": "Sort: Does the noun need plural -s after a number?",
+        "categories": ["Add -s (countable)", "No -s (uncountable)"],
+        "items": [
+          {"text": "three tomatoes", "category_index": 0},
+          {"text": "two pounds", "category_index": 0},
+          {"text": "some milk", "category_index": 1},
+          {"text": "four apples", "category_index": 0},
+          {"text": "some bread", "category_index": 1},
+          {"text": "six eggs", "category_index": 0}
+        ],
+        "explanation": "Countable nouns add -s after numbers: two pounds, three tomatoes, four apples, six eggs. Uncountable nouns use 'some' and never add -s: some milk, some bread."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 4,
+        "error_type": "grammar",
+        "subtype": "verb_tense",
+        "original": "children play. I sit and look",
+        "corrected": "The children played. I sat and watched",
+        "severity": "moderate",
+        "pattern_ref": "past_tense_narration"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_stretch",
+      "payload": {
+        "title": "Past tense: Tell the story of your weekend",
+        "template_text": "Last Saturday I {0} chicken for dinner. Then on Sunday I {1} to the park. The children {2} and I {3} and watched them.",
+        "gaps": [
+          {"type": "blank", "solution": "cooked"},
+          {"type": "blank", "solution": "went"},
+          {"type": "blank", "solution": "played"},
+          {"type": "blank", "solution": "sat"}
+        ],
+        "explanation": "When telling a story about the past, use past tense for every verb: cooked (cook+ed), went (irregular), played (play+ed), sat (irregular: sit->sat).",
+        "content": "In the lesson you said: 'children play, I sit and look' - these should be past tense"
+      }
+    }
+  ]
+}

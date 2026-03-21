@@ -1,0 +1,3 @@
+#!/bin/bash
+cd "$(dirname "$0")/.."
+cd backend && uv run python manage.py run_temporal_worker

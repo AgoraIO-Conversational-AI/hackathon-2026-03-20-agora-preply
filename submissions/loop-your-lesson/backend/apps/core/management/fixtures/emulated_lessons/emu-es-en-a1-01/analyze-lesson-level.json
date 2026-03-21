@@ -1,0 +1,46 @@
+{
+  "skill_name": "analyze-lesson-level",
+  "lesson_id": "emu-es-en-a1-01",
+  "student_id": "student-carmen",
+  "level": "A1+",
+  "confidence": "high",
+  "reasoning": "Applied CEFR conversation descriptors across five dimensions (range, accuracy, fluency, interaction, coherence). Carmen demonstrates solid A1 with emerging A2 features. She can describe family, home, and daily life using simple sentences, possessive adjectives, and \"there is/are.\" Accuracy is limited by systematic 3rd person -s omission, null subject transfer, and L1-influenced word order. Fluency is reasonable with frequent self-correction and L1 fillers. Interaction is strong for A1 - she asks clarification questions, self-corrects, and extends answers beyond the minimum. The overall profile places her at A1+ (upper A1, approaching A2), with the 3rd person -s pattern being the primary blocker for A2 classification.",
+  "dimensions": {
+    "range": "A1+",
+    "accuracy": "A1",
+    "fluency": "A1+",
+    "interaction": "A2-",
+    "coherence": "A1+"
+  },
+  "strengths": [
+    "Vocabulary retention",
+    "Self-correction ability",
+    "Communicative willingness",
+    "Family/personal description"
+  ],
+  "gaps": [
+    "3rd person singular -s (Accuracy) [exercise_focus: true]",
+    "Null subject / dummy \"it\" (Accuracy) [exercise_focus: true]",
+    "Preposition selection (Accuracy) [exercise_focus: true]",
+    "False friends (Vocabulary) [exercise_focus: true]",
+    "Adjective word order (Accuracy) [exercise_focus: false]",
+    "Age expression (Accuracy) [exercise_focus: false]",
+    "Question formation (Accuracy) [exercise_focus: false]"
+  ],
+  "suggestions": [
+    "Dedicate a focused drill segment on 3rd person -s in next lesson. Use high-frequency verbs (works, lives, plays, has, goes, does). Consider a categorizer activity: \"Which form is correct - he work / he works?\"",
+    "Create a recurring warm-up exercise where Carmen describes someone's daily routine (forces repeated 3rd person -s usage in context).",
+    "Introduce a \"null subject spotter\" game - read sentences with and without \"it\" and have Carmen identify which are correct.",
+    "Continue L1 bridging (Spanish translations) - Carmen responds very well to contrastive explanations. Explicitly compare Spanish and English preposition systems.",
+    "Leverage Carmen's Netflix habit - suggest she note 3rd person -s usage while watching.",
+    "Practice writing 5 sentences per day about someone else using \"he/she\" - focus on adding -s to every verb (he works, she lives, it rains).",
+    "When speaking, pause before every \"he/she/it\" verb and consciously add the -s. This will feel slow at first but builds automaticity.",
+    "Make a list of common false friends: actually/currently, sympathetic/friendly, excited/excitada. Write one sentence for each to reinforce correct usage.",
+    "Practice \"it is...\" sentences: write 5 weather sentences (it is cold, it is sunny) and 5 opinion sentences (it is difficult, it is nice) each day.",
+    "For prepositions, learn fixed phrases rather than rules: \"go TO school\", \"live IN London\", \"at Christmas\", \"on the phone\", \"on the floor.\""
+  ],
+  "zpd": {
+    "lower": "A1",
+    "upper": "A2"
+  }
+}

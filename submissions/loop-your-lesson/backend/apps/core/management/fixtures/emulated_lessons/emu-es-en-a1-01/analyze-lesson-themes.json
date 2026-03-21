@@ -1,0 +1,370 @@
+{
+  "skill_name": "analyze-lesson-themes",
+  "lesson_id": "emu-es-en-a1-01",
+  "student_id": "student-carmen",
+  "reasoning": "Applied CEFR A1 conversation descriptors to identify themes, vocabulary breadth, and communicative functions. The lesson followed a clear pedagogical arc from warm-up narration through structured vocabulary input (family, rooms) to guided production and review. Vocabulary was classified as active (student produced unprompted), passive (teacher-introduced, student repeated), or chunks (multi-word phrases the student encountered). Communicative functions mapped to CEFR A1 descriptors: describing people, describing places, expressing preferences, narrating simple past events.",
+  "lesson_arc": "The lesson progressed through four clear phases: (1) warm-up conversation about the weekend and life in London (00:00-04:20), building rapport and surfacing errors in a natural context; (2) family vocabulary and possessive adjectives (04:27-19:53), moving from known words to new vocabulary with structured practice; (3) describing people with adjectives (23:02-32:15), teaching adjective placement and building increasingly complex sentences; (4) home and room vocabulary with \"there is/are\" (32:38-45:01), applying the same describe-and-practice pattern to a new topic. The lesson ended with a review quiz (45:18-49:34) and homework assignment (50:01-51:33). The teacher consistently used explicit correction, self-correction encouragement, and L1 bridging (Spanish translations).",
+  "themes": [
+    {
+      "topic": "Weekend and daily life in London",
+      "communicative_function": "narrating, describing",
+      "initiated_by": "teacher",
+      "transcript_range": "00:00 - 04:20",
+      "vocabulary_active": [
+        {
+          "term": "weekend",
+          "context": "\"My weekend was very nice\"",
+          "level": "A1"
+        },
+        {
+          "term": "scarf",
+          "context": "\"a scarf for my mother\"",
+          "level": "A2"
+        },
+        {
+          "term": "cold",
+          "context": "\"Is very cold today in London\"",
+          "level": "A1"
+        },
+        {
+          "term": "university",
+          "context": "\"I like the university\"",
+          "level": "A1"
+        },
+        {
+          "term": "friends",
+          "context": "\"I have many friends from different countries\"",
+          "level": "A1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "currently",
+          "context": "teacher introduced as correction for \"actually\"",
+          "level": "A2"
+        },
+        {
+          "term": "getting used to",
+          "context": "teacher introduced, Carmen asked for meaning",
+          "level": "B1"
+        }
+      ],
+      "chunks": [
+        "\"getting used to\" (introduced by teacher, attempted by student)",
+        "\"how to say...?\" (communication strategy, used repeatedly)",
+        "\"es que...\" (L1 filler, used as discourse marker)"
+      ]
+    },
+    {
+      "topic": "Family vocabulary and possessives",
+      "communicative_function": "describing, identifying, listing",
+      "initiated_by": "teacher",
+      "transcript_range": "04:27 - 19:53",
+      "vocabulary_active": [
+        {
+          "term": "mother/father",
+          "context": "\"My mother, my father\"",
+          "level": "A1"
+        },
+        {
+          "term": "sister/brother",
+          "context": "\"I have a sister and a brother\"",
+          "level": "A1"
+        },
+        {
+          "term": "grandmother/grandfather",
+          "context": "\"My grandmother, she is very old\"",
+          "level": "A1"
+        },
+        {
+          "term": "aunt/uncle",
+          "context": "\"My uncle, he is a lawyer\"",
+          "level": "A1"
+        },
+        {
+          "term": "cousin",
+          "context": "\"I have twelve cousins\"",
+          "level": "A1"
+        },
+        {
+          "term": "nephew/niece",
+          "context": "\"I don't have a nephew or niece\"",
+          "level": "A2"
+        },
+        {
+          "term": "husband/wife",
+          "context": "\"they are husband and wife\"",
+          "level": "A1"
+        },
+        {
+          "term": "nurse",
+          "context": "\"He is a nurse\"",
+          "level": "A1"
+        },
+        {
+          "term": "teacher",
+          "context": "\"She is a teacher\"",
+          "level": "A1"
+        },
+        {
+          "term": "lawyer",
+          "context": "\"He is a lawyer\" (after prompt)",
+          "level": "A2"
+        },
+        {
+          "term": "dog",
+          "context": "\"We have a dog\"",
+          "level": "A1"
+        },
+        {
+          "term": "chickens",
+          "context": "\"They have chickens\"",
+          "level": "A1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "nephew/niece",
+          "context": "teacher introduced with Spanish translation",
+          "level": "A2"
+        },
+        {
+          "term": "lawyer",
+          "context": "teacher provided translation of \"abogado\"",
+          "level": "A2"
+        },
+        {
+          "term": "crazy",
+          "context": "teacher translated \"loco\"",
+          "level": "A1"
+        }
+      ],
+      "chunks": [
+        "\"X years old\" (age expression, practiced repeatedly)",
+        "\"his name is / her name is\" (possessive + identification)",
+        "\"I don't have a...\" (negative possession)",
+        "\"on the phone\" (fixed preposition phrase)"
+      ]
+    },
+    {
+      "topic": "Describing people with adjectives",
+      "communicative_function": "describing, comparing",
+      "initiated_by": "teacher",
+      "transcript_range": "23:02 - 32:15",
+      "vocabulary_active": [
+        {
+          "term": "tall/short",
+          "context": "\"She is tall\", \"He is short\"",
+          "level": "A1"
+        },
+        {
+          "term": "funny",
+          "context": "\"She is very funny\"",
+          "level": "A1"
+        },
+        {
+          "term": "old/young",
+          "context": "\"She is very old\"",
+          "level": "A1"
+        },
+        {
+          "term": "nice/friendly",
+          "context": "\"She is very friendly\" (corrected from sympathetic)",
+          "level": "A1"
+        },
+        {
+          "term": "annoying",
+          "context": "\"He is very annoying\" (after teacher introduced)",
+          "level": "A2"
+        },
+        {
+          "term": "strict",
+          "context": "\"She was very strict\"",
+          "level": "A2"
+        },
+        {
+          "term": "kind",
+          "context": "\"He is very kind\"",
+          "level": "A1"
+        },
+        {
+          "term": "smart",
+          "context": "used in practice drill",
+          "level": "A1"
+        },
+        {
+          "term": "chubby",
+          "context": "\"She is a little chubby\" (after teacher introduced)",
+          "level": "A2"
+        },
+        {
+          "term": "slim",
+          "context": "\"He is tall and slim\" (after teacher introduced)",
+          "level": "A2"
+        },
+        {
+          "term": "patient",
+          "context": "\"My father is kind and patient\"",
+          "level": "A2"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "annoying",
+          "context": "teacher introduced as \"molesto\"",
+          "level": "A2"
+        },
+        {
+          "term": "strict",
+          "context": "teacher explained meaning",
+          "level": "A2"
+        },
+        {
+          "term": "chubby/plump",
+          "context": "teacher translated \"gordita\"",
+          "level": "A2"
+        },
+        {
+          "term": "slim/thin",
+          "context": "teacher translated \"delgado\"",
+          "level": "A2"
+        }
+      ],
+      "chunks": [
+        "\"she always makes us laugh\" (produced by Carmen",
+        "\"he lives in his own world\" (idiomatic, noted by teacher)",
+        "\"medium height\" (teacher provided compound)"
+      ]
+    },
+    {
+      "topic": "Home, rooms, and furniture",
+      "communicative_function": "describing places, comparing, expressing existence",
+      "initiated_by": "teacher",
+      "transcript_range": "32:38 - 45:01",
+      "vocabulary_active": [
+        {
+          "term": "kitchen",
+          "context": "\"My kitchen is big\"",
+          "level": "A1"
+        },
+        {
+          "term": "bedroom",
+          "context": "\"My bedroom is my favorite room\"",
+          "level": "A1"
+        },
+        {
+          "term": "bathroom",
+          "context": "\"There is a bathroom\"",
+          "level": "A1"
+        },
+        {
+          "term": "living room",
+          "context": "\"In my living room there is a big sofa\"",
+          "level": "A1"
+        },
+        {
+          "term": "dining room",
+          "context": "listed in review",
+          "level": "A1"
+        },
+        {
+          "term": "garage",
+          "context": "\"We have a garage\"",
+          "level": "A1"
+        },
+        {
+          "term": "garden",
+          "context": "\"a beautiful garden with flowers\"",
+          "level": "A1"
+        },
+        {
+          "term": "sofa",
+          "context": "\"a big sofa\"",
+          "level": "A1"
+        },
+        {
+          "term": "desk",
+          "context": "\"there is a desk where I study\"",
+          "level": "A1"
+        },
+        {
+          "term": "wardrobe",
+          "context": "\"a wardrobe\" (after teacher introduced)",
+          "level": "A2"
+        },
+        {
+          "term": "bookshelf",
+          "context": "\"books on the bookshelf\"",
+          "level": "A2"
+        },
+        {
+          "term": "coffee table",
+          "context": "\"a small coffee table\"",
+          "level": "A2"
+        },
+        {
+          "term": "sink",
+          "context": "\"a sink\" (after teacher introduced)",
+          "level": "A2"
+        },
+        {
+          "term": "mirror",
+          "context": "\"there is a mirror\"",
+          "level": "A1"
+        },
+        {
+          "term": "messy",
+          "context": "\"Her bedroom is very messy\"",
+          "level": "A2"
+        },
+        {
+          "term": "flat",
+          "context": "\"I live in a flat with other students\"",
+          "level": "A1"
+        },
+        {
+          "term": "upstairs/downstairs",
+          "context": "\"the bedrooms are upstairs\"",
+          "level": "A2"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "wardrobe",
+          "context": "teacher translated \"armario\"",
+          "level": "A2"
+        },
+        {
+          "term": "sink/basin",
+          "context": "teacher translated \"lavabo\"",
+          "level": "A2"
+        },
+        {
+          "term": "rooftop terrace",
+          "context": "teacher introduced compound",
+          "level": "B1"
+        },
+        {
+          "term": "en suite",
+          "context": "teacher introduced French loanword",
+          "level": "B1"
+        },
+        {
+          "term": "oak tree",
+          "context": "teacher translated \"roble\"",
+          "level": "A2"
+        },
+        {
+          "term": "greasy",
+          "context": "teacher translated \"graso\"",
+          "level": "A2"
+        }
+      ],
+      "chunks": [
+        "\"there is a... / there are some...\" (existential construction)",
+        "\"upstairs and downstairs\" (spatial pair)",
+        "\"in front of\" (preposition of place)"
+      ]
+    }
+  ]
+}

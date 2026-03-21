@@ -1,0 +1,184 @@
+{
+  "skill_name": "generate-classtime-questions",
+  "lesson_id": "emu-es-en-b2-01",
+  "student_id": "student-pablo",
+  "reasoning": "Applied error taxonomy to 20 errors, selecting 7 with exercise_priority >= 3 for question generation. Targeted the three dominant patterns: null subject omission (5 instances, priority 5), false friends (4 instances, priority 5), and prepositional calques (4 instances, priority 4). Used ZPD calibration from level assessment (B2 lower bound, C1 upper bound) to distribute difficulty: 2 zpd_lower (confidence building with recognition tasks), 3 zpd_target (at the B2/C1 boundary), 2 zpd_stretch (production tasks pushing toward C1). Distractors incorporate the student's actual errors and Spanish L1 transfer patterns per interlanguage theory. Question types mapped per error-to-question table: gap (blank) for production of correct forms, gap (choices) for preposition selection, choice for false friend recognition, boolean for rule checking, categorizer for collocation patterns.",
+  "session_title": "Practice: Remote Work & AI - Pablo (2026-03-20)",
+  "feedback_mode": "practice",
+  "questions": [
+    {
+      "source_ref": {
+        "error_index": 3,
+        "error_type": "grammar",
+        "subtype": "null_subject",
+        "original": "many people think is not enough flexibility",
+        "corrected": "many people think it is not enough flexibility",
+        "severity": "major",
+        "pattern_ref": "null_subject"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Complete with the missing subject",
+        "template_text": "Many of my colleagues think {0} is not enough flexibility in our hybrid model.",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "it", "is_correct": true},
+              {"content": "there", "is_correct": false},
+              {"content": "(nothing)", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "In English, embedded clauses need an explicit subject. 'I think IT is' - the expletive 'it' cannot be dropped, unlike in Spanish where the subject is implied by the verb conjugation.",
+        "content": "In the lesson you said: 'many people think is not enough flexibility'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 7,
+        "error_type": "grammar",
+        "subtype": "null_subject",
+        "original": "I think is a mix of both",
+        "corrected": "I think it is a mix of both",
+        "severity": "major",
+        "pattern_ref": "null_subject"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Fill in the missing word",
+        "template_text": "The problem is that {0} is very difficult to define what counts as automation.",
+        "gaps": [
+          {
+            "type": "blank",
+            "solution": "it"
+          }
+        ],
+        "explanation": "English requires an explicit subject in every clause. 'The problem is that IT is...' - the expletive 'it' is mandatory even when the real subject comes later.",
+        "content": "In the lesson you said: 'the problem is that is very difficult to define'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 1,
+        "error_type": "vocabulary",
+        "subtype": "false_friend",
+        "original": "I had to assist to many meetings",
+        "corrected": "I had to attend many meetings",
+        "severity": "major",
+        "pattern_ref": "false_friends"
+      },
+      "payload_type": "choice",
+      "difficulty": "zpd_lower",
+      "payload": {
+        "title": "Which sentence uses the correct word?",
+        "choices": [
+          {"text": "I had to assist to many unproductive meetings last week.", "is_correct": false},
+          {"text": "I had to attend many unproductive meetings last week.", "is_correct": true},
+          {"text": "I had to assist many unproductive meetings last week.", "is_correct": false}
+        ],
+        "explanation": "Spanish 'asistir a' = English 'attend'. English 'assist' means 'help'. 'Attend a meeting' is the correct collocation.",
+        "content": "In the lesson you said: 'I had to assist to many meetings'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 10,
+        "error_type": "vocabulary",
+        "subtype": "false_friend",
+        "original": "the results were very sensible to how you measure them",
+        "corrected": "the results were very sensitive to how you measure them",
+        "severity": "major",
+        "pattern_ref": "false_friends"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Choose the correct word",
+        "template_text": "The productivity data is very {0} to the measurement methodology you choose.",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "sensitive", "is_correct": true},
+              {"content": "sensible", "is_correct": false},
+              {"content": "sensory", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "Spanish 'sensible' = English 'sensitive' (responsive to stimuli or changes). English 'sensible' = Spanish 'sensato' (reasonable, practical).",
+        "content": "In the lesson you said: 'the results were very sensible to how you measure them'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 5,
+        "error_type": "grammar",
+        "subtype": "preposition",
+        "original": "It depends of the day",
+        "corrected": "It depends on the day",
+        "severity": "moderate",
+        "pattern_ref": "preposition_transfer"
+      },
+      "payload_type": "categorizer",
+      "difficulty": "zpd_stretch",
+      "payload": {
+        "title": "Sort these phrases by the correct preposition: ON or OF",
+        "categories": ["on", "of"],
+        "items": [
+          {"text": "depend ___", "category_index": 0},
+          {"text": "consist ___", "category_index": 1},
+          {"text": "independent ___", "category_index": 1},
+          {"text": "dependent ___", "category_index": 0},
+          {"text": "rely ___", "category_index": 0},
+          {"text": "aware ___", "category_index": 1}
+        ],
+        "explanation": "Spanish 'de' maps to different English prepositions depending on the word: depend ON, rely ON, dependent ON, but consist OF, independent OF, aware OF. These must be memorized as fixed collocations."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 4,
+        "error_type": "grammar",
+        "subtype": "l1_structure_transfer",
+        "original": "I am agree with the hybrid model",
+        "corrected": "I agree with the hybrid model",
+        "severity": "major",
+        "pattern_ref": "l1_structure_transfer"
+      },
+      "payload_type": "boolean",
+      "difficulty": "zpd_lower",
+      "payload": {
+        "title": "'I am agree with the hybrid model' is a correct English sentence.",
+        "is_correct": false,
+        "explanation": "In English, 'agree' is a verb, not an adjective. Say 'I agree with' (not 'I am agree with'). The Spanish structure 'estoy de acuerdo' uses the verb 'to be' + adjective, but in English 'agree' functions as the main verb directly."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 14,
+        "error_type": "vocabulary",
+        "subtype": "collocation",
+        "original": "We need to make research on this",
+        "corrected": "We need to do research on this",
+        "severity": "moderate",
+        "pattern_ref": "collocation_calque"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_stretch",
+      "payload": {
+        "title": "Complete with the correct verb (make, do, give, hold)",
+        "template_text": "Last week I had to {0} a presentation to the partners, {1} a meeting with the regional directors, and {2} research on the client's competitors.",
+        "gaps": [
+          {"type": "blank", "solution": "give"},
+          {"type": "blank", "solution": "hold"},
+          {"type": "blank", "solution": "do"}
+        ],
+        "explanation": "English business collocations: GIVE a presentation (not 'do'), HOLD a meeting (or 'have'; not 'make'), DO research (or 'conduct'; not 'make'). These don't follow logical rules - they must be memorized as fixed pairs.",
+        "content": "In the lesson you said: 'make research', 'make a meeting', 'do a presentation'"
+      }
+    }
+  ]
+}

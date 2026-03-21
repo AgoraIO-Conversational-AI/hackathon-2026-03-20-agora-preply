@@ -1,0 +1,210 @@
+{
+  "skill_name": "generate-classtime-questions",
+  "lesson_id": "emu-uk-en-b2-01",
+  "student_id": "student-andrii",
+  "reasoning": "Applied error taxonomy to 14 errors from the lesson analysis. Selected 7 questions targeting errors with exercise_priority >= 3, focusing on the three dominant error patterns: abstract noun articles (the most frequent and highest-severity pattern, 6 instances), preposition collocations (3 instances of L1 transfer), and conditional structures (2 instances). Used ZPD calibration from level analysis (B2 lower bound, C1 upper bound) to distribute difficulty: 2 zpd_lower (confidence building with recognition tasks), 3 zpd_target (mixed production/recognition at the B2/C1 boundary), 2 zpd_stretch (production tasks requiring active recall). Question types mapped per error-to-question table: gap(choices) for article selection and preposition selection, gap(blank) for production of correct forms, boolean for quick rule checks, categorizer for systematic article pattern classification, and choice for conditional rule recognition. Distractors use the student's actual errors and L1 transfer patterns from Ukrainian.",
+  "session_title": "Practice: Data Privacy & Tech Vocabulary - Andrii (2026-03-20)",
+  "feedback_mode": "practice",
+  "questions": [
+    {
+      "source_ref": {
+        "error_index": 1,
+        "error_type": "grammar",
+        "subtype": "articles",
+        "original": "the privacy means that I control...",
+        "corrected": "privacy means that I control...",
+        "severity": "major",
+        "pattern_ref": "abstract_noun_articles"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Articles with abstract nouns: general concepts",
+        "template_text": "{0} is becoming increasingly important in the digital age. Without {1}, there can be no real freedom.",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "Privacy", "is_correct": true},
+              {"content": "The privacy", "is_correct": false},
+              {"content": "A privacy", "is_correct": false}
+            ]
+          },
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "privacy", "is_correct": true},
+              {"content": "the privacy", "is_correct": false},
+              {"content": "a privacy", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "When talking about privacy as a general concept, use zero article. 'The privacy' is only correct when referring to a specific instance, e.g., 'the privacy of the user'.",
+        "content": "In the lesson you said: 'the privacy means that I control...' - no article needed for the general concept."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 2,
+        "error_type": "grammar",
+        "subtype": "articles",
+        "original": "the capitalism always finds new ways",
+        "corrected": "capitalism always finds new ways",
+        "severity": "major",
+        "pattern_ref": "abstract_noun_articles"
+      },
+      "payload_type": "categorizer",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Sort: zero article or 'the' with abstract nouns",
+        "categories": ["Zero article (general concept)", "The (specific instance)"],
+        "items": [
+          {"text": "Democracy cannot function without transparency.", "category_index": 0},
+          {"text": "The democracy that exists in Scandinavia is a model for others.", "category_index": 1},
+          {"text": "Technology has changed how we communicate.", "category_index": 0},
+          {"text": "The technology that Apple uses is proprietary.", "category_index": 1},
+          {"text": "Capitalism always finds new ways to profit.", "category_index": 0},
+          {"text": "The capitalism of the 19th century was unregulated.", "category_index": 1}
+        ],
+        "explanation": "Use zero article for abstract nouns as general concepts. Use 'the' when the noun is made specific by a relative clause ('that exists in...') or a prepositional phrase ('of the 19th century')."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 6,
+        "error_type": "grammar",
+        "subtype": "prepositions",
+        "original": "it depends from the client",
+        "corrected": "it depends on the client",
+        "severity": "moderate",
+        "pattern_ref": "preposition_transfer"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Choose the correct preposition",
+        "template_text": "The outcome depends {0} the client's requirements. Our team is interested {1} adopting new privacy standards. This resulted {2} a major policy change.",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "on", "is_correct": true},
+              {"content": "from", "is_correct": false},
+              {"content": "of", "is_correct": false}
+            ]
+          },
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "in", "is_correct": true},
+              {"content": "about", "is_correct": false},
+              {"content": "on", "is_correct": false}
+            ]
+          },
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "in", "is_correct": true},
+              {"content": "to", "is_correct": false},
+              {"content": "with", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "English preposition collocations: depend ON (not 'from' as in Ukrainian 'vid'), interested IN (not 'about'), result IN. These must be memorized as fixed pairs.",
+        "content": "In the lesson you said 'depends from' and 'interested about' - both are Ukrainian preposition transfers."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 8,
+        "error_type": "grammar",
+        "subtype": "verb_construction",
+        "original": "many people discussed about this",
+        "corrected": "many people discussed this",
+        "severity": "moderate",
+        "pattern_ref": "preposition_transfer"
+      },
+      "payload_type": "boolean",
+      "difficulty": "zpd_lower",
+      "payload": {
+        "title": "'Many people discussed about the new regulations' is correct English.",
+        "is_correct": false,
+        "explanation": "'Discuss' is a transitive verb in English - it takes a direct object without a preposition. Correct: 'Many people discussed the new regulations.' Ukrainian 'obhovoryvaly pro' uses a preposition, but English does not."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 9,
+        "error_type": "grammar",
+        "subtype": "conditionals",
+        "original": "if you would tell people to pay five dollars",
+        "corrected": "if you told people to pay five dollars",
+        "severity": "moderate",
+        "pattern_ref": "conditional_will_would"
+      },
+      "payload_type": "choice",
+      "difficulty": "zpd_lower",
+      "payload": {
+        "title": "Which sentence uses the second conditional correctly?",
+        "choices": [
+          {"text": "If you would tell people to pay for Facebook, they would refuse.", "is_correct": false},
+          {"text": "If you told people to pay for Facebook, they would refuse.", "is_correct": true},
+          {"text": "If you will tell people to pay for Facebook, they would refuse.", "is_correct": false}
+        ],
+        "explanation": "Second conditional (hypothetical present/future): if + past simple, would + infinitive. Never use 'would' or 'will' in the if-clause. Ukrainian 'yakscho b' translates literally as 'if would' but this structure is not grammatical in English.",
+        "content": "In the lesson you said: 'if you would tell people to pay five dollars' - then self-corrected to 'if you told'."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 4,
+        "error_type": "grammar",
+        "subtype": "articles",
+        "original": "I am software engineer",
+        "corrected": "I am a software engineer",
+        "severity": "moderate",
+        "pattern_ref": "missing_article_countable"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_stretch",
+      "payload": {
+        "title": "Fill in the correct article (or leave blank for zero article)",
+        "template_text": "I am {0} software engineer who specializes in data security. {1} technology has changed how we protect user data. I have {2} deep understanding of encryption protocols.",
+        "gaps": [
+          {"type": "blank", "solution": "a"},
+          {"type": "choices", "choices": [
+            {"content": "the", "is_correct": false},
+            {"content": "a", "is_correct": false},
+            {"content": "—", "is_correct": true}
+          ]},
+          {"type": "blank", "solution": "a"}
+        ],
+        "explanation": "Singular countable nouns (like professions) need 'a/an': 'a software engineer'. Abstract nouns as general concepts take zero article: 'Technology has changed...' (not 'The technology'). 'A deep understanding' uses 'a' because it describes a particular type/quality of understanding.",
+        "content": "In the lesson you said 'I am software engineer' - the article 'a' is needed before professions."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 12,
+        "error_type": "grammar",
+        "subtype": "tense",
+        "original": "I am working in tech for five years",
+        "corrected": "I have been working in tech for five years",
+        "severity": "moderate",
+        "pattern_ref": "tense_present_for_perfect"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_stretch",
+      "payload": {
+        "title": "Present perfect continuous for ongoing durations",
+        "template_text": "I {0} in the tech industry for five years. Our company {1} privacy tools since 2021.",
+        "gaps": [
+          {"type": "blank", "solution": "have been working"},
+          {"type": "blank", "solution": "has been developing"}
+        ],
+        "explanation": "When an action started in the past and continues to the present, use present perfect continuous: have/has + been + -ing. Ukrainian uses present tense for both current actions and actions continuing from the past, which leads to 'I am working for five years' - incorrect in English.",
+        "content": "In the lesson you said: 'I am working in tech for five years' - this needs present perfect continuous because the action started in the past and continues now."
+      }
+    }
+  ]
+}

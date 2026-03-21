@@ -1,0 +1,47 @@
+{
+  "skill_name": "analyze-lesson-level",
+  "lesson_id": "emu-uk-en-a1-02",
+  "student_id": "student-dmytro",
+  "level": "A1+",
+  "confidence": "high",
+  "reasoning": "Applied CEFR conversation descriptors across five dimensions (range, accuracy, fluency, interaction, coherence). The student demonstrates solid A1 competence with clear indicators of approaching A2 in certain areas (interaction, coherence). Range is limited to high-frequency concrete vocabulary, accuracy is inconsistent with systematic errors in articles, third person -s, and prepositions. Fluency shows characteristic A1 hesitation patterns with L1 resort. Interaction is strong for A1 - the student asks clarification questions, self-corrects, and maintains turn-taking. Coherence is developing - the student can produce multi-sentence descriptions of routines with temporal sequencing. The consistent self-correction behavior (especially on third person -s) indicates the rule is being internalized and places the student at the upper boundary of A1, approaching A2.",
+  "dimensions": {
+    "range": "A1",
+    "accuracy": "A1",
+    "fluency": "A1+",
+    "interaction": "A2-",
+    "coherence": "A1+"
+  },
+  "strengths": [
+    "Daily routine vocabulary",
+    "Time expressions",
+    "Self-correction ability",
+    "Interaction strategies",
+    "Willingness to produce extended output"
+  ],
+  "gaps": [
+    "Article system (a/an/the) (Accuracy) [exercise_focus: true]",
+    "Third person -s (Accuracy) [exercise_focus: true]",
+    "Preposition for time: at vs on (Accuracy) [exercise_focus: true]",
+    "Preposition for transport: by (Accuracy) [exercise_focus: true]",
+    "Past simple tense (Accuracy) [exercise_focus: false]",
+    "Present simple vs present continuous (Accuracy) [exercise_focus: true]",
+    "Missing subject \"it\" (Accuracy) [exercise_focus: false]"
+  ],
+  "suggestions": [
+    "Continue drilling third person -s through varied contexts - the self-correction behavior shows the rule is at the tipping point of acquisition. Use elicitation (\"She...?\") rather than explicit correction to strengthen self-monitoring.",
+    "Introduce article practice as a recurring micro-activity. Start with \"a\" for first-mention countable nouns in daily contexts (\"a sandwich\", \"a project\", \"a clock\"). Don't overwhelm with the/a distinction yet.",
+    "Reinforce preposition collocations through formulaic chunks: \"at + time\", \"on + day\", \"in + month/season\", \"by + transport\". Drill as fixed phrases rather than rules.",
+    "Address present simple vs continuous explicitly in the next lesson with clear contrast pairs: \"I work every day\" (simple) vs \"I am working right now\" (continuous).",
+    "Introduce past simple systematically in a future lesson (2-3 lessons ahead). The student has some awareness (woke) but cannot produce it reliably.",
+    "Practice describing your wife's or a friend's daily routine out loud every day. Focus on adding -s to every verb: \"she wakes, she goes, she cooks, she reads\". This is your most important practice activity.",
+    "When you say a noun, always ask yourself: does it need \"a\" or \"the\"? Start with \"a\" for things you mention for the first time: \"a sandwich\", \"a project\", \"a meeting\".",
+    "Practice saying clock times in English whenever you check the time. Use \"half past\", \"quarter past\", \"quarter to\" - not just the numbers.",
+    "Remember: \"at\" for times (at seven o'clock), \"on\" for days (on Monday), \"by\" for transport (by car). Make a note on your phone with these three rules.",
+    "Keep reading tech news in English. You're building vocabulary from context, which is exactly the right approach at this level."
+  ],
+  "zpd": {
+    "lower": "A1",
+    "upper": "A2"
+  }
+}

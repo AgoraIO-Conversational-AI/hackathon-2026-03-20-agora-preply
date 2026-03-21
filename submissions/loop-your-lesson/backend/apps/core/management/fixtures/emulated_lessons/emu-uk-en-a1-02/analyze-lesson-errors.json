@@ -1,0 +1,460 @@
+{
+  "skill_name": "analyze-lesson-errors",
+  "lesson_id": "emu-uk-en-a1-02",
+  "student_id": "student-dmytro",
+  "reasoning": "Applied the error taxonomy (grammar, vocabulary, pragmatic categories) with severity calibrated to A1 CEFR level. Used Ukrainian-English interlanguage patterns to identify L1 transfer errors - particularly article omission (Ukrainian has no articles), preposition confusion (\"o\" -> \"on\"), and third person -s omission (Ukrainian verbs do not inflect for person in the same way). Severity is calibrated against A1 expectations: article errors are moderate (expected at this level but must be addressed), while third person -s omission is major (it is the core grammar target of this lesson and recurs persistently).",
+  "talk_ratio": {
+    "student_pct": 48,
+    "teacher_pct": 52
+  },
+  "errors": [
+    {
+      "type": "grammar",
+      "subtype": "article_omission",
+      "severity": "moderate",
+      "original": "I am working on new project.",
+      "corrected": "I am working on a new project.",
+      "explanation": "Missing indefinite article \"a\" before \"new project\". At A1, articles are being introduced and are expected to be inconsistent, but this is a high-frequency pattern that recurs throughout the lesson.",
+      "timestamp": "00:25",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Ukrainian has no article system. Nouns appear without determiners, so Ukrainian speakers systematically omit English articles.",
+      "correction_strategy": "recast",
+      "exercise_priority": 4,
+      "error_index": 1
+    },
+    {
+      "type": "grammar",
+      "subtype": "missing_subject",
+      "severity": "moderate",
+      "original": "Is... application. Mobile application.",
+      "corrected": "It's an application. A mobile application.",
+      "explanation": "Missing subject \"it\" and missing article. Ukrainian is a pro-drop language that allows subject omission, especially with copular constructions.",
+      "timestamp": "00:40",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Ukrainian allows null subjects (pro-drop). \"Це додаток\" does not require an explicit subject pronoun.",
+      "correction_strategy": "none",
+      "exercise_priority": 3,
+      "error_index": 2
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "major",
+      "original": "client want many things",
+      "corrected": "the client wants many things",
+      "explanation": "Missing third person -s on \"want\" and missing article \"the\". This is the single most recurring error pattern in the lesson.",
+      "timestamp": "00:58",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Ukrainian verbs do not add a suffix for third person singular present tense in the same way. The conjugation system is different, so the English -s/-es ending has no direct equivalent.",
+      "correction_strategy": "recast",
+      "exercise_priority": 5,
+      "error_index": 3
+    },
+    {
+      "type": "grammar",
+      "subtype": "modal_syntax",
+      "severity": "moderate",
+      "original": "I must to say time correct.",
+      "corrected": "I must say the time correctly.",
+      "explanation": "Added \"to\" after \"must\". Also missing article before \"time\" and adverb form \"correctly\".",
+      "timestamp": "01:32",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Ukrainian \"мушу\" (must) is followed by an infinitive form, and learners transfer the \"to\" from \"have to\" pattern. Conflation of \"must\" and \"have to\" syntax.",
+      "correction_strategy": "explicit",
+      "exercise_priority": 3,
+      "error_index": 4
+    },
+    {
+      "type": "grammar",
+      "subtype": "verb_tense",
+      "severity": "major",
+      "original": "Today I wake up on seven o'clock.",
+      "corrected": "Today I woke up at seven o'clock.",
+      "explanation": "Used present simple \"wake\" instead of past simple \"woke\" for a completed past action. Also preposition error (see #6).",
+      "timestamp": "02:04",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "partial - Ukrainian aspect system differs from English tense system. The present tense can be used for recent past events in casual Ukrainian speech.",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 5
+    },
+    {
+      "type": "grammar",
+      "subtype": "preposition",
+      "severity": "major",
+      "original": "on seven o'clock",
+      "corrected": "at seven o'clock",
+      "explanation": "Used \"on\" instead of \"at\" for clock time. This error recurs at 07:17.",
+      "timestamp": "02:04",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Ukrainian \"о дев'ятій\" uses the preposition \"о\" which phonetically resembles \"on\". Dmytro explicitly identified this transfer himself at 07:38.",
+      "correction_strategy": "explicit",
+      "exercise_priority": 5,
+      "error_index": 6
+    },
+    {
+      "type": "grammar",
+      "subtype": "verb_tense",
+      "severity": "major",
+      "original": "Yesterday I wake up late.",
+      "corrected": "Yesterday I woke up late.",
+      "explanation": "Repeated past tense error - used present \"wake\" instead of past \"woke\" with the time marker \"yesterday\".",
+      "timestamp": "02:35",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "partial - same as #5",
+      "correction_strategy": "recast",
+      "exercise_priority": 4,
+      "error_index": 7
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "major",
+      "original": "My wife wake up at six because she go to... she go to school early.",
+      "corrected": "My wife wakes up at six because she goes to school early.",
+      "explanation": "Multiple third person -s omissions in one utterance: \"wake\" -> \"wakes\", \"go\" -> \"goes\" (twice).",
+      "timestamp": "02:55",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- same mechanism as #3",
+      "correction_strategy": "explicit",
+      "exercise_priority": 5,
+      "error_index": 8
+    },
+    {
+      "type": "grammar",
+      "subtype": "preposition",
+      "severity": "moderate",
+      "original": "I start work on nine o'clock.",
+      "corrected": "I start work at nine o'clock.",
+      "explanation": "Repeated preposition error \"on\" for time. Same L1 transfer as #6.",
+      "timestamp": "07:17",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- same Ukrainian \"о\" -> \"on\" transfer",
+      "correction_strategy": "explicit",
+      "exercise_priority": 5,
+      "error_index": 9
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "moderate",
+      "original": "project have deadline",
+      "corrected": "the project has a deadline",
+      "explanation": "Missing third person -s (\"have\" -> \"has\"), missing articles \"the\" and \"a\".",
+      "timestamp": "08:08",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- article omission + verb agreement",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 10
+    },
+    {
+      "type": "grammar",
+      "subtype": "article_omission",
+      "severity": "moderate",
+      "original": "in office... I bring food from home because my wife cook very good.",
+      "corrected": "in the office... I bring food from home because my wife cooks very well.",
+      "explanation": "Missing article \"the\", third person -s on \"cook\", and adverb \"well\" instead of adjective \"good\".",
+      "timestamp": "09:16",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- article omission (Ukrainian), verb agreement (Ukrainian), adverb/adjective conflation (Ukrainian \"добре\" covers both)",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 11
+    },
+    {
+      "type": "vocabulary",
+      "subtype": "adverb_adjective",
+      "severity": "minor",
+      "original": "my wife cook very good",
+      "corrected": "my wife cooks very well",
+      "explanation": "Used adjective \"good\" instead of adverb \"well\" to modify the verb \"cooks\".",
+      "timestamp": "09:16",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Ukrainian \"добре\" functions as both adjective and adverb",
+      "correction_strategy": "explicit",
+      "exercise_priority": 2,
+      "error_index": 12
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "moderate",
+      "original": "She make amazing borshch.",
+      "corrected": "She makes amazing borshch.",
+      "explanation": "Third person -s omission on \"make\".",
+      "timestamp": "09:55",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- same pattern as #3, #8",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 13
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "moderate",
+      "original": "My alarm go off at quarter to seven.",
+      "corrected": "My alarm goes off at quarter to seven.",
+      "explanation": "Third person -s omission on \"go\" (subject is \"alarm\" = it).",
+      "timestamp": "10:30",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- same pattern",
+      "correction_strategy": "explicit",
+      "exercise_priority": 3,
+      "error_index": 14
+    },
+    {
+      "type": "grammar",
+      "subtype": "possessive",
+      "severity": "minor",
+      "original": "I wash face, brush teeth.",
+      "corrected": "I wash my face and brush my teeth.",
+      "explanation": "Missing possessive determiner \"my\" before body parts. English requires possessive with body parts where Ukrainian uses reflexive constructions.",
+      "timestamp": "11:22",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Ukrainian uses reflexive constructions with body parts rather than possessive determiners",
+      "correction_strategy": "explicit",
+      "exercise_priority": 2,
+      "error_index": 15
+    },
+    {
+      "type": "grammar",
+      "subtype": "preposition",
+      "severity": "major",
+      "original": "I go on car.",
+      "corrected": "I go by car. / I drive to work.",
+      "explanation": "Wrong preposition for mode of transport: \"on\" instead of \"by\".",
+      "timestamp": "12:30",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Ukrainian \"на машині\" uses the preposition \"на\" which corresponds to \"on\" in many contexts, but English uses \"by\" for mode of transport",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 16
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "moderate",
+      "original": "She go by marshrutka.",
+      "corrected": "She goes by marshrutka.",
+      "explanation": "Third person -s omission. Same recurring pattern.",
+      "timestamp": "13:06",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "explicit",
+      "exercise_priority": 3,
+      "error_index": 17
+    },
+    {
+      "type": "grammar",
+      "subtype": "article_omission",
+      "severity": "moderate",
+      "original": "I watch YouTube in evening.",
+      "corrected": "I watch YouTube in the evening.",
+      "explanation": "Missing article \"the\" in the fixed phrase \"in the evening\".",
+      "timestamp": "15:42",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- article omission",
+      "correction_strategy": "explicit",
+      "exercise_priority": 3,
+      "error_index": 18
+    },
+    {
+      "type": "grammar",
+      "subtype": "article_omission",
+      "severity": "moderate",
+      "original": "I rest little bit.",
+      "corrected": "I rest a little bit.",
+      "explanation": "Missing article \"a\" in the quantifier phrase \"a little bit\".",
+      "timestamp": "16:08",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- article omission",
+      "correction_strategy": "explicit",
+      "exercise_priority": 3,
+      "error_index": 19
+    },
+    {
+      "type": "grammar",
+      "subtype": "tense_choice",
+      "severity": "moderate",
+      "original": "I am sometimes meeting with friends.",
+      "corrected": "I sometimes meet friends.",
+      "explanation": "Used present continuous for a habitual action. Present simple is required for routines and habits.",
+      "timestamp": "29:10",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "partial - Ukrainian imperfective aspect can map to both English present simple and present continuous, causing confusion",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 20
+    },
+    {
+      "type": "grammar",
+      "subtype": "tense_choice",
+      "severity": "moderate",
+      "original": "I am working in office all day and then I am sitting at home.",
+      "corrected": "I work in the office all day and then I sit at home.",
+      "explanation": "Repeated present continuous for habitual actions. Should be present simple.",
+      "timestamp": "30:21",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "partial - same as #20",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 21
+    },
+    {
+      "type": "grammar",
+      "subtype": "missing_subject",
+      "severity": "moderate",
+      "original": "I know, is bad.",
+      "corrected": "I know, it's bad.",
+      "explanation": "Missing subject \"it\" in copular construction.",
+      "timestamp": "30:21",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Ukrainian pro-drop allows subject omission",
+      "correction_strategy": "explicit",
+      "exercise_priority": 3,
+      "error_index": 22
+    },
+    {
+      "type": "grammar",
+      "subtype": "adverb_placement",
+      "severity": "minor",
+      "original": "Always I want to start...",
+      "corrected": "I always want to start...",
+      "explanation": "Placed \"always\" at sentence beginning. English requires \"always/never\" before the main verb, not sentence-initially.",
+      "timestamp": "31:07",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Ukrainian \"Завжди я хочу\" allows adverb-first word order",
+      "correction_strategy": "self_correction",
+      "exercise_priority": 1,
+      "error_index": 23
+    },
+    {
+      "type": "grammar",
+      "subtype": "infinitive_syntax",
+      "severity": "moderate",
+      "original": "I want come home and play computer games.",
+      "corrected": "I want to come home and play computer games.",
+      "explanation": "Missing \"to\" in \"want to + infinitive\" construction.",
+      "timestamp": "34:20",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Ukrainian \"хочу прийти\" does not require a preposition between \"want\" and the infinitive",
+      "correction_strategy": "explicit",
+      "exercise_priority": 3,
+      "error_index": 24
+    }
+  ],
+  "error_patterns": [
+    {
+      "pattern": "article_omission",
+      "error_ids": [
+        1,
+        2,
+        10,
+        11,
+        18,
+        19
+      ]
+    },
+    {
+      "pattern": "subject_verb_agreement (3rd person -s)",
+      "error_ids": [
+        3,
+        8,
+        10,
+        11,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "pattern": "preposition_time (on -> at)",
+      "error_ids": [
+        6,
+        9
+      ]
+    },
+    {
+      "pattern": "preposition_transport (on -> by)",
+      "error_ids": [
+        16
+      ]
+    },
+    {
+      "pattern": "verb_tense (present -> past)",
+      "error_ids": [
+        5,
+        7
+      ]
+    },
+    {
+      "pattern": "tense_choice (continuous -> simple)",
+      "error_ids": [
+        20,
+        21
+      ]
+    },
+    {
+      "pattern": "missing_subject (pro-drop)",
+      "error_ids": [
+        2,
+        22
+      ]
+    },
+    {
+      "pattern": "modal/infinitive_syntax",
+      "error_ids": [
+        4,
+        24
+      ]
+    },
+    {
+      "pattern": "adverb_placement",
+      "error_ids": [
+        23
+      ]
+    },
+    {
+      "pattern": "possessive_omission",
+      "error_ids": [
+        15
+      ]
+    },
+    {
+      "pattern": "adverb_adjective_confusion",
+      "error_ids": [
+        12
+      ]
+    }
+  ],
+  "summary": {
+    "total_errors": 24,
+    "estimated_level": "A1+"
+  }
+}

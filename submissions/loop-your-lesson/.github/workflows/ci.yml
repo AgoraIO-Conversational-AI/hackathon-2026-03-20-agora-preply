@@ -1,0 +1,59 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  backend-test:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_DB: loop_test
+          POSTGRES_USER: dev
+          POSTGRES_PASSWORD: pass
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+    env:
+      DATABASE_URL: postgres://dev:pass@localhost:5432/loop_test
+      SECRET_KEY: test-secret-key
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v4
+      - name: Install dependencies
+        run: cd backend && uv sync --dev
+      - name: Run tests
+        run: cd backend && uv run pytest
+
+  pre-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v4
+      - name: Install backend dependencies
+        run: cd backend && uv sync --dev
+      - name: Ruff check
+        run: cd backend && uv run ruff check .
+      - name: Ruff format check
+        run: cd backend && uv run ruff format --check .
+
+  frontend-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - name: Install dependencies
+        run: cd frontend && bun install
+      - name: ESLint
+        run: cd frontend && bun run lint
+      - name: TypeScript check
+        run: cd frontend && bun run tsc --noEmit

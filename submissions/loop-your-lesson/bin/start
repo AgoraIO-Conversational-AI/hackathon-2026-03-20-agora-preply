@@ -1,0 +1,80 @@
+#!/bin/bash
+set -e
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
+cd "$PROJECT_ROOT"
+
+# --- Parse flags ---
+OPT_LOCAL=false
+
+for arg in "$@"; do
+    case "$arg" in
+        --local) OPT_LOCAL=true ;;
+        *)
+            echo "Unknown flag: $arg"
+            echo "Usage: bin/start [--local]"
+            echo ""
+            echo "  --local   Use Temporal CLI instead of Docker (brew install temporal)"
+            exit 1
+            ;;
+    esac
+done
+
+# --- Load .env (handle unquoted values with spaces/equals) ---
+if [ -f "$PROJECT_ROOT/.env" ]; then
+    while IFS= read -r line || [ -n "$line" ]; do
+        [[ -z "$line" || "$line" =~ ^[[:space:]]*# ]] && continue
+        line="${line#"${line%%[![:space:]]*}"}"
+        key="${line%%=*}"
+        value="${line#*=}"
+        value="${value#\'}" ; value="${value%\'}"
+        value="${value#\"}" ; value="${value%\"}"
+        export "$key=$value"
+    done < "$PROJECT_ROOT/.env"
+fi
+
+# --- Port defaults ---
+export BACKEND_PORT="${BACKEND_PORT:-8006}"
+export FRONTEND_PORT="${FRONTEND_PORT:-3006}"
+export TEMPORAL_PORT="${TEMPORAL_PORT:-7235}"
+export TEMPORAL_UI_PORT="${TEMPORAL_UI_PORT:-8089}"
+
+# --- Prerequisite checks ---
+missing=()
+command -v uv &>/dev/null    || missing+=("uv (brew install uv)")
+command -v mprocs &>/dev/null || missing+=("mprocs (brew install mprocs)")
+command -v bun &>/dev/null   || missing+=("bun (brew install bun)")
+
+if [ "$OPT_LOCAL" = true ]; then
+    command -v temporal &>/dev/null || missing+=("temporal (brew install temporal)")
+fi
+
+if [ ${#missing[@]} -gt 0 ]; then
+    echo "Missing required tools:"
+    for tool in "${missing[@]}"; do
+        echo "  - $tool"
+    done
+    exit 1
+fi
+
+# --- Sync Python deps if needed ---
+if [ ! -d "backend/.venv" ] || [ "backend/uv.lock" -nt "backend/.venv" ]; then
+    echo "Syncing Python dependencies..."
+    (cd backend && uv sync --dev)
+fi
+
+# --- Pick mprocs config ---
+if [ "$OPT_LOCAL" = true ]; then
+    MPROCS_CONFIG="bin/mprocs-local.yaml"
+    echo "Starting services (local mode): Backend=$BACKEND_PORT, Frontend=$FRONTEND_PORT"
+    echo "Temporal CLI on port $TEMPORAL_PORT (UI on $TEMPORAL_UI_PORT)"
+else
+    MPROCS_CONFIG="bin/mprocs.yaml"
+    echo "Starting services (Docker mode): Backend=$BACKEND_PORT, Frontend=$FRONTEND_PORT"
+    echo "Temporal via Docker on port $TEMPORAL_PORT (UI on $TEMPORAL_UI_PORT)"
+fi
+
+echo "Visit http://localhost:$BACKEND_PORT for the app"
+
+exec mprocs --config "$MPROCS_CONFIG"

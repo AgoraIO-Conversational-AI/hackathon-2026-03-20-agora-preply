@@ -1,0 +1,45 @@
+{
+  "skill_name": "analyze-lesson-level",
+  "lesson_id": "emu-de-en-b2-01",
+  "student_id": "student-katrin",
+  "level": "B2+",
+  "confidence": "high",
+  "reasoning": "Applied CEFR conversation descriptors across five dimensions (range, accuracy, fluency, interaction, coherence) to assess Katrin's spoken English. The profile is characteristic of a strong B2 learner approaching C1: academic vocabulary and discourse competence are at C1 level, while persistent L1 transfer in prepositions, false friends, and pragmatic directness anchor the lower bound at B2. The gap between her academic register (near-C1) and casual register (B2) further supports the B2+ classification. Severity calibration accounts for the German-English language pair: preposition and false-friend errors are expected at this transition point and do not indicate regression.",
+  "dimensions": {
+    "range": "C1",
+    "accuracy": "B2",
+    "fluency": "B2+",
+    "interaction": "B2+",
+    "coherence": "C1"
+  },
+  "strengths": [
+    "Academic vocabulary range",
+    "Extended argumentation",
+    "Metalinguistic awareness",
+    "Rapid skill uptake"
+  ],
+  "gaps": [
+    "Preposition collocations (Accuracy) [exercise_focus: true]",
+    "False friends (Accuracy) [exercise_focus: true]",
+    "Relative pronoun selection (Accuracy) [exercise_focus: true]",
+    "Collocation accuracy (Range) [exercise_focus: true]",
+    "Pragmatic softening (Interaction) [exercise_focus: true]",
+    "Register flexibility (Coherence) [exercise_focus: false]"
+  ],
+  "suggestions": [
+    "Dedicate drill time to preposition collocations - create a running list (interested in, depend on, consist of, remind of, look forward to). Use gap-fill exercises with the student's own sentences.",
+    "Continue hedging practice in every lesson. Require hedged reformulations of direct statements as a warm-up activity.",
+    "Build a false-friend flashcard deck with the student. Add new entries each lesson. Test with sentence completion, not translation.",
+    "Assign informal English input (podcasts, YouTube, reality TV) and have the student report back using casual register.",
+    "Practice relative pronoun choice with sorting exercises (who for people, that/which for things).",
+    "Start a preposition notebook: for each new verb/adjective + preposition combination, write the English collocation AND the German equivalent to make the contrast explicit.",
+    "Practice hedging daily: when expressing opinions in English (even in writing), use at least one modal verb and one distancing phrase.",
+    "Watch one episode of a British TV show per week and note 5 casual discourse markers (thing is, mind you, reckon, fair enough, to be honest).",
+    "Make flashcards for false friends with example sentences, not just word pairs. Test in context.",
+    "Read 3 Guardian articles per week and underline hedging phrases. This builds passive recognition that supports active production."
+  ],
+  "zpd": {
+    "lower": "B2",
+    "upper": "C1"
+  }
+}

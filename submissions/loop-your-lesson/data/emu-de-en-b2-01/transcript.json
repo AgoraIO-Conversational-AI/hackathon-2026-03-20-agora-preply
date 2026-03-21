@@ -1,0 +1,2894 @@
+{
+  "lesson_id": "emu-de-en-b2-01",
+  "teacher_id": "teacher-james",
+  "student_ids": [
+    "student-katrin"
+  ],
+  "subject_type": "language",
+  "subject_config": {
+    "language_pair": "de-en",
+    "l1": "German",
+    "l2": "English"
+  },
+  "date": "2026-03-20",
+  "duration_minutes": 60,
+  "utterances": [
+    {
+      "speaker": "James",
+      "text": "Good afternoon, Katrin! How are you doing today?",
+      "timestamp": "00:00",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Hello James. I am doing well, thank you. It has been a very busy week at the university.",
+      "timestamp": "00:04",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "James",
+      "text": "Oh yeah? What's been keeping you busy?",
+      "timestamp": "00:09",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I had to submit a literature review for my research module. It was about sustainable urban planning in European cities. I was comparing different approaches in Amsterdam, Copenhagen, Barcelona, and Munich, looking at how they integrate green spaces, public transport, and energy-efficient building standards into their urban development plans. It was extremely time-consuming because I had to read about forty papers and synthesize the findings into a coherent argument.",
+      "timestamp": "00:14",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "James",
+      "text": "How did it go?",
+      "timestamp": "00:20",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I think it went quite well. My supervisor said the argumentation was strong but that I should work on making the writing less... how do you say... weniger steif?",
+      "timestamp": "00:25",
+      "confidence": 0.45
+    },
+    {
+      "speaker": "James",
+      "text": "Less formal, you mean?",
+      "timestamp": "00:32",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, exactly. Less formal. She said my academic writing is good but it reads like a translated German text sometimes. The sentence structures are too complex, the paragraphs are too dense, and I use too many passive constructions. She told me to try reading my essays aloud to check if they sound natural, but when I do this, everything sounds fine to me because I am used to the German style.",
+      "timestamp": "00:36",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "Useful feedback. German academic style is often more formal than English.",
+      "timestamp": "00:42",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, I have noticed this. In German we write very long sentences with many subclauses, and in English this is not so appreciated. My longest sentence in the literature review was sixty-three words, and my supervisor underlined it and wrote 'split this into three sentences'. In German, sixty-three words is completely normal for an academic sentence. My bachelor thesis in Munich had sentences that were over a hundred words, and my professor there never complained.",
+      "timestamp": "00:49",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Short and punchy works well in English. Any weekend plans?",
+      "timestamp": "00:55",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Actually, I would like to go to a farmers' market on Saturday. My flatmate told me about one in Borough Market. Have you been there?",
+      "timestamp": "01:02",
+      "confidence": 0.72
+    },
+    {
+      "speaker": "James",
+      "text": "Borough Market? Brilliant place. Can get quite crowded on Saturdays though.",
+      "timestamp": "01:08",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I do not mind the crowds. In Munich we also have big markets, like the Viktualienmarkt. But I have heard that Borough Market has more international food.",
+      "timestamp": "01:16",
+      "confidence": 0.45
+    },
+    {
+      "speaker": "James",
+      "text": "Very diverse, yes. Do you cook much?",
+      "timestamp": "01:23",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, I cook almost every day. It is much cheaper than eating out in London, which is incredibly expensive compared to Munich. And also, I must say, the quality of the food in the supermarkets here is not always so good compared to Germany. The vegetables are often wrapped in plastic, the bread is soft and sweet, and the cheese selection is limited compared to what you find in any ordinary German supermarket. My mother sends me packages with German bread and sausage sometimes, which my flatmate finds very amusing.",
+      "timestamp": "01:29",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Ha! You're not the first German to say that.",
+      "timestamp": "01:37",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, of course, I did not mean to be rude. The restaurants are very good. It is more the everyday products in the supermarket, you know? The bread especially.",
+      "timestamp": "01:43",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "The bread, yes. So you mentioned you watched a documentary this week?",
+      "timestamp": "01:50",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes! I watched a very interesting documentary on Netflix about climate change. It was called something like 'Breaking Boundaries'. Have you seen it?",
+      "timestamp": "01:57",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "David Attenborough, with Rockstrom?",
+      "timestamp": "02:04",
+      "confidence": 0.92
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Exactly, yes. Rockstrom is actually Swedish but he works at the Potsdam Institute in Germany, so I was already familiar with his research.",
+      "timestamp": "02:10",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "James",
+      "text": "What did you think of it overall?",
+      "timestamp": "02:17",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I found it very... beeindruckend. Impressive? No, more like... alarming. The data they show about the planetary boundaries is very concerning. They present these nine boundaries that define a safe operating space for humanity, things like climate change, biodiversity loss, ocean acidification, and nitrogen cycle disruption. And the researchers have measured where we are in relation to each boundary, and the results are really frightening. We are already beyond the safe zone for several of them.",
+      "timestamp": "02:23",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "James",
+      "text": "What stood out specifically?",
+      "timestamp": "02:30",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Well, I think, that the most shocking part was how many of the planetary boundaries we have already crossed. They show nine boundaries, and I think we have already exceeded four or five of them.",
+      "timestamp": "02:35",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "And these boundaries interact, right?",
+      "timestamp": "02:44",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, precisely. This is what we call in German a Teufelskreis, a... devil's circle? No, that sounds strange. What I mean is that these processes reinforce each other in a cycle that becomes increasingly difficult to break.",
+      "timestamp": "02:50",
+      "confidence": 0.55
+    },
+    {
+      "speaker": "James",
+      "text": "A vicious circle. Or you could say a vicious cycle. Good instinct on the translation though - it's literally the same metaphor, just different words.",
+      "timestamp": "02:56",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "A vicious circle, yes. So the documentary explains that these vicious circles mean that climate change accelerates itself. For example, when the ice melts, less sunlight is reflected, and therefore the temperature rises more. And there are many such feedback loops. The permafrost in Siberia contains enormous amounts of methane, and when it thaws, this methane is released into the atmosphere, which causes more warming, which causes more thawing. It is a self-reinforcing process that is very difficult to stop once it begins. The scientists in the documentary seemed genuinely worried about tipping points, where the system shifts into a completely new state and cannot return to normal.",
+      "timestamp": "03:02",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "That's the albedo effect, right? You clearly paid attention. Did they talk much about solutions as well, or was it mainly doom and gloom?",
+      "timestamp": "03:12",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "They did talk about solutions, but I found this part less convincing. They focused very much on what individuals can do, like eating less meat and flying less and reducing your carbon footprint. And I think, that is important to some degree, but it is fundamentally not enough to address the scale of the crisis. The entire concept of a personal carbon footprint was actually invented by BP, the oil company, as a marketing strategy to shift blame from corporations to consumers. When you know this history, the documentary's focus on individual action starts to feel quite naive, even manipulative.",
+      "timestamp": "03:19",
+      "confidence": 0.76
+    },
+    {
+      "speaker": "James",
+      "text": "Interesting. So you feel the individual approach is insufficient?",
+      "timestamp": "03:28",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. I become very frustrated when documentaries put the responsibility on normal people. The actual situation is that seventy percent of all emissions come from only one hundred companies. And these are mostly fossil fuel companies that have known about climate change for decades. They funded disinformation campaigns and lobbied against climate regulation. So when someone tells me that I should feel guilty about flying once a year to visit my family in Munich, I think this is completely disproportionate. The real problem is structural, not individual.",
+      "timestamp": "03:33",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "James",
+      "text": "Just picking up on something there. You said 'I become very frustrated'. What would be more natural?",
+      "timestamp": "03:42",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Oh. I get frustrated? I get very frustrated?",
+      "timestamp": "03:50",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "James",
+      "text": "Exactly. 'I get frustrated' or 'it makes me frustrated'. 'Become' is one of those tricky false friends from German - 'bekommen'.",
+      "timestamp": "03:54",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, I know this! Bekommen means to receive. I always make this mistake even though I know it is wrong.",
+      "timestamp": "04:00",
+      "confidence": 0.47
+    },
+    {
+      "speaker": "James",
+      "text": "Completely normal. Also, you said 'the actual situation' - did you mean the current situation?",
+      "timestamp": "04:06",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Aktuell... yes, current. Not actual. I know this one too. Ugh.",
+      "timestamp": "04:13",
+      "confidence": 0.48
+    },
+    {
+      "speaker": "James",
+      "text": "You caught it immediately, that's a good sign. So, the hundred companies?",
+      "timestamp": "04:18",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. I was reading a study that said that since 1988, one hundred companies are responsible for seventy-one percent of global emissions. So when people tell me to take shorter showers or to turn off the lights, I think this is... nicht proportional.",
+      "timestamp": "04:25",
+      "confidence": 0.56
+    },
+    {
+      "speaker": "James",
+      "text": "Disproportionate. The response is disproportionate to the scale of the problem.",
+      "timestamp": "04:35",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Disproportionate, yes. Thank you. The individual response is disproportionate to the actual scale of the crisis. We need fundamental systemic change at the level of economic structures and international governance, not just individual behavior change. The idea that consumers can solve a problem created by industrial capitalism through shopping choices is, I think, deeply misleading.",
+      "timestamp": "04:40",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "That's clearly stated. Did the documentary discuss policy solutions at all?",
+      "timestamp": "04:47",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "A little bit, but not enough in my opinion. They mentioned the Paris Agreement and the need to stay below one point five degrees, but they did not really explain how governments can enforce this. The Paris Agreement is not legally binding in the way that, say, EU regulations are. Countries set their own targets, and there are no real consequences if they miss them. The documentary presented the agreement as this great achievement, but in reality, even if every country met its Paris commitments, we would still be on track for well over two degrees of warming. This gap between the rhetoric and the reality is something the documentary should have addressed more critically.",
+      "timestamp": "04:55",
+      "confidence": 0.76
+    },
+    {
+      "speaker": "James",
+      "text": "And do you think they can enforce it?",
+      "timestamp": "05:03",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I think they must enforce it. In Germany, we have had quite strong environment protection policies, and the government has been willing to make unpopular decisions in the name of environmental protection. The Energiewende, for example, involved massive public investment and significant changes to the energy market. Do you know this word, Energiewende?",
+      "timestamp": "05:07",
+      "confidence": 0.59
+    },
+    {
+      "speaker": "James",
+      "text": "The energy transition, yes. Germany's shift away from nuclear and towards renewables. It's been quite controversial, hasn't it?",
+      "timestamp": "05:14",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, very controversial. Many people say that it was a mistake to close the nuclear power stations before the coal stations, and in retrospect, there is some evidence that this sequencing was not optimal from a carbon emissions perspective. And I partly agree with this criticism. However, the political context was important. After Fukushima, there was overwhelming public support for closing the nuclear plants, and a democratic government had to respond to that. But at least Germany has done something concrete and measurable. We have not just talked about it and set distant targets that nobody believes in.",
+      "timestamp": "05:20",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Quick note - you said 'environment protection'. How would we say that naturally?",
+      "timestamp": "05:30",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Environmental protection? With the adjective form?",
+      "timestamp": "05:36",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "James",
+      "text": "'Environmental protection' - we need the adjective form in English.",
+      "timestamp": "05:40",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, this is a pattern I notice. In German we make compound nouns very easily. Umweltschutzgesetz, Klimawandeldiskussion... In English you cannot do this.",
+      "timestamp": "05:47",
+      "confidence": 0.49
+    },
+    {
+      "speaker": "James",
+      "text": "We can compound a bit - 'climate change', 'greenhouse effect' - but not as freely as German.",
+      "timestamp": "05:54",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Speaking of the green house effect, the documentary explained this very well. They used animations to show how the greenhouse gases trap the heat.",
+      "timestamp": "06:01",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "James",
+      "text": "'Greenhouse' is one word, by the way.",
+      "timestamp": "06:08",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Oh, it is one word? Greenhouse. OK, I think I was splitting it because in German it is Treibhauseffekt, and I was translating the parts separately.",
+      "timestamp": "06:13",
+      "confidence": 0.49
+    },
+    {
+      "speaker": "James",
+      "text": "Same concept, just fused into one word in English. What else did they cover?",
+      "timestamp": "06:19",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "They also talked about biodiversity loss, which I found very interesting. The connection between climate change and species extinction is not always so obvious to people.",
+      "timestamp": "06:27",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "People tend to think of them as separate.",
+      "timestamp": "06:35",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Exactly. But they are deeply connected. When the temperature rises, the habitats change, and the species which cannot adapt fast enough will die out.",
+      "timestamp": "06:40",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "James",
+      "text": "Small note - 'the species which cannot adapt'. Use 'that' or 'who' for people and animals, 'which' for things.",
+      "timestamp": "06:48",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Oh, I see. So 'the species that cannot adapt'. In German we just use 'die' for everything, so I do not always know when to use which... I mean, when to use what. No, that is also wrong.",
+      "timestamp": "06:56",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "James",
+      "text": "'When to use which one' would work there. Relative pronouns are confusing in English.",
+      "timestamp": "07:04",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. I will try to pay attention to this. So, anyway, the documentary also showed the effects on ocean ecosystems. The coral bleaching, the acidification. These images were very powerful.",
+      "timestamp": "07:11",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Did it change your perspective at all?",
+      "timestamp": "07:20",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I would say it mostly confirmed what I already knew from my studies. But the visual impact was very strong. Reading about it in a paper is different from seeing the images of the dying reefs.",
+      "timestamp": "07:26",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "James",
+      "text": "Interesting distinction there.",
+      "timestamp": "07:35",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, and I think this is why documentaries are so important for public awareness. Not everyone reads scientific papers, but many people watch Netflix.",
+      "timestamp": "07:40",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "Though does raising awareness actually lead to action?",
+      "timestamp": "07:48",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "This is a very good question. I am not sure. I think, that awareness is necessary but not sufficient. You need awareness, but you also need the political structures to transform the awareness into action. We have known about climate change for over thirty years, and awareness has increased enormously during this time, but emissions have also continued to rise. So clearly, awareness alone is not driving the changes we need. You also need economic incentives, regulatory frameworks, and political will. And these things depend on power structures that are very resistant to change, because the people who profit from the current system have a strong interest in maintaining it.",
+      "timestamp": "07:54",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "'Necessary but not sufficient' - very precise.",
+      "timestamp": "08:04",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Thank you. This is a phrase I learned in my research methods class actually. My professor uses it constantly.",
+      "timestamp": "08:09",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "James",
+      "text": "If awareness isn't enough, what would actually move the needle?",
+      "timestamp": "08:15",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I believe, that the most important thing is regulation. Strong, enforceable regulation of industry emissions with real penalties for non-compliance. Carbon taxes that actually reflect the true cost of emissions to society. Mandatory emissions reporting and transparency. And banning certain harmful practices, like... how do you say... Einwegplastik?",
+      "timestamp": "08:23",
+      "confidence": 0.5
+    },
+    {
+      "speaker": "James",
+      "text": "Single-use plastic. 'Einweg' is 'single-use' or 'disposable'.",
+      "timestamp": "08:33",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Single-use plastic, yes. Many countries have already banned single-use plastic bags, which is good. But we need to go much further.",
+      "timestamp": "08:37",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "How much further? Can you give me some concrete examples?",
+      "timestamp": "08:44",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Well, for example, in Germany we have a very good recycling system. The Pfand system for bottles, the separation of waste into different categories. We have the Yellow Bag for packaging, the paper bin, the glass containers separated by color, the organic waste bin, and the residual waste bin. And then there is the Pfand system where you pay twenty-five cents deposit on every plastic bottle and can, and you get it back when you return the bottle to the machine in the supermarket. This means that almost every bottle gets returned and recycled. In the UK, the recycling is much less... how do I say... systematisch.",
+      "timestamp": "08:49",
+      "confidence": 0.58
+    },
+    {
+      "speaker": "James",
+      "text": "Systematic. That's the same word, just anglicised. And yeah, you're right, German recycling puts ours to shame.",
+      "timestamp": "08:59",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "But even the German system is not enough. Recycling is only treating the symptoms. We must be consequent about reducing production in the first place.",
+      "timestamp": "09:05",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "James",
+      "text": "Hmm, 'consequent' - another false friend alert. In English, you'd say 'consistent' or 'rigorous'. 'Consequent' exists in English but it means 'following as a result', not 'consistent'.",
+      "timestamp": "09:14",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Consistent, OK. We must be consistent about reducing production. Konsequent is consistent. I will write this down.",
+      "timestamp": "09:22",
+      "confidence": 0.48
+    },
+    {
+      "speaker": "James",
+      "text": "Good idea. So you're arguing that we need to reduce production itself, not just manage the waste better?",
+      "timestamp": "09:28",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Exactly. This is what the concept of degrowth is about. Have you heard of this?",
+      "timestamp": "09:34",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "Yes, the idea that growth and sustainability are fundamentally incompatible.",
+      "timestamp": "09:39",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. And I find this very logical. If the economy must always grow, then we must always produce more, consume more, extract more resources. This is not compatible with a finite planet. The Earth has limits. We cannot extract infinite resources from a finite system. And the idea that technology will solve this problem, that we can somehow decouple economic growth from environmental destruction, I find this very optimistic. Some would say naive. The history of technology shows that efficiency gains are often cancelled out by increased consumption, what economists call the rebound effect or the Jevons paradox.",
+      "timestamp": "09:46",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "But what about green growth? The argument that you can decouple economic growth from resource extraction through technology and efficiency?",
+      "timestamp": "09:55",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I am interested for this argument, but I do not find it convincing. There is no evidence that absolute decoupling has ever happened at a global scale.",
+      "timestamp": "10:02",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "Good point. Though just a small correction - 'I am interested in this argument', not 'interested for'. It's one of those prepositional differences between German and English.",
+      "timestamp": "10:11",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Interested in. Yes, because in German we say 'sich interessieren fuer' with 'fuer', which is 'for'. So I transfer the German preposition.",
+      "timestamp": "10:18",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "James",
+      "text": "Exactly. You're very good at identifying why you make the errors. That's half the battle. So, no evidence for absolute decoupling - what about relative decoupling?",
+      "timestamp": "10:25",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Relative decoupling means that the economy grows faster than the resource use. But the total resource use still increases. So it does not solve the fundamental problem.",
+      "timestamp": "10:33",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "OK, but here's where I'd push back. What's the alternative? If you tell people they have to accept lower living standards, how do you get democratic support for that?",
+      "timestamp": "10:42",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "This argument is wrong.",
+      "timestamp": "10:50",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "James",
+      "text": "Well... that's quite a strong way to put it. In English, especially in academic or professional settings, we might soften that a little. How might you rephrase that?",
+      "timestamp": "10:54",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Hmm... this argument is... not correct?",
+      "timestamp": "11:01",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "James",
+      "text": "Better. But you could also say 'I'm not sure I agree with that premise' or 'I'd question that assumption'. It's less about right and wrong and more about different perspectives.",
+      "timestamp": "11:06",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "But in German we just say what we think! If an argument is wrong, we say it is wrong. This indirect way of speaking is very... confusing for me.",
+      "timestamp": "11:14",
+      "confidence": 0.74
+    },
+    {
+      "speaker": "James",
+      "text": "I understand. Softening your disagreement doesn't mean being dishonest - it means inviting dialogue.",
+      "timestamp": "11:21",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK, I understand the logic. So let me try again. I would question that assumption, because degrowth does not necessarily mean lower living standards. It means different priorities.",
+      "timestamp": "11:32",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Excellent! That's much more effective, and notice how it actually gives you room to explain your reasoning. Well done.",
+      "timestamp": "11:40",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Thank you. So, as I was saying, degrowth means that we prioritize well-being over GDP growth. We invest more in public services, health, education, and we consume less material goods.",
+      "timestamp": "11:46",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "That's a clear summary. But how realistic is that politically? I mean, try telling voters that the economy needs to shrink.",
+      "timestamp": "11:56",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I think the framing is important. You do not say 'the economy will shrink'. You say 'we will invest in what matters: healthcare, education, community, clean air, healthy food, meaningful work'. Instead of GDP growth, you measure success by well-being indicators, life expectancy, social equality, environmental quality. Countries like Bhutan already do this with their Gross National Happiness index. It is about changing the narrative from 'less' to 'different and better'.",
+      "timestamp": "12:03",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Good vocabulary choices there.",
+      "timestamp": "12:12",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "These are words I use a lot in my studies. My supervisor always says that how you frame a problem determines what solutions you can see.",
+      "timestamp": "12:17",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "James",
+      "text": "Now let me challenge you. If we only focus on systems, don't individuals lose their sense of agency?",
+      "timestamp": "12:24",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Hmm, this is a good point. I have to think about this.",
+      "timestamp": "12:35",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "Take your time.",
+      "timestamp": "12:40",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. I think... I think there is a place for individual action, but it should not be a substitute for systemic change. It should be additional. Complementary?",
+      "timestamp": "12:45",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "James",
+      "text": "Complementary is a great word choice. Individual action complements systemic change rather than replacing it.",
+      "timestamp": "12:54",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. And also, I think individual action can be political. For example, when people choose to buy local food or to use public transport, this sends a signal to the market.",
+      "timestamp": "13:00",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "So consumer choice as a form of political expression?",
+      "timestamp": "13:09",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Exactly. But the problem is that not everyone can make these choices. Organic food is more expensive. Not everyone lives near good public transport. So individual action is also a question of privilege.",
+      "timestamp": "13:14",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Important nuance there.",
+      "timestamp": "13:24",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. In Germany we discuss this a lot. The people which are most affected by climate change are often the people who have contributed the least to it.",
+      "timestamp": "13:30",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "Again, 'the people who are most affected' - 'who' for people, not 'which'.",
+      "timestamp": "13:39",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "The people who are most affected. Yes, sorry. I keep forgetting this.",
+      "timestamp": "13:44",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "James",
+      "text": "It'll come with practice. You're already self-correcting on some things, which is great. So, this point about climate justice - can you elaborate a bit?",
+      "timestamp": "13:49",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Well, for example, countries in the Global South have much lower per capita emissions than Europe or America, but they experience the worst effects of climate change. Droughts, floods, rising sea levels, extreme weather events that destroy crops and infrastructure. Bangladesh, for example, is one of the most vulnerable countries to climate change, but its per capita emissions are a tiny fraction of the UK's or Germany's. Furthermore, within rich countries, it is often poor communities that live near polluting factories or flood zones. In the United States, there is extensive research showing that Black and Latino communities are disproportionately exposed to pollution. So climate change is not just an environmental issue, it is a justice issue, a question of inequality and historical responsibility.",
+      "timestamp": "13:56",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "James",
+      "text": "That's very well articulated. The documentary you watched - did it address this justice dimension at all?",
+      "timestamp": "14:08",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Not very much, which was one of my criticisms. It was very focused on the science and on individual action. The political and social dimensions were underrepresented.",
+      "timestamp": "14:14",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "Underrepresented - excellent word. So what would a more complete documentary look like, in your view?",
+      "timestamp": "14:23",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I think it should show the connection between economic systems and environmental destruction. It should include voices from the Global South. And it should discuss concrete policy proposals, not just say 'eat less meat and fly less'.",
+      "timestamp": "14:29",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Playing devil's advocate - might the filmmakers need to keep it simple for a mass audience?",
+      "timestamp": "14:40",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, I understand this argument. But I think you can simplify without being simplistic. You can make complex ideas accessible without reducing them to... how do you say... Platitüden?",
+      "timestamp": "14:48",
+      "confidence": 0.49
+    },
+    {
+      "speaker": "James",
+      "text": "Platitudes. That's almost the same word actually. And I agree - there's a difference between simplifying and oversimplifying.",
+      "timestamp": "14:57",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Platitudes, yes. The documentary relies on platitudes sometimes. 'We all need to do our part.' This is true but it is not helpful if you do not explain what the parts actually are.",
+      "timestamp": "15:03",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Right. Vague calls to action versus specific policy proposals.",
+      "timestamp": "15:13",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Exactly. And I also think the documentary does not address enough the role of the fossil fuel industry in spreading misinformation. There was heavy evidence that companies like ExxonMobil knew about climate change decades ago and deliberately funded denial campaigns.",
+      "timestamp": "15:18",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "James",
+      "text": "I agree with the point, though one small language note - we'd say 'strong evidence' rather than 'heavy evidence'. Evidence is 'strong' or 'compelling' or 'overwhelming', but not usually 'heavy'.",
+      "timestamp": "15:30",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Strong evidence. Not heavy. Hmm, but we can say 'heavy rain' and 'heavy traffic'?",
+      "timestamp": "15:38",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "James",
+      "text": "'Heavy' goes with rain, traffic, workload. But evidence and arguments are 'strong'.",
+      "timestamp": "15:43",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I think I need to make a list of these collocations. In German, we would use 'schwer' or 'stark' more flexibly.",
+      "timestamp": "15:51",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "That's a really good study strategy. Collocations are one of the things that separate B2 from C1 level English. If you get those right, you sound much more natural.",
+      "timestamp": "15:57",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, my supervisor also mentioned this. She said my grammar is very good but my word combinations sometimes sound unusual.",
+      "timestamp": "16:05",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "Typical B2-C1 transition. Grammar solid, lexical choices still show L1 influence.",
+      "timestamp": "16:11",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I hope so. I have been reading a lot of English academic texts, which helps with formal collocations. But informal English is still difficult for me.",
+      "timestamp": "16:20",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "We'll work on that. One more documentary question: if you could add one segment, what would it be?",
+      "timestamp": "16:27",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I would add a segment about the psychology of climate denial. Why do people refuse to accept the scientific consensus even when the evidence is so strong? I am interested in the cognitive mechanisms behind this. In my environmental psychology module, we studied the concept of motivated reasoning, where people process information in a way that confirms their existing beliefs. And there is also the phenomenon of system justification, where people defend the current social and economic system because changing it feels threatening to their identity and their way of life. These psychological barriers are at least as important as the technological and economic barriers, and yet they are rarely discussed in popular media.",
+      "timestamp": "16:36",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Cognitive dissonance, confirmation bias?",
+      "timestamp": "16:46",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, exactly. And also the role of identity. For some people, especially in the United States but also in parts of Europe, accepting climate change means questioning their entire worldview, their political identity, their understanding of what it means to be a successful person in a capitalist society. If you have built your career in the fossil fuel industry, or if you believe strongly in free markets and limited government, then accepting the science of climate change has enormous implications for your beliefs. It is psychologically easier to deny the facts than to restructure your entire identity and value system.",
+      "timestamp": "16:51",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "You're drawing on social psychology. Part of your Master's?",
+      "timestamp": "17:00",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Not directly, but I took an elective module on environmental psychology last semester. It was very interesting. We studied why people do or do not change their behavior in response to environmental information. We looked at different theories, like the theory of planned behavior, which says that intentions to act depend on attitudes, social norms, and perceived behavioral control. And we also looked at the value-belief-norm theory, which connects personal values to environmental behavior through a chain of beliefs about consequences and responsibility. It was actually one of my favorite modules because it connects psychology with environmental policy, which is exactly what I want to research in my thesis.",
+      "timestamp": "17:06",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "And what was the main takeaway?",
+      "timestamp": "17:16",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "That information alone does not change behavior. People need to feel emotionally connected to the issue, they need to believe that the problem is solvable, and they need to see that their specific actions can make a meaningful difference. This last point is called... self-efficacy? The belief that you personally have the ability and the power to influence the outcome.",
+      "timestamp": "17:21",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "James",
+      "text": "Bandura's concept, yes.",
+      "timestamp": "17:31",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. And this is why I think systemic approaches are better than individual ones. If the system is designed well, people do the right thing automatically, without needing motivation or self-efficacy.",
+      "timestamp": "17:36",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "Making the sustainable option the default?",
+      "timestamp": "17:46",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Exactly. Nudging, choice architecture, default settings. If the default electricity supplier is renewable, most people will stay with it. If the default meal at a conference is vegetarian, most people will eat it without complaining. If public transport is cheap, fast, and reliable, people will use it instead of driving. These design choices are much more effective than asking people to be virtuous and make sacrifices.",
+      "timestamp": "17:50",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "James",
+      "text": "OK, let's shift to how you express your opinions.",
+      "timestamp": "17:58",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. Is there a problem with how I express my opinions?",
+      "timestamp": "18:06",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Not a problem, but an opportunity. Sometimes your English comes across as more absolute than you intend.",
+      "timestamp": "18:11",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, I remember. You said I should say 'I would question that assumption' instead.",
+      "timestamp": "18:22",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "This is a bigger pattern. English has tools for expressing opinions with different degrees of certainty. We call this 'hedging'.",
+      "timestamp": "18:28",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Hedging? Like a hedge in a garden?",
+      "timestamp": "18:37",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "James",
+      "text": "Same word, different meaning. To hedge means to avoid committing too strongly. In academic English, it's essential.",
+      "timestamp": "18:41",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I see. So instead of saying 'X is true', you say 'X might be true' or 'X appears to be true'?",
+      "timestamp": "18:50",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "You've got the idea. First tool: modal verbs - might, could, may.",
+      "timestamp": "18:56",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. So instead of 'Individual action does not solve the problem', I could say 'Individual action might not solve the problem'?",
+      "timestamp": "19:04",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "Notice how the hedged version sounds more rigorous?",
+      "timestamp": "19:12",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, I can see that. In German academic writing we also hedge, but perhaps less frequently. We use words like 'möglicherweise' or 'eventuell'.",
+      "timestamp": "19:19",
+      "confidence": 0.58
+    },
+    {
+      "speaker": "James",
+      "text": "Second tool: distancing phrases. 'It seems that', 'there is evidence to suggest', 'research indicates'.",
+      "timestamp": "19:27",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Ah, so instead of 'Carbon taxes reduce emissions', I would say 'There is evidence to suggest that carbon taxes reduce emissions'?",
+      "timestamp": "19:37",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "Exactly. And a third tool: 'tendency' language. 'X tends to', 'X has a tendency to', 'in many cases', 'in general'. These acknowledge that your point is a generalization, not an absolute truth.",
+      "timestamp": "19:44",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "So 'people do not recycle' becomes 'people tend not to recycle' or 'in general, people do not recycle enough'?",
+      "timestamp": "19:54",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "James",
+      "text": "And qualifying phrases: 'to some extent', 'to a certain degree', 'in some respects'.",
+      "timestamp": "20:01",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK, let me try. 'To some extent, the documentary was effective in raising awareness, but it could have gone further in addressing systemic issues.'",
+      "timestamp": "20:11",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "Excellent. Hear how much more nuanced that sounds?",
+      "timestamp": "20:19",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, it sounds more... professional? More balanced?",
+      "timestamp": "20:27",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "James",
+      "text": "Both. And ironically, more persuasive. Acknowledging limitations builds trust.",
+      "timestamp": "20:32",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "This is interesting. In German, directness is valued. If you hedge too much, people think you are unsure of yourself or that you do not have a clear position.",
+      "timestamp": "20:40",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "In British English, hedging signals sophistication. It's not weakness - it's strategy.",
+      "timestamp": "20:48",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I think I understand. But it will take practice to feel natural. When I hedge in English, I sometimes feel like I am being dishonest. Like I am hiding my real opinion.",
+      "timestamp": "20:58",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "You're not hiding your opinion. You're presenting it in a way that invites discussion.",
+      "timestamp": "21:06",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Discussion rather than debate. I like this distinction. In German we often discuss by debating. In English you discuss by... building together?",
+      "timestamp": "21:16",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "James",
+      "text": "That's a lovely way to put it. Collaborative rather than confrontational. Now, let me give you a small exercise. I'm going to give you some direct statements, and I want you to hedge them. Ready?",
+      "timestamp": "21:23",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK, I will try.",
+      "timestamp": "21:32",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "James",
+      "text": "First one: 'Electric cars are the solution to transport emissions.'",
+      "timestamp": "21:35",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Hmm... 'Electric cars could be part of the solution to transport emissions, though they may not address all aspects of the problem.'",
+      "timestamp": "21:40",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "James",
+      "text": "Superb. Three hedges in one sentence, all natural.",
+      "timestamp": "21:49",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Thank you. Another one?",
+      "timestamp": "21:56",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "James",
+      "text": "Sure. 'People who don't recycle are irresponsible.'",
+      "timestamp": "22:00",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK, this is harder. Hmm... 'It might be argued that people who do not recycle are not fully considering their environmental responsibility, though there may be practical barriers that prevent them from doing so.'",
+      "timestamp": "22:05",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "James",
+      "text": "Impressive. A judgmental statement transformed into a balanced observation.",
+      "timestamp": "22:16",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I was thinking about what we discussed earlier about privilege and access.",
+      "timestamp": "22:25",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "Exactly, and that shows real intellectual depth. OK, one more. A tricky one. 'Veganism is the only ethical diet.'",
+      "timestamp": "22:30",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Oh, this is very strong. Let me think... 'There is evidence to suggest that plant-based diets tend to have a lower environmental impact, but the ethical dimensions of food choices are complex and may depend on cultural, economic, and geographical factors.'",
+      "timestamp": "22:37",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "James",
+      "text": "Brilliant, Katrin. Natural hedging throughout, and you brought in cultural context. Your supervisor would be impressed.",
+      "timestamp": "22:49",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Really? I feel like I have completely changed the meaning of the original statement though.",
+      "timestamp": "23:00",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "James",
+      "text": "Well, you've made it more accurate. The original statement was an oversimplification. Your version is closer to the truth because it acknowledges complexity.",
+      "timestamp": "23:06",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Hmm, this is a good point. Maybe hedging is not just about politeness but also about precision.",
+      "timestamp": "23:14",
+      "confidence": 0.74
+    },
+    {
+      "speaker": "James",
+      "text": "Absolutely. That's a key insight. Hedging is a precision tool, not just a politeness tool.",
+      "timestamp": "23:20",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I would like to express my disagreement with one thing though.",
+      "timestamp": "23:27",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "James",
+      "text": "Ha! OK, but notice what you just said: 'I would like to express my disagreement'. That's very formal. In a conversation like this, you could just say 'I disagree with one thing though' or even 'Well, I'm not sure about that'.",
+      "timestamp": "23:32",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Oh. Yes. 'I disagree with one thing though'. This is my problem with register. I am always too formal.",
+      "timestamp": "23:41",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "James",
+      "text": "It's understandable. Academic English is what you've been most exposed to, so it comes more naturally. But in spoken English, even in professional settings, we're usually more relaxed than you'd expect.",
+      "timestamp": "23:47",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "So what was I going to disagree about? Oh yes. I am not sure that hedging is always appropriate. In some contexts, directness is necessary. For example, when talking about human rights or scientific facts.",
+      "timestamp": "23:56",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "Agreed. Sometimes directness is essential. But there's still a difference between direct and aggressive.",
+      "timestamp": "24:05",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, I see the distinction. You can be firm without being rude. 'The evidence for climate change is clear and overwhelming' is direct but not aggressive.",
+      "timestamp": "24:16",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Exactly. Right, so let's take this back to the climate change discussion we were having. I want you to re-express some of your earlier arguments, but this time using the hedging tools we've just discussed. Let's start with the systemic vs individual change debate.",
+      "timestamp": "24:24",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. So earlier I said... what did I say exactly? Something like 'it is wrong to put responsibility on individuals'?",
+      "timestamp": "24:35",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "James",
+      "text": "Something like that, yes. You said you get frustrated when documentaries put the responsibility on normal people.",
+      "timestamp": "24:42",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Right. So let me try again. I would say that there seems to be an overemphasis in public discourse on individual responsibility for climate change. While individual actions can certainly make a contribution, research tends to suggest that systemic and structural changes may be more effective in reducing overall emissions.",
+      "timestamp": "24:48",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "Spot on. Four natural hedges, and the argument is stronger for them.",
+      "timestamp": "25:01",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "It does feel stronger, actually. Because now it sounds like I have considered the counterarguments.",
+      "timestamp": "25:11",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Exactly. You sound like someone who's thought carefully about the issue rather than someone who's just reacting emotionally. Which is exactly the impression you want to make in your Master's.",
+      "timestamp": "25:17",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. My supervisor keeps telling me to 'show my thinking', and I think this is exactly what she means. She wants to see the process of reasoning, not just the conclusion. She wants to see that I have considered alternatives and limitations before arriving at my position.",
+      "timestamp": "25:26",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "That's a really good connection to make. 'Show your thinking' means make your reasoning process visible, including the doubts and qualifications. That's what hedging does in writing.",
+      "timestamp": "25:32",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. Can I try another one? The point about degrowth.",
+      "timestamp": "25:41",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "James",
+      "text": "Go ahead.",
+      "timestamp": "25:45",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Earlier I said something very direct about the economy. Let me try again. It could be argued that the current model of economic growth, which relies heavily on resource extraction, may not be compatible with long-term environmental sustainability. Some researchers have proposed degrowth as a potential alternative, though this remains a contested concept.",
+      "timestamp": "25:48",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "James",
+      "text": "Katrin, that's wonderful. 'It could be argued', 'relies heavily on', 'may not be compatible', 'potential alternative', 'contested concept'. You're using hedging language really naturally now. And 'contested concept' is a great academic phrase.",
+      "timestamp": "26:02",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Thank you. I think the key is to separate my emotional conviction from my academic expression. I still believe strongly in degrowth, but I can express it in a way that invites discussion.",
+      "timestamp": "26:13",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Even native speakers confuse strength of conviction with strength of argument.",
+      "timestamp": "26:22",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "In German, we have a saying: 'Wer schreit, hat Unrecht.' Whoever shouts is wrong. Maybe this applies here.",
+      "timestamp": "26:30",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "We say 'empty vessels make the most noise' - the loudest person doesn't have the best argument.",
+      "timestamp": "26:37",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Empty vessels make the most noise. I love this expression. I will use it.",
+      "timestamp": "26:46",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "One more scenario. A classmate says 'Developing countries should not use fossil fuels because we need to reduce emissions.' How would you respond?",
+      "timestamp": "26:52",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Oh, this is a common argument and it makes me very... it makes me very frustrated. I mean, I get very frustrated.",
+      "timestamp": "27:02",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "James",
+      "text": "Good self-correction on 'become' to 'get'! So how would you respond to this argument in a seminar?",
+      "timestamp": "27:09",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. I would say: 'That is an interesting point, but I think we should also consider the historical context. Industrialized countries have been emitting greenhouse gases for over a century, and it could be argued that they have a greater responsibility to reduce emissions. Furthermore, it might seem unfair to restrict developing countries from using the same resources that enabled wealthy nations to industrialize.'",
+      "timestamp": "27:14",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "James",
+      "text": "Outstanding. You acknowledged their point, used hedging, and supported with evidence. That's how you disagree constructively.",
+      "timestamp": "27:30",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "It feels more respectful but also more convincing.",
+      "timestamp": "27:42",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "It is. Because you're not attacking the person, you're engaging with the idea. And that's a crucial distinction in English discourse.",
+      "timestamp": "27:47",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "In German discourse too, actually. But I think in German we are more used to direct intellectual confrontation. In a German seminar, you might say 'Dieses Argument ist falsch, weil...' - this argument is wrong because - and it would not be considered rude.",
+      "timestamp": "27:54",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "James",
+      "text": "Right. And in an English seminar, saying 'This argument is wrong' would probably make people a bit uncomfortable, even if you follow it up with good reasoning.",
+      "timestamp": "28:04",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. I learned this the hard way in my first semester. I was in a seminar and I said to a classmate 'You must stop thinking about it this way, the data clearly shows something different.' And everyone looked at me strangely.",
+      "timestamp": "28:12",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "Oh dear. Yes, 'you must stop thinking about it this way' would sound very forceful in an English seminar. A bit like a teacher telling off a student.",
+      "timestamp": "28:22",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I know! I did not mean it that way at all. I just meant that the data did not support the argument. But people thought I was being aggressive.",
+      "timestamp": "28:29",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "James",
+      "text": "What would you say now, looking back?",
+      "timestamp": "28:37",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Hmm... 'I see your point, but the data seems to suggest a different conclusion. Could we look at the evidence together?'",
+      "timestamp": "28:42",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "James",
+      "text": "Notice how that transforms confrontation into collaboration.",
+      "timestamp": "28:50",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. This is much better. I wish someone had taught me this before I started my Master's.",
+      "timestamp": "28:57",
+      "confidence": 0.71
+    },
+    {
+      "speaker": "James",
+      "text": "Well, you're learning it now, and you're learning it fast. Now, I want to also give you some tools for disagreeing more casually. In everyday conversation, you don't need the full academic hedging toolkit.",
+      "timestamp": "29:03",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK, what do people say informally?",
+      "timestamp": "29:13",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "James",
+      "text": "Well, you might say things like 'I see what you mean, but...' or 'Fair point, though...' or 'I get that, but I reckon...' These are softer than 'you're wrong' but less formal than 'it could be argued'.",
+      "timestamp": "29:18",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I reckon? What does 'reckon' mean?",
+      "timestamp": "29:28",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "James",
+      "text": "'Reckon' means 'think' or 'believe'. It's quite informal, more common in British English. 'I reckon we should go', 'I reckon that's about right'. It's very casual.",
+      "timestamp": "29:33",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I reckon. This is very British. My flatmate is from Manchester and she says this a lot.",
+      "timestamp": "29:41",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Ha, yes, very common in the North of England especially. Another useful phrase is 'thing is'. 'I see what you mean, but the thing is...' It's a very natural way to introduce a counterpoint.",
+      "timestamp": "29:47",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "The thing is. We do not have this exact expression in German. It is like 'die Sache ist'?",
+      "timestamp": "29:56",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "James",
+      "text": "Yes, exactly. 'Die Sache ist' - same function. And another one: 'mind you'. 'The documentary was good. Mind you, it could have been more balanced.' It adds a qualification to what you just said.",
+      "timestamp": "30:03",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Mind you. This is new for me. I have heard 'however' and 'nevertheless' and 'on the other hand', but these are all very formal.",
+      "timestamp": "30:13",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "Exactly! And that's your challenge. You've got the formal connectors down perfectly - 'furthermore', 'moreover', 'consequently' - but you're missing the informal equivalents. In a conversation, you might just say 'still', 'that said', 'then again', 'mind you'.",
+      "timestamp": "30:20",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Therefore and however are my favorites. I use them all the time.",
+      "timestamp": "30:31",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Which is perfect in an essay but a bit stiff in casual chat. Imagine you're having a conversation with your flatmate about what to have for dinner. You wouldn't say 'Furthermore, I would like to suggest that we order pizza.'",
+      "timestamp": "30:37",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Ha! No. But I think I actually might say something like that. My flatmate teases me about my formal English sometimes.",
+      "timestamp": "30:46",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "Really? That's actually very endearing. But let's try to give you some more casual options. Instead of 'furthermore', you could say 'plus', 'also', or 'and another thing'. Instead of 'however', try 'but', 'though', or 'still'.",
+      "timestamp": "30:53",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "These are much simpler. But is it not... unprofessional to use such simple words?",
+      "timestamp": "31:03",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "James",
+      "text": "Not at all! It's appropriate. Language is about context. Using 'furthermore' in a casual conversation is like wearing a tuxedo to the pub. It's not wrong, but it's not the right fit.",
+      "timestamp": "31:09",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "A tuxedo to the pub! This is a very good analogy. I understand.",
+      "timestamp": "31:18",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "Quick role-play. You're chatting with your flatmate about the documentary. Go.",
+      "timestamp": "31:23",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK, let me try. So I watched this documentary about climate change last night, and it was... pretty good actually. The science bit was really well done, with some really cool animations showing how the planetary boundaries work and stuff. Though I thought they went a bit easy on the big companies. Like, they barely mentioned how much the fossil fuel industry has known about this for decades, which is kind of a massive oversight if you ask me. Also, the solutions were a bit... basic? Just eat less meat and fly less, you know? Like, is that really going to save the planet? I mean, I guess it helps a tiny bit, but come on.",
+      "timestamp": "31:29",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "James",
+      "text": "Katrin! That was fantastic! Did you hear yourself? 'Pretty good', 'a bit', 'like', 'you know'. Those are all casual markers. And 'the science bit' rather than 'the scientific component'. That sounded really natural.",
+      "timestamp": "31:43",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Really? I was trying to imagine how my flatmate speaks. She uses 'like' and 'you know' constantly.",
+      "timestamp": "31:52",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Great strategy. And you used 'though' instead of 'however'. Did it feel different?",
+      "timestamp": "31:58",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, it felt more relaxed. But also a bit strange. Like I was pretending to be someone else.",
+      "timestamp": "32:06",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "That's normal. It takes time to develop your own casual style.",
+      "timestamp": "32:13",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I hope so. Sometimes I feel like I have two personalities. Formal academic Katrin in English, and normal relaxed Katrin in German.",
+      "timestamp": "32:23",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "The goal is to expand your range so you can be formal or casual as needed.",
+      "timestamp": "32:30",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, I want to be able to switch. Like a... Sprachcode? Code-switching?",
+      "timestamp": "32:39",
+      "confidence": 0.52
+    },
+    {
+      "speaker": "James",
+      "text": "Code-switching - what fluent speakers do to fit the context.",
+      "timestamp": "32:44",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. So I need to practice informal English more. Do you have any suggestions?",
+      "timestamp": "32:52",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "Podcasts, YouTube, even reality TV. And more casual conversations - your flatmate sounds perfect.",
+      "timestamp": "32:58",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "She is. But we usually speak about quite serious topics. We are both studying environmental policy, so our conversations tend to be quite academic even at home.",
+      "timestamp": "33:07",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Content can be serious while style stays casual. Let me play devil's advocate on individual vs systemic change.",
+      "timestamp": "33:14",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. Please.",
+      "timestamp": "33:24",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "James",
+      "text": "So here's my argument: waiting for systemic change is just an excuse for doing nothing personally. People say 'oh, it's the big companies' fault' and then they drive their SUV to the supermarket to buy avocados flown in from Peru. Isn't individual responsibility important?",
+      "timestamp": "33:28",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK, I will try to respond to this using hedging and informal language. Fair point, and I get where you are coming from. But the thing is, focusing too much on individual choices can actually be counterproductive. Research tends to show that when people do small green things, like recycling or using a reusable bag, they sometimes feel like they have done their part and they do not engage in bigger political action. This is called... Gewissensberuhigung... how do you say this?",
+      "timestamp": "33:36",
+      "confidence": 0.48
+    },
+    {
+      "speaker": "James",
+      "text": "You might be thinking of 'moral licensing'? The psychological effect where doing something good makes you feel entitled to do something bad?",
+      "timestamp": "33:52",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes! Moral licensing. So someone recycles their plastic bottle and then thinks 'OK, I have done my bit' and does not vote for environmental regulation or join a protest. That is the risk of overemphasizing individual action.",
+      "timestamp": "33:58",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "That's a really strong argument, well expressed. And I noticed you used 'fair point', 'the thing is', and 'tends to show'. Excellent mix of informal style and hedging.",
+      "timestamp": "34:08",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Thank you. I am trying to find the balance.",
+      "timestamp": "34:16",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "You're doing really well. Let me push back one more time though. What about the argument that individual choices, when aggregated, can drive market changes? If millions of people stop buying fast fashion, the industry has to adapt.",
+      "timestamp": "34:21",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, I think there is some truth in this. Consumer pressure can drive change to a certain degree. But I reckon - is that right? - I reckon that this only works for people who have the economic power to choose. If you are on minimum wage, you cannot afford to buy sustainable fashion. So consumer activism is to some extent a privilege of the middle class.",
+      "timestamp": "34:30",
+      "confidence": 0.74
+    },
+    {
+      "speaker": "James",
+      "text": "Great use of 'I reckon'! The class and consumer power argument is astute.",
+      "timestamp": "34:44",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Astute? What does this word mean?",
+      "timestamp": "34:52",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "James",
+      "text": "Astute means perceptive, showing keen insight. It's a compliment - your analysis is sharp.",
+      "timestamp": "34:56",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Ah, scharfsinnig in German. Thank you. I will add this word to my vocabulary.",
+      "timestamp": "35:02",
+      "confidence": 0.57
+    },
+    {
+      "speaker": "James",
+      "text": "Good. Now, let me shift the discussion slightly. You've been arguing very convincingly for systemic change. But I want to test whether you can argue the opposite position. Can you make a case FOR individual responsibility?",
+      "timestamp": "35:08",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Argue the opposite? This is difficult because I do not really believe in it.",
+      "timestamp": "35:18",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "It's an excellent exercise. Presenting the strongest opposing argument is called 'steelmanning'.",
+      "timestamp": "35:23",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Steelmanning? Like the opposite of a strawman?",
+      "timestamp": "35:33",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "James",
+      "text": "Exactly. Steelman vs strawman. You're building up the argument rather than tearing it down. Give it a try.",
+      "timestamp": "35:37",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. So... one could argue that individual responsibility is the foundation of democratic change. When citizens change their behavior, they also change their values and their expectations of government. Therefore... I mean, so... the personal and the political are connected. A person who cycles to work and reduces their meat consumption is more likely to also support environmental policies. They develop what you might call an environmental identity, and this identity then influences their voting behavior, their consumer choices, and their social influence. Studies have shown that sustainable behaviors can spread through social networks, so when one person in a group starts cycling to work, others may follow. In this sense, individual action is not a substitute for systemic change but a catalyst for it. It creates the social conditions for political change.",
+      "timestamp": "35:43",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "James",
+      "text": "Excellent! And did you notice you caught yourself using 'therefore' and switched to 'so'? That's great awareness of register.",
+      "timestamp": "36:00",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Ha! Yes, I noticed it as soon as I said it. 'Therefore' was too formal for what I was trying to do.",
+      "timestamp": "36:08",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "Perfect instinct. Now, I want to give you one more important skill for academic discussion. It's called 'conceding a point'. This is when you acknowledge that your opponent has a valid point before presenting your own argument.",
+      "timestamp": "36:14",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Like 'you have a point, but...'?",
+      "timestamp": "36:24",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "James",
+      "text": "Exactly. Or 'I take your point', 'That's a valid concern', 'I can see why you'd think that'. These show that you're listening and engaging, not just waiting for your turn to talk.",
+      "timestamp": "36:28",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "In German we do this too, but perhaps less frequently. I think in an English discussion, you need to acknowledge the other person more often.",
+      "timestamp": "36:37",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "In the UK, there's a lot of 'face-work' - managing the other person's dignity in conversation.",
+      "timestamp": "36:44",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Face-work? Like 'saving face'?",
+      "timestamp": "36:53",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "James",
+      "text": "A concept from pragmatics. Particularly important in British culture.",
+      "timestamp": "36:57",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "This explains a lot actually. Sometimes in the UK I feel like people are not saying what they really think. They are doing face-work.",
+      "timestamp": "37:06",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "Ha! There's a famous joke: 'That's an interesting idea' means 'That's the worst idea I've ever heard'.",
+      "timestamp": "37:13",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes! I have seen this table on the internet. 'With all due respect' means 'I think you are an idiot'. This is very confusing for Germans.",
+      "timestamp": "37:22",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "James",
+      "text": "Understanding this indirect style really helps in studies and work.",
+      "timestamp": "37:30",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I think so too. But I also think that German directness has its advantages. You always know where you stand.",
+      "timestamp": "37:37",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Absolutely. Both styles have their strengths. The key is to be able to recognize and use both when needed.",
+      "timestamp": "37:43",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Like code-switching.",
+      "timestamp": "37:50",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "James",
+      "text": "Exactly. Cultural code-switching too.",
+      "timestamp": "37:54",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. I think I am starting to understand the system better. Can we practice some more disagreeing politely? I think this is my biggest weakness.",
+      "timestamp": "38:00",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Of course. Let me give you a scenario. You're at a dinner party and someone says: 'I think climate activists like Greta Thunberg do more harm than good. They're too extreme and they turn people off.'",
+      "timestamp": "38:07",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Oh, this is a topic I feel strongly about. Let me try to be balanced. I would say: 'I see what you mean about the risk of alienating people. But then again, I think there is also a case to be made that strong voices are needed to shift the conversation. Without people like Thunberg pushing the boundaries, the middle ground might not have moved at all.'",
+      "timestamp": "38:16",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "James",
+      "text": "Brilliant. 'I see what you mean', 'but then again', 'I think there is also a case to be made', 'might not have'. You acknowledged their point, used casual connectors, and hedged your own argument. Really well done.",
+      "timestamp": "38:29",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Thank you. It is getting easier with practice.",
+      "timestamp": "38:38",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "It really is. And I want you to notice something: when you hedged, you didn't weaken your argument. You actually made it stronger by showing that you've considered both sides.",
+      "timestamp": "38:43",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, I noticed this pattern. The hedging makes the argument more persuasive, not less.",
+      "timestamp": "38:51",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "That's the paradox of hedging. One more scenario. Someone says: 'Carbon capture technology will solve climate change. We don't need to change our lifestyles.'",
+      "timestamp": "38:57",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. 'That's an interesting perspective, and carbon capture certainly could play a role in addressing emissions. That said, I'd be a bit cautious about relying on a single technology to solve such a complex problem. The evidence so far seems to suggest that carbon capture works at a small scale but scaling it up is still a major challenge. The costs are enormous, the energy requirements are significant, and we would need thousands of facilities operating for decades to make a meaningful impact on atmospheric carbon dioxide levels. Plus, even if the technology develops, we might still need to rethink our consumption patterns for other reasons, like resource depletion, biodiversity loss, and water scarcity. So I would say carbon capture might be one piece of the puzzle, but it probably shouldn't be seen as a silver bullet.'",
+      "timestamp": "39:05",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "James",
+      "text": "Superb. That would work in any academic setting. Well done.",
+      "timestamp": "39:22",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Wow, thank you. I think the key is that I already know how to argue. I just needed the English tools to do it appropriately.",
+      "timestamp": "39:33",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "That's exactly right. Your critical thinking skills are very strong. It's just the pragmatic packaging that needed some work. And it's coming along really fast.",
+      "timestamp": "39:39",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Pragmatic packaging. I like this term.",
+      "timestamp": "39:48",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "James",
+      "text": "Good. Now, let's spend the next section applying everything we've worked on today. I want to have a more natural discussion about a specific aspect of climate change, and I want you to use the hedging tools and informal style we've practiced. Think of it as a real conversation, not an exercise.",
+      "timestamp": "39:53",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. What topic?",
+      "timestamp": "40:03",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "James",
+      "text": "Let's talk about something you mentioned earlier - the difference between German and British attitudes to sustainability. You said German recycling puts ours to shame. Tell me more about that, and we'll see where the conversation goes.",
+      "timestamp": "40:07",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. So in Germany, sustainability is deeply embedded in the culture. I would say most people take recycling very seriously. We separate our waste into many categories: paper, glass, organic waste, packaging, residual waste. And the Pfand system, where you pay a deposit on bottles and cans, means that almost nothing ends up in the streets.",
+      "timestamp": "40:14",
+      "confidence": 0.46
+    },
+    {
+      "speaker": "James",
+      "text": "Much simpler in the UK - basically recyclable and non-recyclable, varies by council.",
+      "timestamp": "40:27",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, I was really surprised when I moved here. My flatmate had to explain the system to me, and I was like 'this is all you separate?' Sorry, is 'I was like' too informal?",
+      "timestamp": "40:34",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "James",
+      "text": "Not at all! 'I was like' is perfect for casual conversation. It's used to introduce a reaction or something you said. You're using it exactly right.",
+      "timestamp": "40:41",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK, good. So I was like, 'where does the glass go?' and she said 'in the recycling bin with everything else' and I was... shocked? Maybe that is too strong. Surprised.",
+      "timestamp": "40:48",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "James",
+      "text": "Shocked is fine actually. It conveys how different the system is. Now, do you think the German system is better purely because of the infrastructure, or is it also a cultural attitude?",
+      "timestamp": "40:56",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I think it is both. The infrastructure makes it easy to recycle, but there is also a strong cultural norm. In Germany, if you put a glass bottle in the wrong bin, your neighbours might actually say something. There is social pressure to do it correctly.",
+      "timestamp": "41:03",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "That would never happen in the UK!",
+      "timestamp": "41:13",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, this is the difference! Germans will tell you directly. People should not put glass in the paper bin. It is... oh, I did it again. Let me rephrase. People tend not to mix the waste categories, and there is a general expectation that everyone follows the system.",
+      "timestamp": "41:19",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "James",
+      "text": "Great self-correction. You caught the absolute 'people should not' and softened it. Now, I want to challenge you a bit on the German system. Is it really as effective as it seems? I've read that Germany exports a lot of its plastic waste to Southeast Asia.",
+      "timestamp": "41:30",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Hmm, this is... yes, this is a fair criticism. I have to concede that the German recycling system has been criticized for this. A lot of what we think is being recycled is actually being shipped to countries in Southeast Asia, where it may not be processed properly, and where it can end up in landfills or the ocean. There was a documentary on German television about this, and it was quite shocking for many Germans who believed they were doing the right thing by carefully sorting their waste. It made me question whether recycling, even done well, is really a solution or just a way to feel better about overconsumption.",
+      "timestamp": "41:40",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "Good use of 'I have to concede'. You acknowledged the weakness in your own argument.",
+      "timestamp": "41:50",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Thank you. It is not easy to admit this. As a German, I am quite proud of our environmental policies, and it is uncomfortable to acknowledge their limitations.",
+      "timestamp": "41:55",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "That honesty makes your argument much more credible though. What about the Energiewende? You mentioned it earlier. How successful has it really been?",
+      "timestamp": "42:03",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK, so the Energiewende is the German transition from nuclear and fossil fuels to renewable energy. It started... I think in the early 2000s, although the roots go back further, to the anti-nuclear movement of the seventies and eighties. And it has been partially successful. Germany now gets more than forty percent of its electricity from renewable sources, which is impressive. We have invested heavily in solar panels and wind turbines, and there are entire regions in northern Germany where the landscape is dominated by wind farms. The feed-in tariff system, where homeowners are paid for the solar electricity they generate, was very successful in encouraging private investment in renewable energy.",
+      "timestamp": "42:10",
+      "confidence": 0.51
+    },
+    {
+      "speaker": "James",
+      "text": "But?",
+      "timestamp": "42:22",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "But the decision to shut down all nuclear power plants was, I would say, controversial and perhaps premature. Because without nuclear, Germany had to rely more on coal and natural gas in the short term. So emissions did not fall as quickly as they could have.",
+      "timestamp": "42:25",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "Nicely hedged on a politically sensitive topic.",
+      "timestamp": "42:37",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Well, in Germany this is extremely political. The Green Party supported the nuclear exit, and many environmental organizations too. But some scientists argue that nuclear energy is necessary for climate change... I mean, for fighting climate change. As a bridge technology.",
+      "timestamp": "42:44",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "James",
+      "text": "Bridge technology - that's a good term. A technology that bridges the gap between fossil fuels and fully renewable energy.",
+      "timestamp": "42:56",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Exactly. And I used to be very anti-nuclear, like most people in my generation in Germany. But since I started studying environmental policy here in the UK, I have become... sorry, I have grown more open to the idea that nuclear might have a role to play.",
+      "timestamp": "43:02",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "James",
+      "text": "Good self-correction. Has studying abroad changed your perspective?",
+      "timestamp": "43:14",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "To some extent, yes. In Germany, anti-nuclear sentiment is very strong because of the Cold War, Chernobyl, and also the Fukushima disaster. The anti-nuclear movement was one of the founding forces of the Green Party, and for many Germans, opposing nuclear power is part of their environmental identity. Entire generations grew up with the slogan 'Atomkraft? Nein, danke!' So it is a deeply emotional issue, not just a technical one. But in the UK, the discussion is much more balanced and pragmatic. My British classmates are surprisingly open to nuclear energy, which was quite shocking to me at first.",
+      "timestamp": "43:21",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Cultural difference or energy situation?",
+      "timestamp": "43:32",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I think it depends from both factors. The UK has had nuclear power for a long time without major incidents, so the public is less afraid. And also the UK is an island, so energy independence is more important.",
+      "timestamp": "43:38",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "'It depends on', not 'depends from' - we 'depend on' in English.",
+      "timestamp": "43:48",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Depends on. Not depends from. In German it is 'abhängen von', and 'von' means 'from'. So again I am transferring the German preposition.",
+      "timestamp": "43:55",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "James",
+      "text": "Exactly. These prepositional transfers are really common and very persistent. 'Interested in', 'depends on', 'afraid of' - English prepositions don't map neatly onto German ones.",
+      "timestamp": "44:02",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I should make a list. Interested in, not for. Depends on, not from. What other common ones are there?",
+      "timestamp": "44:11",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "'Consist of' not 'consist from'. 'Remind of' not 'remind at'. 'Look forward to' not 'look forward on'. There are quite a few.",
+      "timestamp": "44:17",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I will definitely make a list. These are the kind of mistakes that make me sound foreign even when my grammar and vocabulary are otherwise good.",
+      "timestamp": "44:25",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Prepositions are the last to acquire - no logic to them, just learn each one.",
+      "timestamp": "44:31",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. OK. Let me go back to our discussion about British and German attitudes. Another difference I have noticed is in everyday conversation. In Germany, people talk about climate change more openly. At dinner parties, in the office, with friends. Here in the UK, I sometimes feel that people avoid the topic because it is depressing.",
+      "timestamp": "44:40",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "There might be some truth to that. British people do avoid heavy topics casually.",
+      "timestamp": "44:52",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "But how can you solve a problem if you do not talk about it?",
+      "timestamp": "45:00",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "James",
+      "text": "Well, that's the German perspective! And I think it's valid. But the British might argue that there's a time and place for serious discussion, and dinner parties aren't it.",
+      "timestamp": "45:05",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Hmm, then again, maybe I am generalizing too much. I only know my flatmate and my classmates. I cannot speak for all British people.",
+      "timestamp": "45:13",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "Excellent! Did you notice what you just did? You hedged your own generalization. 'Then again, maybe I am generalizing too much. I cannot speak for all British people.' That's exactly the kind of qualification that makes your argument more credible.",
+      "timestamp": "45:20",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I did not even think about it consciously. It just felt right.",
+      "timestamp": "45:30",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "That's the best sign. When it becomes automatic, you've really internalized it. Well done.",
+      "timestamp": "45:35",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Thank you. Can I ask you something about British culture actually?",
+      "timestamp": "45:41",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "Of course, go ahead.",
+      "timestamp": "45:45",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "When British people say 'it's not bad', do they mean it is good? Because my flatmate said this about my cooking and I was not sure if it was a compliment.",
+      "timestamp": "45:49",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "James",
+      "text": "Ha! Yes, 'not bad' in British English is actually a compliment. It means 'quite good' or even 'very good'. We love understatement. 'Not bad at all' is even higher praise.",
+      "timestamp": "45:57",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "This is so confusing! In German, 'nicht schlecht' is literally 'not bad', which means it is OK but nothing special. But in British English it means actually good?",
+      "timestamp": "46:05",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "James",
+      "text": "Yes. British understatement is famously confusing. 'Quite good' means very good. 'Not bad' means good. 'I'm not entirely convinced' means I completely disagree. It takes some getting used to.",
+      "timestamp": "46:13",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I think my Master's programme should include a compulsory module on understanding British communication styles and indirectness. It would be more practically useful than some of the theoretical modules I am taking. Half the challenge of studying abroad is not the academic content but navigating the social and communicative norms of a different culture.",
+      "timestamp": "46:22",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Ha! You could write a thesis on it. 'Cross-cultural pragmatic failures in German-British academic interactions.' There's probably one already.",
+      "timestamp": "46:29",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Probably! OK, so going back to climate change and cultural differences. I wanted to mention one more thing. In Germany, the concept of Nachhaltigkeit... how do you say this? Sustainability?",
+      "timestamp": "46:37",
+      "confidence": 0.58
+    },
+    {
+      "speaker": "James",
+      "text": "Sustainability, yes. Though in German, 'Nachhaltigkeit' has an interesting etymology, doesn't it? Something to do with forestry?",
+      "timestamp": "46:45",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes! It comes from 'nachhalten', which means to last, to endure. And it was first used in German forestry in the eighteenth century. The idea was that you should not cut down more trees than can grow back. So sustainability was actually a German invention, in a way.",
+      "timestamp": "46:51",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "Deep roots in German culture, then.",
+      "timestamp": "47:02",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. And I think this is why Germans take environmental issues so seriously. It is part of the cultural identity. The Wald, the forest, is very important in German culture, and the idea of protecting nature for future generations is deeply rooted.",
+      "timestamp": "47:07",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "That's a fascinating cultural analysis. The connection between German Romanticism, the forest as a national symbol, and modern environmentalism.",
+      "timestamp": "47:18",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Exactly. And when the Waldsterben happened in the 1980s, the forest dying because of acid rain, it was like a national trauma. This is what gave birth to the German Green Party.",
+      "timestamp": "47:24",
+      "confidence": 0.6
+    },
+    {
+      "speaker": "James",
+      "text": "Waldsterben - that's a great word. We don't have an equivalent in English. We'd just say 'forest dieback' or 'forest decline', but it doesn't carry the same emotional weight.",
+      "timestamp": "47:34",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "No, it does not. Waldsterben is an emotional word. It means the forest is dying. Not declining, not changing. Dying. And this emotional connection to nature is what drives a lot of German environmental policy. When people saw photographs of dead trees in the Black Forest, with the branches bare and the bark falling off, it was extremely powerful. It mobilized an entire generation. My parents were both involved in the environmental movement in the eighties, partly because of the Waldsterben. They would go to demonstrations and sign petitions and eventually vote for the Green Party. So there is a direct line from that emotional shock to the political outcomes we see today.",
+      "timestamp": "47:41",
+      "confidence": 0.53
+    },
+    {
+      "speaker": "James",
+      "text": "Do you think the UK has an equivalent emotional connection to any environmental issue?",
+      "timestamp": "47:51",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Hmm, that is a good question. I am not sure. Maybe... the countryside? The Lake District, the national parks? I get the impression that British people care about the landscape, but maybe not in the same politically active way as Germans care about the forest.",
+      "timestamp": "47:56",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "James",
+      "text": "That's a really interesting comparison. The British love the countryside but perhaps in a more nostalgic, preservationist way rather than an activist way.",
+      "timestamp": "48:07",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. Preservationist is a good word. Keeping things as they are rather than actively fighting for systemic change.",
+      "timestamp": "48:15",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Though there are notable exceptions. The campaign against fracking was very grassroots and very passionate.",
+      "timestamp": "48:22",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "True. And the Extinction Rebellion movement also started here in the UK, which was quite radical. So maybe I should not generalize too much about British attitudes.",
+      "timestamp": "48:28",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "Again, good self-qualification! You're really getting the hang of this.",
+      "timestamp": "48:36",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Thank you. I think the conversation practice helps a lot. When I write, I have time to think about hedging. But in conversation, it needs to be automatic.",
+      "timestamp": "48:41",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Exactly. And the more you practice, the more automatic it becomes. Speaking of writing and speaking, let me ask you something. Do you find it easier to argue in writing or in speech?",
+      "timestamp": "48:48",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "In writing, definitely. In writing, I can plan my sentences, revise them, check my prepositions, look up collocations in the dictionary, and make sure the hedging is appropriate. I can spend ten minutes on a single paragraph until it sounds right. In speaking, everything has to come out immediately, in real time, and I have no opportunity to revise. So I fall back on patterns that are automatic, which are often the German patterns, and I make more errors with prepositions, with word order, with register.",
+      "timestamp": "48:56",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "That's very typical. But today, your speaking has been really strong. The errors are minor and you're self-correcting a lot.",
+      "timestamp": "49:05",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Thank you. I think the topic helps. I am very passionate about climate change, so the ideas flow more easily. When the topic is less familiar, I struggle more with fluency.",
+      "timestamp": "49:11",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "That makes sense. Content knowledge and language fluency support each other. When you know what you want to say, the language comes more easily.",
+      "timestamp": "49:20",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. In my Master's seminars, when we discuss topics from my research area, like sustainability policy or urban planning, I am much more fluent and confident than when we discuss topics I do not know well, like British housing policy or the National Health Service. When I know the concepts and the technical vocabulary, the words just flow. But when I am in unfamiliar territory, I have to think about the content and the language at the same time, and this creates a kind of cognitive overload. My classmates sometimes think my English is better or worse depending on the topic, but actually it is the same English, just applied to different levels of content knowledge.",
+      "timestamp": "49:27",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "That's completely normal and very common in advanced language learners. Your linguistic competence is relatively stable, but your performance varies with context. It's important to remember that on a bad day, your English hasn't suddenly got worse - you're just dealing with less familiar content.",
+      "timestamp": "49:36",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "That is reassuring. Sometimes I feel like I am going backwards, especially when I make basic mistakes like 'become' instead of 'get' or 'actual' instead of 'current'. These are mistakes that I thought I had already corrected years ago, and when they reappear, it is frustrating. I feel like my brain knows the correct form but my mouth produces the wrong one automatically, especially when I am focused on expressing a complex idea and not monitoring my language.",
+      "timestamp": "49:47",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "James",
+      "text": "Language acquisition is never linear. Those false friends will pop up occasionally even at very advanced levels. The fact that you recognize them immediately is what matters.",
+      "timestamp": "49:55",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, you are right. I need to be more patient with myself.",
+      "timestamp": "50:03",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "Absolutely. And from my perspective, your English is really strong. You have excellent ideas, you express them clearly, and you're developing a really nice range of styles - from formal academic to more casual. The areas for improvement are quite specific: prepositions, some collocations, and relaxing the register in casual contexts.",
+      "timestamp": "50:08",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Thank you, James. This is very helpful and specific feedback. I will work on the preposition list this weekend, try to use more informal language with my flatmate, and pay attention to casual discourse markers when I watch English-language content.",
+      "timestamp": "50:20",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Good plan. And one more thing to practice: try using the casual discourse markers we discussed. 'Thing is', 'mind you', 'then again', 'that said'. Just sprinkle them into your conversations.",
+      "timestamp": "50:26",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Sprinkle them in. Like salt on food.",
+      "timestamp": "50:35",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "Exactly! Just a pinch here and there. Don't overdo it.",
+      "timestamp": "50:39",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. I have a question about the documentary what I watched. Sorry - the documentary that I watched. Is there a good way to practice discussing films in informal English?",
+      "timestamp": "50:44",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "James",
+      "text": "Good self-correction on 'what' to 'that'! And yes, actually. There are lots of English-language film review podcasts. I'd recommend 'Kermode and Mayo' - it's a BBC podcast about films. Mark Kermode is very articulate and uses a nice mix of informal and analytical language.",
+      "timestamp": "50:52",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I will look it up. Is it available on Spotify?",
+      "timestamp": "51:03",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "James",
+      "text": "Yes, I think so. And it's entertaining too, which helps. Right, let's move into our wrap-up. We've covered a lot today.",
+      "timestamp": "51:08",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, it has been a very productive lesson. I feel like I learned a lot about hedging and register.",
+      "timestamp": "51:15",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Let's review what we've covered. First, we had a really rich discussion about climate change - the documentary, individual vs systemic change, German vs British attitudes. Then we focused on hedging language and how to express nuanced opinions.",
+      "timestamp": "51:21",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. And also the informal discourse markers, which I need to practice more.",
+      "timestamp": "51:31",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Right. And we worked on some specific language points. Let me list the vocabulary and phrases from today. Ready?",
+      "timestamp": "51:36",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, I have my notebook.",
+      "timestamp": "51:42",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "James",
+      "text": "OK. First, the false friends we corrected: 'become' should be 'get' for emotions, 'actual' should be 'current', and 'consequent' should be 'consistent'. These come up every lesson, so keep them at the top of your list.",
+      "timestamp": "51:46",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, I know. These are my persistent mistakes. I will make flashcards for them.",
+      "timestamp": "51:56",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Prepositions: 'interested in' not 'for', 'depends on' not 'from'.",
+      "timestamp": "52:02",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. I will start a dedicated preposition list.",
+      "timestamp": "52:10",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "Collocations: 'strong evidence' not 'heavy'. Learn them as chunks.",
+      "timestamp": "52:15",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Strong evidence. And we also mentioned 'do an effort'... or is it 'make an effort'?",
+      "timestamp": "52:22",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "James",
+      "text": "'Make an effort', 'make a decision'. But 'do homework', 'do research'. Add make/do to your list.",
+      "timestamp": "52:27",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "In German we use 'machen' for almost everything, so the make and do distinction is very difficult.",
+      "timestamp": "52:36",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "Learn each as a unit. Fourth: 'who' for people, 'that' or 'which' for things.",
+      "timestamp": "52:42",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. The people who are affected. The documentary that I watched. Not which, not what.",
+      "timestamp": "52:52",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "James",
+      "text": "'Which' is fine for things in formal English. Just never 'what' as a relative pronoun.",
+      "timestamp": "52:58",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. So 'that' or 'which' for things, 'who' for people, and never 'what'.",
+      "timestamp": "53:06",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Exactly. Now, fifth - and this is the big one for today - hedging language. Let me give you a summary list of tools.",
+      "timestamp": "53:12",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes, please. This is what I want to remember most from today.",
+      "timestamp": "53:19",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "Modal verbs: might, could, may. Distancing: 'it seems that', 'evidence suggests'. Tendency: 'tends to', 'in general'. Qualifying: 'to some extent'. Concession: 'I take your point', 'I see what you mean'.",
+      "timestamp": "53:24",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I have written all of these down. Can I add the informal ones too?",
+      "timestamp": "53:38",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Informal disagreement: 'Fair point, though...', 'I get that, but I reckon...'. Connectors: 'thing is', 'mind you', 'then again', 'that said'.",
+      "timestamp": "53:43",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "And 'I reckon' means 'I think' in informal British English.",
+      "timestamp": "53:53",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Perfect. You've remembered everything. Now, sixth - compound nouns. Remember: 'environmental protection' not 'environment protection', and 'greenhouse' is one word.",
+      "timestamp": "53:58",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. In German we compound freely but in English we need the adjective form more often.",
+      "timestamp": "54:06",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "Finally: register. You default to formal, which works for essays but sounds stiff in chat.",
+      "timestamp": "54:12",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Instead of 'furthermore' say 'plus' or 'also'. Instead of 'however' say 'but' or 'though'. Instead of 'I would like to express my disagreement' say 'I disagree' or 'I'm not sure about that'.",
+      "timestamp": "54:21",
+      "confidence": 0.76
+    },
+    {
+      "speaker": "James",
+      "text": "Excellent summary. You've really absorbed today's lesson. Now, for homework. I'd like you to write a paragraph - about 200 words - on a controversial topic of your choice. The challenge is to express a strong opinion while using at least five hedging devices.",
+      "timestamp": "54:30",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. Can I write about nuclear energy? Since we discussed the Energiewende today, I think this would be a good topic.",
+      "timestamp": "54:40",
+      "confidence": 0.6
+    },
+    {
+      "speaker": "James",
+      "text": "The challenge: argue for a position you find uncomfortable. Use steelmanning.",
+      "timestamp": "54:47",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Oh, that is challenging. But I think it will be good practice. I will try to argue for nuclear energy, since I have traditionally been against it.",
+      "timestamp": "54:57",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "Great. And remember, use hedging language throughout. 'It could be argued', 'evidence tends to suggest', 'there may be a case for'. Show me that you can present a nuanced argument.",
+      "timestamp": "55:04",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I will. Should I email it to you before our next lesson?",
+      "timestamp": "55:13",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "James",
+      "text": "Yes, please. Send it by Wednesday so I have time to give you detailed feedback. And one more thing for practice between now and next week.",
+      "timestamp": "55:18",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes?",
+      "timestamp": "55:25",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "James",
+      "text": "Try to have at least one casual English conversation this week where you consciously avoid using 'furthermore', 'however', 'therefore', and 'nevertheless'. Force yourself to use the informal alternatives. It'll feel awkward at first, but it's worth it.",
+      "timestamp": "55:28",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Ha! That will be very difficult. These words are like a safety blanket for me. But I will try.",
+      "timestamp": "55:38",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "A safety blanket - great expression! And don't worry, no one will judge you for sounding casual. That's kind of the point.",
+      "timestamp": "55:44",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. I will try to talk to my flatmate about a serious topic using only informal English. Maybe about climate change, since we discussed so much today.",
+      "timestamp": "55:51",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "That's a perfect plan. And if she notices that you sound different, tell her you're practicing. She'll probably be delighted.",
+      "timestamp": "55:58",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "She will probably laugh at me. But in a nice way.",
+      "timestamp": "56:05",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "James",
+      "text": "That's fine! Laughter is part of learning. Now, any questions before we finish up?",
+      "timestamp": "56:10",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Actually, yes. One question. When I write my Master's assignments, should I use hedging as much as we practiced today? Or is it different in writing?",
+      "timestamp": "56:16",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "Great question. In academic writing, hedging is absolutely essential. In fact, you might hedge even more in writing than in speech because written claims are permanent and will be scrutinized. But the type of hedging is slightly different. In writing, you'd use more formal hedging: 'it appears that', 'this suggests', 'one might argue'. In speech, you can use the more casual versions we practiced.",
+      "timestamp": "56:23",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK, that makes sense. So the principle is the same but the tools are different.",
+      "timestamp": "56:37",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Exactly. The principle is universal: acknowledge uncertainty, show nuance, invite dialogue. But the linguistic tools vary by context.",
+      "timestamp": "56:42",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I think this lesson has been very valuable. Not just for my English but also for my academic skills in general. The concept of steelmanning, the distinction between discussion and debate, the idea of face-work. These are useful concepts even in German.",
+      "timestamp": "56:49",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Language learning is about new ways of thinking. You're getting that.",
+      "timestamp": "57:00",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Thank you. I have one more question actually. You mentioned earlier that my writing sounds like a translated German text. Do you have any specific advice for making it sound more naturally English?",
+      "timestamp": "57:08",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "James",
+      "text": "A few quick tips. Shorter sentences - break up long German-style subclauses. And put the main point first, then qualifications.",
+      "timestamp": "57:16",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Main point first. Yes, my supervisor has said this too. She says I should not make the reader wait for the main argument.",
+      "timestamp": "57:28",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Exactly. And third, use active voice more than passive. German academic writing uses a lot of passive constructions - 'es wird argumentiert', 'es wurde festgestellt'. In English, active voice is preferred, even in academic writing.",
+      "timestamp": "57:34",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Active voice. I have been told this before but it is difficult to change because in German the passive sounds more objective and scientific.",
+      "timestamp": "57:44",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "James",
+      "text": "In English too, some fields prefer passive. But in the social sciences and humanities, active voice is increasingly preferred. You can say 'I argue' or 'This paper demonstrates' rather than 'It is argued that' or 'It has been demonstrated'.",
+      "timestamp": "57:51",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK. I will work on this. Shorter sentences, main point first, more active voice. These are clear goals.",
+      "timestamp": "58:01",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Perfect. And for next week, apart from the nuclear energy paragraph, try to read some articles on The Guardian's environment section. Notice how the journalists use hedging and how they balance direct claims with qualifications.",
+      "timestamp": "58:08",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "The Guardian. OK. Is this a good newspaper for learning English?",
+      "timestamp": "58:17",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "It's excellent. Clear writing, and the environment section has really good analysis.",
+      "timestamp": "58:23",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "OK, I will read at least three articles from The Guardian this week. And I will pay attention to the hedging language.",
+      "timestamp": "58:31",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "Great plan. And one last recommendation: when you read, try underlining the hedging phrases. You'll be surprised how many there are, even in journalism.",
+      "timestamp": "58:37",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "I will do that. It sounds like a very useful exercise.",
+      "timestamp": "58:44",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "James",
+      "text": "Brilliant. So to summarize our goals for next week: write the nuclear energy paragraph using steelmanning and hedging, have a casual English conversation avoiding formal connectors, read three Guardian environment articles and underline hedging phrases, and make your preposition list.",
+      "timestamp": "58:49",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "That is a lot of homework! But I think it is all very useful.",
+      "timestamp": "59:00",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "It's a lot, but it's all connected. Everything feeds into the same skill: expressing nuanced opinions in English at the right register for the context.",
+      "timestamp": "59:06",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Yes. And this is exactly what I need for my Master's and for living in the UK. I want to be able to have intellectual conversations without sounding like a textbook.",
+      "timestamp": "59:13",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "James",
+      "text": "That's a great way to put it. And you're making excellent progress. Today's lesson was really impressive - especially the second half where you started hedging naturally.",
+      "timestamp": "59:21",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Thank you, James. I really enjoyed today's lesson. The climate change topic was perfect for practicing because I know the content well.",
+      "timestamp": "59:28",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "James",
+      "text": "We'll do more topic-based lessons like this. Next week we could look at a different issue - maybe migration or artificial intelligence - and practice the same skills in a new context. What would you prefer?",
+      "timestamp": "59:34",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Artificial intelligence could be very interesting. It relates directly to my studies because there is a growing discussion about AI and sustainability, and the tension between them. For example, the energy consumption of data centers is enormous and growing rapidly. Training a single large language model can emit as much carbon as five cars over their entire lifetime. And at the same time, AI is being used to optimize energy grids and predict climate patterns. So there is a real contradiction there that I find fascinating.",
+      "timestamp": "59:42",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "James",
+      "text": "Oh, that's a great angle. AI and sustainability - the environmental cost of digital technology. Perfect. We'll do that next week.",
+      "timestamp": "59:49",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Wonderful. I will prepare by reading some articles about this topic.",
+      "timestamp": "59:54",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "James",
+      "text": "Right, have a lovely evening! Enjoy Borough Market.",
+      "timestamp": "59:58",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Katrin",
+      "text": "Thank you, James! Have a good evening too. See you next week.",
+      "timestamp": "60:02",
+      "confidence": 0.9
+    }
+  ],
+  "transcription_meta": {
+    "provider": "emulated",
+    "model": "claude-generated-v1",
+    "avg_confidence": 0.87,
+    "languages_detected": [
+      "en"
+    ],
+    "verbatim": true
+  }
+}

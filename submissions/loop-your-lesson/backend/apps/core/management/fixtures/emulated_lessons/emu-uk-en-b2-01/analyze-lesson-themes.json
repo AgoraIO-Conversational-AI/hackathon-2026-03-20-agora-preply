@@ -1,0 +1,252 @@
+{
+  "skill_name": "analyze-lesson-themes",
+  "lesson_id": "emu-uk-en-b2-01",
+  "student_id": "student-andrii",
+  "reasoning": "Analyzed the lesson arc using CEFR B2 conversational descriptors. The lesson follows a clear pedagogical progression: warm-up conversation, article-based reading and discussion, language focus on recurring error patterns, structured formal debate, register exercises (informal-to-formal transformations, hedging practice, workplace role-plays), and consolidation. The teacher built toward formal register production, using data privacy as a high-engagement vehicle. Communicative functions progress from narrating and describing (warm-up) through arguing and evaluating (debate) to hedging and diplomatically disagreeing (formal register). The topic - data privacy and technology - was highly motivating for the student given his professional background in IT.",
+  "lesson_arc": "The lesson moves through five stages: (1) casual warm-up about the student's week and tech news, establishing rapport and activating topic vocabulary; (2) guided reading of a Guardian article on data collection, building comprehension and introducing academic vocabulary; (3) open discussion linking the article to the student's personal and professional experience (Ukrainian context, Diia app, Cambridge Analytica); (4) language focus addressing the recurring article and preposition patterns, with targeted drills; (5) formal register practice through a structured debate, hedging exercises, informal-to-formal transformations, and workplace role-plays (customer response, code review feedback, executive presentations). The progression moves Andrii from passive recognition toward active production of formal English, which is the B2-to-C1 bridge.",
+  "themes": [
+    {
+      "topic": "Weekend and work update",
+      "communicative_function": "narrating",
+      "initiated_by": "teacher",
+      "transcript_range": "00:00 - 01:13",
+      "vocabulary_active": [
+        {
+          "term": "debugging",
+          "context": "\"debugging authentication issues\"",
+          "level": "B2 (technical)"
+        },
+        {
+          "term": "release",
+          "context": "\"a huge release at work\"",
+          "level": "B2 (technical)"
+        },
+        {
+          "term": "coworking space",
+          "context": "\"every second building is a coworking space\"",
+          "level": "B1"
+        }
+      ],
+      "vocabulary_passive": [],
+      "chunks": [
+        "\"up until two in the morning\"",
+        "\"every second building\""
+      ]
+    },
+    {
+      "topic": "EU tech regulation and data privacy - article discussion",
+      "communicative_function": "explaining, evaluating, arguing",
+      "initiated_by": "student",
+      "transcript_range": "01:13 - 10:36",
+      "vocabulary_active": [
+        {
+          "term": "proliferation",
+          "context": "\"it means spreading quickly\"",
+          "level": "C1"
+        },
+        {
+          "term": "harvest (metaphorical)",
+          "context": "\"companies collect data like farmers collect wheat\"",
+          "level": "B2+"
+        },
+        {
+          "term": "surveillance capitalism",
+          "context": "\"companies make money by watching us\"",
+          "level": "C1"
+        },
+        {
+          "term": "dehumanizing",
+          "context": "\"the technology treats people like a resource\"",
+          "level": "B2+"
+        },
+        {
+          "term": "pervasive",
+          "context": "\"surveillance is not just in one place\"",
+          "level": "C1"
+        },
+        {
+          "term": "dark patterns",
+          "context": "\"manipulative design\"",
+          "level": "B2 (technical)"
+        },
+        {
+          "term": "network effects",
+          "context": "\"social network is only valuable if friends are there\"",
+          "level": "B2+"
+        },
+        {
+          "term": "data shadow",
+          "context": "\"you cast a digital shadow\"",
+          "level": "C1"
+        },
+        {
+          "term": "psychological profiling",
+          "context": "\"used Facebook data to build psychological profiles\"",
+          "level": "C1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "dehumanizing",
+          "context": "introduced by Rachel, then used actively by Andrii",
+          "level": "B2+"
+        },
+        {
+          "term": "data shadow",
+          "context": "introduced by Rachel, immediately adopted",
+          "level": "C1"
+        },
+        {
+          "term": "pervasive surveillance",
+          "context": "from article discussion",
+          "level": "C1"
+        },
+        {
+          "term": "regulatory framework",
+          "context": "from article reading",
+          "level": "C1"
+        }
+      ],
+      "chunks": [
+        "\"raises significant concerns\"",
+        "\"without explicit consent\"",
+        "\"set a global benchmark\"",
+        "\"enforcement remains inconsistent\"",
+        "\"nothing to hide argument\"",
+        "\"data is the new oil\""
+      ]
+    },
+    {
+      "topic": "Language focus: articles and prepositions",
+      "communicative_function": "explaining (metalinguistic), practicing",
+      "initiated_by": "teacher",
+      "transcript_range": "09:10 - 22:36",
+      "vocabulary_active": [
+        {
+          "term": "abstract noun",
+          "context": "\"because it's abstract noun\"",
+          "level": "B2 (metalinguistic)"
+        },
+        {
+          "term": "transitive",
+          "context": "\"discuss is transitive, no preposition\"",
+          "level": "B2 (metalinguistic)"
+        },
+        {
+          "term": "present perfect continuous",
+          "context": "identifying the tense for durations",
+          "level": "B2 (metalinguistic)"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "zero article",
+          "context": "teacher's term for no article",
+          "level": "B2 (metalinguistic)"
+        },
+        {
+          "term": "restrictive clause",
+          "context": "\"specific because of 'that you receive'\"",
+          "level": "C1 (metalinguistic)"
+        }
+      ],
+      "chunks": [
+        "\"depend on / rely on / interested in / result in\"",
+        "\"make a decision\" (not \"do a decision\")",
+        "\"strong opinion\" (not \"heavy opinion\")",
+        "\"raise a question\" (not \"rise a question\")"
+      ]
+    },
+    {
+      "topic": "Formal debate: government regulation of social media",
+      "communicative_function": "arguing, persuading, hedging, countering",
+      "initiated_by": "teacher",
+      "transcript_range": "23:17 - 33:52",
+      "vocabulary_active": [
+        {
+          "term": "algorithmic transparency",
+          "context": "\"require algorithmic transparency\"",
+          "level": "C1"
+        },
+        {
+          "term": "democratic oversight",
+          "context": "\"without democratic oversight\"",
+          "level": "C1"
+        },
+        {
+          "term": "slippery slope",
+          "context": "\"this is slippery slope argument\"",
+          "level": "B2+"
+        },
+        {
+          "term": "first-mover advantage",
+          "context": "\"the reason is first-mover advantage\"",
+          "level": "C1 (business)"
+        },
+        {
+          "term": "the Brussels Effect",
+          "context": "\"the Brussels Effect shows it can work\"",
+          "level": "C1"
+        },
+        {
+          "term": "federated learning",
+          "context": "\"privacy-preserving techniques like federated learning\"",
+          "level": "C1 (technical)"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "chilling effect",
+          "context": "used in hedging response about surveillance",
+          "level": "C1"
+        }
+      ],
+      "chunks": [
+        "\"it could be argued that...\"",
+        "\"there is evidence to suggest...\"",
+        "\"one might consider that...\"",
+        "\"this raises important questions about...\"",
+        "\"while acknowledging the validity of opposing viewpoints...\"",
+        "\"the implications of this extend beyond...\"",
+        "\"I would respectfully challenge that assertion\""
+      ]
+    },
+    {
+      "topic": "Register exercises and workplace role-plays",
+      "communicative_function": "reformulating, adapting register, diplomatically disagreeing",
+      "initiated_by": "teacher",
+      "transcript_range": "26:46 - 48:10",
+      "vocabulary_active": [
+        {
+          "term": "monetization",
+          "context": "\"through the monetization of user data\"",
+          "level": "C1"
+        },
+        {
+          "term": "remediation",
+          "context": "\"short-term costs of remediation\"",
+          "level": "C1"
+        },
+        {
+          "term": "due diligence",
+          "context": "\"demonstrate due diligence to the board\"",
+          "level": "C1 (business)"
+        },
+        {
+          "term": "longitudinal research",
+          "context": "\"without further longitudinal research\"",
+          "level": "C1 (academic)"
+        }
+      ],
+      "vocabulary_passive": [],
+      "chunks": [
+        "\"I want to assure you that...\"",
+        "\"I would be happy to schedule a call\"",
+        "\"I appreciate the work you've done\"",
+        "\"would you have time to review these points together\"",
+        "\"thus far proven inadequate\"",
+        "\"of paramount significance\""
+      ]
+    }
+  ]
+}

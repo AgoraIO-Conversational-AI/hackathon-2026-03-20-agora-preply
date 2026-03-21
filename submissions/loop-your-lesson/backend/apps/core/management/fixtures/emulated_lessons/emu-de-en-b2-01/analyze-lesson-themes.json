@@ -1,0 +1,402 @@
+{
+  "skill_name": "analyze-lesson-themes",
+  "lesson_id": "emu-de-en-b2-01",
+  "student_id": "student-katrin",
+  "reasoning": "Applied CEFR B2-C1 vocabulary descriptors to identify active vs. passive vocabulary and communicative functions. The lesson followed a clear pedagogical arc: content-driven discussion (climate change) used as a vehicle for pragmatic skill development (hedging, register awareness, polite disagreement). The teacher deliberately let the student's passion for the topic drive extended turns before layering in explicit language instruction. Themes were identified by tracking topic shifts, communicative function changes, and teacher-initiated pedagogical pivots.",
+  "lesson_arc": "The lesson progressed through three phases: (1) warm-up and rapport through personal updates (academic work, weekend plans, food culture), (2) extended content discussion about climate change using a documentary as springboard, and (3) explicit focus on pragmatic skills - hedging, register, and polite disagreement - with practice exercises applying these tools back to the climate change content. The teacher used Katrin's academic interests and strong opinions as natural material for language work, making the pragmatic instruction feel relevant rather than artificial. The final phase returned to cross-cultural comparison (German vs. British attitudes) as a consolidation activity.",
+  "themes": [
+    {
+      "topic": "Academic life and writing challenges",
+      "communicative_function": "narrating, explaining",
+      "initiated_by": "teacher",
+      "transcript_range": "00:00 - 00:55",
+      "vocabulary_active": [
+        {
+          "term": "literature review",
+          "context": "\"submit a literature review for my research module\"",
+          "level": "B2"
+        },
+        {
+          "term": "synthesize",
+          "context": "\"synthesize the findings into a coherent argument\"",
+          "level": "C1"
+        },
+        {
+          "term": "sustainable urban planning",
+          "context": "\"about sustainable urban planning in European cities\"",
+          "level": "B2"
+        },
+        {
+          "term": "subclauses",
+          "context": "\"very long sentences with many subclauses\"",
+          "level": "C1"
+        },
+        {
+          "term": "passive constructions",
+          "context": "\"I use too many passive constructions\"",
+          "level": "B2"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "short and punchy",
+          "context": "Teacher: \"Short and punchy works well in English\"",
+          "level": "B2"
+        }
+      ],
+      "chunks": [
+        "\"time-consuming\"",
+        "\"coherent argument\"",
+        "\"I am used to\"",
+        "\"reads like a translated text\""
+      ]
+    },
+    {
+      "topic": "Daily life and cross-cultural comparison",
+      "communicative_function": "describing, comparing",
+      "initiated_by": "teacher",
+      "transcript_range": "01:02 - 01:50",
+      "vocabulary_active": [
+        {
+          "term": "flatmate",
+          "context": "\"my flatmate told me\"",
+          "level": "B1"
+        },
+        {
+          "term": "eating out",
+          "context": "\"much cheaper than eating out in London\"",
+          "level": "B2"
+        },
+        {
+          "term": "wrapped in plastic",
+          "context": "\"the vegetables are often wrapped in plastic\"",
+          "level": "B2"
+        }
+      ],
+      "vocabulary_passive": [],
+      "chunks": [
+        "\"compared to\"",
+        "\"I must say\"",
+        "\"I did not mean to be rude\""
+      ]
+    },
+    {
+      "topic": "Climate change documentary and planetary boundaries",
+      "communicative_function": "reporting, evaluating, arguing",
+      "initiated_by": "teacher",
+      "transcript_range": "01:57 - 05:03",
+      "vocabulary_active": [
+        {
+          "term": "planetary boundaries",
+          "context": "\"the data about the planetary boundaries\"",
+          "level": "C1"
+        },
+        {
+          "term": "feedback loops",
+          "context": "\"many such feedback loops\"",
+          "level": "C1"
+        },
+        {
+          "term": "tipping points",
+          "context": "\"worried about tipping points\"",
+          "level": "C1"
+        },
+        {
+          "term": "self-reinforcing process",
+          "context": "\"a self-reinforcing process\"",
+          "level": "C1"
+        },
+        {
+          "term": "carbon footprint",
+          "context": "\"the concept of a personal carbon footprint\"",
+          "level": "B2"
+        },
+        {
+          "term": "disproportionate",
+          "context": "\"this is completely disproportionate\"",
+          "level": "C1"
+        },
+        {
+          "term": "biodiversity loss",
+          "context": "\"talked about biodiversity loss\"",
+          "level": "B2"
+        },
+        {
+          "term": "ocean acidification",
+          "context": "\"ocean acidification\"",
+          "level": "C1"
+        },
+        {
+          "term": "per capita emissions",
+          "context": "\"much lower per capita emissions\"",
+          "level": "C1"
+        },
+        {
+          "term": "coral bleaching",
+          "context": "\"the coral bleaching, the acidification\"",
+          "level": "C1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "vicious circle / vicious cycle",
+          "context": "Teacher provided for \"Teufelskreis\"",
+          "level": "B2"
+        },
+        {
+          "term": "albedo effect",
+          "context": "Teacher named the concept",
+          "level": "C1"
+        },
+        {
+          "term": "doom and gloom",
+          "context": "Teacher: \"mainly doom and gloom?\"",
+          "level": "B2"
+        },
+        {
+          "term": "single-use plastic",
+          "context": "Teacher provided for \"Einwegplastik\"",
+          "level": "B2"
+        }
+      ],
+      "chunks": [
+        "\"shift blame from X to Y\"",
+        "\"necessary but not sufficient\"",
+        "\"the gap between rhetoric and reality\"",
+        "\"in the name of environmental protection\""
+      ]
+    },
+    {
+      "topic": "Systemic vs. individual change debate",
+      "communicative_function": "arguing, persuading, conceding",
+      "initiated_by": "teacher",
+      "transcript_range": "05:03 - 13:24",
+      "vocabulary_active": [
+        {
+          "term": "enforceable regulation",
+          "context": "\"strong, enforceable regulation\"",
+          "level": "C1"
+        },
+        {
+          "term": "non-compliance",
+          "context": "\"real penalties for non-compliance\"",
+          "level": "C1"
+        },
+        {
+          "term": "carbon taxes",
+          "context": "\"carbon taxes that reflect the true cost\"",
+          "level": "B2"
+        },
+        {
+          "term": "degrowth",
+          "context": "\"the concept of degrowth\"",
+          "level": "C1"
+        },
+        {
+          "term": "rebound effect",
+          "context": "\"the rebound effect or the Jevons paradox\"",
+          "level": "C1"
+        },
+        {
+          "term": "decoupling",
+          "context": "\"absolute decoupling has never happened\"",
+          "level": "C1"
+        },
+        {
+          "term": "complementary",
+          "context": "\"individual action should be complementary\"",
+          "level": "B2"
+        },
+        {
+          "term": "privilege",
+          "context": "\"individual action is also a question of privilege\"",
+          "level": "B2"
+        },
+        {
+          "term": "climate justice",
+          "context": "\"it is a justice issue\"",
+          "level": "B2"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "consistent / rigorous",
+          "context": "Teacher provided for \"konsequent\"",
+          "level": "B2"
+        },
+        {
+          "term": "systematic",
+          "context": "Teacher confirmed the cognate",
+          "level": "B2"
+        },
+        {
+          "term": "disproportionate",
+          "context": "Teacher provided at [04:35]",
+          "level": "C1"
+        }
+      ],
+      "chunks": [
+        "\"in retrospect\"",
+        "\"not legally binding\"",
+        "\"on track for\"",
+        "\"a question of inequality and historical responsibility\"",
+        "\"to some degree\""
+      ]
+    },
+    {
+      "topic": "Hedging and academic pragmatics",
+      "communicative_function": "learning, practicing, metalinguistic reflection",
+      "initiated_by": "teacher",
+      "transcript_range": "18:06 - 27:47",
+      "vocabulary_active": [
+        {
+          "term": "hedging",
+          "context": "\"I understand the logic of hedging\"",
+          "level": "C1"
+        },
+        {
+          "term": "steelmanning",
+          "context": "\"like the opposite of a strawman\"",
+          "level": "C1"
+        },
+        {
+          "term": "face-work",
+          "context": "\"they are doing face-work\"",
+          "level": "C1"
+        },
+        {
+          "term": "code-switching",
+          "context": "\"like code-switching\"",
+          "level": "C1"
+        },
+        {
+          "term": "contested concept",
+          "context": "\"this remains a contested concept\"",
+          "level": "C1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "face-work",
+          "context": "Teacher introduced the pragmatics term",
+          "level": "C1"
+        },
+        {
+          "term": "steelmanning",
+          "context": "Teacher introduced the argumentation term",
+          "level": "C1"
+        }
+      ],
+      "chunks": [
+        "\"it could be argued that\"",
+        "\"evidence tends to suggest\"",
+        "\"to some extent\"",
+        "\"I would question that assumption\"",
+        "\"there is a case to be made\"",
+        "\"I see what you mean, but\"",
+        "\"fair point, though\"",
+        "\"the thing is\"",
+        "\"mind you\"",
+        "\"then again\"",
+        "\"that said\"",
+        "\"I reckon\""
+      ]
+    },
+    {
+      "topic": "Register and informal English",
+      "communicative_function": "practicing, metalinguistic reflection",
+      "initiated_by": "teacher",
+      "transcript_range": "29:03 - 34:44",
+      "vocabulary_active": [
+        {
+          "term": "moral licensing",
+          "context": "Student recognized concept, teacher named it",
+          "level": "C1"
+        },
+        {
+          "term": "astute",
+          "context": "Learned from teacher's compliment",
+          "level": "C1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "reckon",
+          "context": "Teacher explained as informal \"think\"",
+          "level": "B2"
+        },
+        {
+          "term": "astute",
+          "context": "Teacher used as compliment",
+          "level": "C1"
+        }
+      ],
+      "chunks": [
+        "\"I get where you are coming from\"",
+        "\"the thing is\"",
+        "\"I reckon\"",
+        "\"pretty good actually\"",
+        "\"kind of a massive oversight\"",
+        "\"if you ask me\"",
+        "\"come on\""
+      ]
+    },
+    {
+      "topic": "Cross-cultural sustainability attitudes",
+      "communicative_function": "comparing, analyzing, self-qualifying",
+      "initiated_by": "teacher",
+      "transcript_range": "40:07 - 48:41",
+      "vocabulary_active": [
+        {
+          "term": "Energiewende",
+          "context": "Student explained the German policy term",
+          "level": "C1"
+        },
+        {
+          "term": "Waldsterben",
+          "context": "Student explained the cultural concept",
+          "level": "C1"
+        },
+        {
+          "term": "Nachhaltigkeit",
+          "context": "Student explained etymology",
+          "level": "C1"
+        },
+        {
+          "term": "feed-in tariff",
+          "context": "\"the feed-in tariff system\"",
+          "level": "C1"
+        },
+        {
+          "term": "bridge technology",
+          "context": "Student used the metaphor",
+          "level": "C1"
+        },
+        {
+          "term": "preservationist",
+          "context": "Picked up from teacher, applied naturally",
+          "level": "C1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "forest dieback",
+          "context": "Teacher's English equivalent for Waldsterben",
+          "level": "C1"
+        },
+        {
+          "term": "preservationist",
+          "context": "Teacher introduced the concept",
+          "level": "C1"
+        }
+      ],
+      "chunks": [
+        "\"deeply embedded in the culture\"",
+        "\"social pressure to do it correctly\"",
+        "\"I have to concede\"",
+        "\"maybe I should not generalize too much\"",
+        "\"then again\""
+      ]
+    }
+  ]
+}

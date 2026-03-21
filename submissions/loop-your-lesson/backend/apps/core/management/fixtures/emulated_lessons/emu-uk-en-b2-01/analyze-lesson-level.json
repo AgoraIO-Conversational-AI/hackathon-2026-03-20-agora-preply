@@ -1,0 +1,44 @@
+{
+  "skill_name": "analyze-lesson-level",
+  "lesson_id": "emu-uk-en-b2-01",
+  "student_id": "student-andrii",
+  "level": "B2+",
+  "confidence": "high",
+  "reasoning": "Assessed against CEFR conversational descriptors across five dimensions. Andrii operates solidly at B2 with clear C1 features in range and interaction. The article system and preposition collocations are the primary accuracy constraints keeping him from consistent C1 performance. When given preparation time or when self-monitoring is engaged (formal debate, prepared speeches), he produces C1-level output. In spontaneous casual speech, accuracy drops to B2 due to L1 transfer (articles, prepositions, conditionals). This variability between monitored and unmonitored speech is characteristic of B2+ learners at the B2/C1 boundary.",
+  "dimensions": {
+    "range": "C1",
+    "accuracy": "B2",
+    "fluency": "B2+",
+    "interaction": "C1",
+    "coherence": "B2+"
+  },
+  "strengths": [
+    "Vocabulary range",
+    "Argumentation and interaction",
+    "Register flexibility",
+    "Metalinguistic awareness"
+  ],
+  "gaps": [
+    "Articles with abstract nouns (Accuracy) [exercise_focus: true]",
+    "Preposition collocations (Accuracy) [exercise_focus: true]",
+    "Conditional structures (Accuracy) [exercise_focus: true]",
+    "Accuracy under emotional engagement (Fluency/Accuracy) [exercise_focus: false]",
+    "Collocation accuracy (Range) [exercise_focus: true]"
+  ],
+  "suggestions": [
+    "Article drills with abstract nouns - gap-fill exercises alternating zero/the/a contexts. Use the student's own sentences from this lesson as material.",
+    "Preposition collocation flashcards - \"depend on\", \"interested in\", \"result in\", \"consist of\". Test weekly.",
+    "Conditional practice - real-world scenarios requiring first and second conditional in natural speech. Avoid metalinguistic discussion (he already knows the rules); focus on automatization.",
+    "Continue formal register and debate work - this is where Andrii's C1 potential is most visible. Interview preparation next week is ideal.",
+    "Collocation journal - have Andrii note collocations from his Economist reading.",
+    "Daily focus rotation: Monday articles, Tuesday prepositions, Wednesday conditionals. One focus per day during English communication at work.",
+    "Read The Economist with language focus - highlight article usage with abstract nouns. Note zero-article vs \"the\" patterns.",
+    "Use hedging phrases in Wednesday sprint review. Try \"I would respectfully suggest\" or \"it could be argued\".",
+    "Write formal paragraph on AI regulation (homework). Focus on articles. Read aloud before sending.",
+    "Listen to BBC \"Thinking Allowed\" podcast for academic register exposure."
+  ],
+  "zpd": {
+    "lower": "B2",
+    "upper": "C1"
+  }
+}

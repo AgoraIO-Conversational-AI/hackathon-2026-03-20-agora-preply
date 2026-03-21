@@ -1,0 +1,47 @@
+{
+  "skill_name": "analyze-lesson-level",
+  "lesson_id": "emu-de-en-a1-01",
+  "student_id": "student-lukas",
+  "level": "A1+",
+  "confidence": "high",
+  "reasoning": "Applied CEFR conversation descriptors across five dimensions (range, accuracy, fluency, interaction, coherence) to the full 55-minute transcript. Evidence was collected from student utterances across all lesson phases: warm-up, controlled practice, map exercise, role-plays, and review. The student demonstrates solid A1 competence with clear signs of emerging A2 in interaction and coherence. The plus (+) designation reflects performance that consistently meets A1 criteria and occasionally reaches A2, particularly in structured tasks. Accuracy is the weakest dimension due to systematic L1 transfer errors (V2 word order, 3rd person -s), which anchor the overall assessment at A1 rather than A2.",
+  "dimensions": {
+    "range": "A1+",
+    "accuracy": "A1",
+    "fluency": "A1+",
+    "interaction": "A2-",
+    "coherence": "A2-"
+  },
+  "strengths": [
+    "Vocabulary acquisition speed",
+    "Metalinguistic awareness",
+    "Self-correction ability",
+    "Pragmatic competence",
+    "Task completion"
+  ],
+  "gaps": [
+    "V2 word order transfer (accuracy) [exercise_focus: true]",
+    "3rd person singular -s (accuracy) [exercise_focus: true]",
+    "Past tense with time expressions (accuracy) [exercise_focus: true]",
+    "Preposition collocations for transport (accuracy) [exercise_focus: true]",
+    "W/V pronunciation (pronunciation) [exercise_focus: false]",
+    "become/get false friend (vocabulary) [exercise_focus: true]",
+    "Modal verb frame (accuracy) [exercise_focus: false]"
+  ],
+  "suggestions": [
+    "Focus next 2-3 lessons on SVO word order with fronted adverbials. Create sentence-building drills: \"Yesterday + I + past verb + object.\" Use the student's engineering mindset - present it as a formula.",
+    "Drill 3rd person -s in varied contexts. Move beyond isolated sentences to short descriptions of routines (\"My wife takes..., my colleague drives..., the bus goes...\").",
+    "Introduce simple past irregular verbs systematically. Group by pattern (take/took, go/went, drive/drove, come/came). Use the transport context as the vehicle.",
+    "Revisit by/with/on preposition rule with new contexts beyond transport (by email, by phone, by hand).",
+    "Begin introducing \"used to\" and \"usually\" for habitual past vs present contrast - this builds toward A2 narration.",
+    "Practice word order rule daily: when you start a sentence with a time word (yesterday, last week, tomorrow), always say the subject next, then the verb. Write 5 sentences each day following this pattern.",
+    "When describing someone else's routine, always check: did I add -s? He takes, she drives, it goes. Say three \"he/she/it\" sentences about your colleagues each morning.",
+    "Make flashcards for irregular past tenses learned: take/took, go/went, drive/drove, break/broke. Test yourself with time expressions: \"Last Monday I ___.\"",
+    "Remember: \"by\" for transport (by bus, by car), \"with\" for people (with my friend), \"on\" for foot (on foot). Write this rule on a sticky note at your desk.",
+    "Practice the W sound daily with the 10 words: where, what, when, why, want, walk, work, water, weather, wait. Round your lips before saying each word."
+  ],
+  "zpd": {
+    "lower": "A1",
+    "upper": "A2"
+  }
+}

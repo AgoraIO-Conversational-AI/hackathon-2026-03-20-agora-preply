@@ -1,0 +1,383 @@
+{
+  "skill_name": "analyze-lesson-errors",
+  "lesson_id": "emu-es-en-b2-01",
+  "student_id": "student-pablo",
+  "reasoning": "Applied the error taxonomy (grammar, vocabulary, pragmatic) with severity calibrated against CEFR B2 descriptors. At B2, articles/basic prepositions should be acquired; errors in these areas are moderate-to-major. False friends and null subject omission are expected L1 transfer patterns for Spanish-English (Swan & Smith 2001, Odlin 1989) but at B2 they should be decreasing. Used interlanguage theory to identify fossilized L1 transfer patterns - particularly null subjects (pro-drop), prepositional calques from Spanish \"de\", and false cognates. Severity is raised for errors that are recurring and expected to be acquired at B2.",
+  "talk_ratio": {
+    "student_pct": 50,
+    "teacher_pct": 50
+  },
+  "errors": [
+    {
+      "type": "grammar",
+      "subtype": "verb_tense",
+      "severity": "minor",
+      "original": "We had to make a meeting with the regional directors",
+      "corrected": "We had to hold a meeting with the regional directors",
+      "explanation": "Collocation error rather than pure tense error - \"make a meeting\" is a calque from Spanish \"hacer una reunion\". The verb tense itself is correct.",
+      "timestamp": "01:10",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Spanish \"hacer una reunion\" directly translated as \"make a meeting\"; English uses \"hold/have a meeting\"",
+      "correction_strategy": "elicitation [18:43]",
+      "exercise_priority": 4,
+      "error_index": 1
+    },
+    {
+      "type": "vocabulary",
+      "subtype": "false_friend",
+      "severity": "major",
+      "original": "I had to assist to many meetings",
+      "corrected": "I had to attend many meetings",
+      "explanation": "Classic Spanish-English false friend: \"asistir\" = attend, not assist.",
+      "timestamp": "01:24",
+      "communicative_impact": "high",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- \"asistir a una reunion\" (Spanish) = attend a meeting; \"assist\" (English) = help/aid",
+      "correction_strategy": "recast [01:31]",
+      "exercise_priority": 5,
+      "error_index": 2
+    },
+    {
+      "type": "vocabulary",
+      "subtype": "false_friend",
+      "severity": "minor",
+      "original": "It went quite well actually",
+      "corrected": "It went quite well, in fact",
+      "explanation": "Student initially used \"actually\" in the Spanish sense of \"actualmente\" (currently), then self-corrected to \"in fact\".",
+      "timestamp": "02:16",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- \"actualmente\" (Spanish) = currently; \"actually\" (English) = in fact/really",
+      "correction_strategy": "self_correction",
+      "exercise_priority": 2,
+      "error_index": 3
+    },
+    {
+      "type": "grammar",
+      "subtype": "null_subject",
+      "severity": "major",
+      "original": "many people think is not enough flexibility",
+      "corrected": "many people think it is not enough flexibility",
+      "explanation": "Missing expletive subject \"it\" in embedded clause.",
+      "timestamp": "03:08",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Spanish is a pro-drop language; \"piensan que no es suficiente\" omits the subject naturally",
+      "correction_strategy": "explicit [03:16]",
+      "exercise_priority": 5,
+      "error_index": 4
+    },
+    {
+      "type": "grammar",
+      "subtype": "l1_structure_transfer",
+      "severity": "major",
+      "original": "I am agree with the hybrid model",
+      "corrected": "I agree with the hybrid model",
+      "explanation": "Insertion of copula \"am\" from Spanish structure \"estoy de acuerdo\".",
+      "timestamp": "04:05",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- \"estoy de acuerdo\" literally = \"I am in agreement\"; student adds \"am\" before \"agree\"",
+      "correction_strategy": "explicit [04:11]",
+      "exercise_priority": 4,
+      "error_index": 5
+    },
+    {
+      "type": "grammar",
+      "subtype": "preposition",
+      "severity": "moderate",
+      "original": "It depends of the day",
+      "corrected": "It depends on the day",
+      "explanation": "Prepositional calque from Spanish \"depender de\".",
+      "timestamp": "05:09",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- \"depender de\" (Spanish) uses \"de\" which students map to \"of\"; English requires \"on\"",
+      "correction_strategy": "explicit [05:16]",
+      "exercise_priority": 4,
+      "error_index": 6
+    },
+    {
+      "type": "grammar",
+      "subtype": "progressive_aspect",
+      "severity": "moderate",
+      "original": "the meeting is being very productive",
+      "corrected": "the meeting is very productive\" or \"meetings are very productive",
+      "explanation": "Overuse of progressive aspect with stative meaning. The context describes a general pattern, not an action in progress.",
+      "timestamp": "06:32",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "partial - Spanish \"esta siendo\" (progressive of ser/estar) is sometimes used similarly, but this is also a developmental error",
+      "correction_strategy": "none",
+      "exercise_priority": 3,
+      "error_index": 7
+    },
+    {
+      "type": "grammar",
+      "subtype": "null_subject",
+      "severity": "major",
+      "original": "I think is a mix of both",
+      "corrected": "I think it is a mix of both",
+      "explanation": "Repeated null subject omission in embedded clause.",
+      "timestamp": "07:44",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- pro-drop transfer",
+      "correction_strategy": "explicit [07:52]",
+      "exercise_priority": 5,
+      "error_index": 8
+    },
+    {
+      "type": "pragmatic",
+      "subtype": "discourse_marker",
+      "severity": "minor",
+      "original": "On the other hand, the data analysts... On the other hand, the managers...",
+      "corrected": "On the other hand, the data analysts... At the same time / Meanwhile, the managers...",
+      "explanation": "Overuse of \"on the other hand\" for non-contrastive additions.",
+      "timestamp": "09:23",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "partial - Spanish \"por otro lado\" is used more broadly",
+      "correction_strategy": "explicit [09:32]",
+      "exercise_priority": 2,
+      "error_index": 9
+    },
+    {
+      "type": "grammar",
+      "subtype": "progressive_aspect",
+      "severity": "moderate",
+      "original": "The meeting yesterday about this topic was being very long",
+      "corrected": "The meeting yesterday about this topic was very long",
+      "explanation": "Progressive aspect misuse with stative predicate \"be long\".",
+      "timestamp": "09:09",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "partial - \"estaba siendo muy largo\" is possible in Spanish",
+      "correction_strategy": "none",
+      "exercise_priority": 3,
+      "error_index": 10
+    },
+    {
+      "type": "vocabulary",
+      "subtype": "false_friend",
+      "severity": "major",
+      "original": "the results were very sensible to how you measure them",
+      "corrected": "the results were very sensitive to how you measure them",
+      "explanation": "False friend: \"sensible\" (Spanish) = sensitive; \"sensible\" (English) = reasonable/practical.",
+      "timestamp": "10:07",
+      "communicative_impact": "high",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- \"sensible\" (Spanish) = sensitive; \"sensato\" (Spanish) = sensible (English)",
+      "correction_strategy": "explicit [10:15]",
+      "exercise_priority": 5,
+      "error_index": 11
+    },
+    {
+      "type": "grammar",
+      "subtype": "preposition",
+      "severity": "moderate",
+      "original": "I was discussing about this topic",
+      "corrected": "I was discussing this topic",
+      "explanation": "Redundant preposition after transitive verb \"discuss\".",
+      "timestamp": "16:25",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- \"discutir sobre un tema\" (Spanish) requires the preposition; English \"discuss\" takes a direct object",
+      "correction_strategy": "explicit [16:34]",
+      "exercise_priority": 3,
+      "error_index": 12
+    },
+    {
+      "type": "vocabulary",
+      "subtype": "false_friend",
+      "severity": "major",
+      "original": "My boss is very comprehensive about my English mistakes",
+      "corrected": "My boss is very understanding about my English mistakes",
+      "explanation": "False friend: \"comprensivo\" (Spanish) = understanding; \"comprehensive\" (English) = thorough/complete.",
+      "timestamp": "22:48",
+      "communicative_impact": "high",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- \"comprensivo\" (Spanish) = understanding/tolerant; \"comprehensive\" (English) = complete/all-encompassing",
+      "correction_strategy": "explicit [22:56]",
+      "exercise_priority": 5,
+      "error_index": 13
+    },
+    {
+      "type": "grammar",
+      "subtype": "preposition",
+      "severity": "moderate",
+      "original": "I'm very interested on",
+      "corrected": "I'm very interested in",
+      "explanation": "Preposition error, self-corrected.",
+      "timestamp": "24:10",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- \"interesado en\" (Spanish) maps to \"interested in\" but student initially chose \"on\"",
+      "correction_strategy": "self_correction",
+      "exercise_priority": 2,
+      "error_index": 14
+    },
+    {
+      "type": "vocabulary",
+      "subtype": "collocation",
+      "severity": "moderate",
+      "original": "We need to make research on this",
+      "corrected": "We need to do research on this",
+      "explanation": "Collocation error: \"do research\" not \"make research\".",
+      "timestamp": "24:52",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- \"hacer investigacion\" (Spanish) = make research; English uses \"do\" or \"conduct\"",
+      "correction_strategy": "explicit [25:01]",
+      "exercise_priority": 4,
+      "error_index": 15
+    },
+    {
+      "type": "grammar",
+      "subtype": "conditional",
+      "severity": "moderate",
+      "original": "If I would work from home...",
+      "corrected": "If I could choose...\" / \"If I worked from home...",
+      "explanation": "Use of \"would\" in the if-clause of a second conditional. English requires past simple after \"if\".",
+      "timestamp": "12:55",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- Spanish uses conditional in both clauses: \"Si yo trabajaria\" is colloquially heard (though also incorrect in standard Spanish)",
+      "correction_strategy": "self_correction [12:55] then explicit [13:03]",
+      "exercise_priority": 4,
+      "error_index": 16
+    },
+    {
+      "type": "grammar",
+      "subtype": "null_subject",
+      "severity": "major",
+      "original": "I think is terrible",
+      "corrected": "I think it is terrible",
+      "explanation": "Repeated null subject omission - third instance of this pattern.",
+      "timestamp": "14:59",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- pro-drop",
+      "correction_strategy": "explicit [15:06]",
+      "exercise_priority": 5,
+      "error_index": 17
+    },
+    {
+      "type": "grammar",
+      "subtype": "null_subject",
+      "severity": "major",
+      "original": "I think is worth considering\" / \"the problem is that is very difficult",
+      "corrected": "I think it is worth considering\" / \"the problem is that it is very difficult",
+      "explanation": "Two null subject omissions in one turn - fourth and fifth instances.",
+      "timestamp": "31:22",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- pro-drop",
+      "correction_strategy": "explicit [31:30]",
+      "exercise_priority": 5,
+      "error_index": 18
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "minor",
+      "original": "it depend on many factors",
+      "corrected": "it depends on many factors",
+      "explanation": "Missing third-person singular -s.",
+      "timestamp": "14:04",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "partial - Spanish verb conjugation is richer, so the -s marker may seem redundant",
+      "correction_strategy": "self_correction",
+      "exercise_priority": 2,
+      "error_index": 19
+    },
+    {
+      "type": "grammar",
+      "subtype": "preposition",
+      "severity": "moderate",
+      "original": "dependent of technology",
+      "corrected": "dependent on technology",
+      "explanation": "Same prepositional calque pattern as #6 - \"de\" mapped to \"of\".",
+      "timestamp": "44:46",
+      "communicative_impact": "low",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "- \"dependiente de\" (Spanish) -> \"dependent of\" instead of \"dependent on\"",
+      "correction_strategy": "explicit [44:55]",
+      "exercise_priority": 4,
+      "error_index": 20
+    }
+  ],
+  "error_patterns": [
+    {
+      "pattern": "null_subject (pro-drop)",
+      "error_ids": [
+        4,
+        8,
+        17,
+        18
+      ]
+    },
+    {
+      "pattern": "false_friends",
+      "error_ids": [
+        2,
+        11,
+        13,
+        3
+      ]
+    },
+    {
+      "pattern": "preposition_transfer (de->of/about)",
+      "error_ids": [
+        6,
+        12,
+        14,
+        20
+      ]
+    },
+    {
+      "pattern": "collocation_calque (hacer/dar)",
+      "error_ids": [
+        1,
+        15
+      ]
+    },
+    {
+      "pattern": "conditional_structure",
+      "error_ids": [
+        16
+      ]
+    },
+    {
+      "pattern": "progressive_overuse",
+      "error_ids": [
+        7,
+        10
+      ]
+    },
+    {
+      "pattern": "l1_structure_transfer (am agree)",
+      "error_ids": [
+        5
+      ]
+    },
+    {
+      "pattern": "discourse_marker_overuse",
+      "error_ids": [
+        9
+      ]
+    },
+    {
+      "pattern": "subject_verb_agreement",
+      "error_ids": [
+        19
+      ]
+    }
+  ],
+  "summary": {
+    "total_errors": 20,
+    "estimated_level": "B2"
+  }
+}

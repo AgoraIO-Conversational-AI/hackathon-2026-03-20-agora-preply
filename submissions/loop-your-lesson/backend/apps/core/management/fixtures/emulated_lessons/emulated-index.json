@@ -1,0 +1,90 @@
+{
+  "description": "Emulated English lesson transcripts for skill testing",
+  "created": "2026-03-21",
+  "transcripts": [
+    {
+      "lesson_id": "emu-uk-en-a1-01",
+      "l1": "Ukrainian",
+      "l2": "English",
+      "level": "A1",
+      "theme": "Shopping and food",
+      "teacher": "Sarah",
+      "student": "Oksana",
+      "duration_minutes": 55,
+      "utterance_count": 402,
+      "key_error_patterns": ["article_omission", "l1_insertions", "present_tense_only", "plural_errors", "subject_verb_agreement"]
+    },
+    {
+      "lesson_id": "emu-es-en-a1-01",
+      "l1": "Spanish",
+      "l2": "English",
+      "level": "A1",
+      "theme": "My family and home",
+      "teacher": "Miguel",
+      "student": "Carmen",
+      "duration_minutes": 55,
+      "utterance_count": 365,
+      "key_error_patterns": ["null_subject", "adjective_position", "false_friends", "ser_estar_calque", "verb_conjugation"]
+    },
+    {
+      "lesson_id": "emu-de-en-a1-01",
+      "l1": "German",
+      "l2": "English",
+      "level": "A1",
+      "theme": "Getting around the city",
+      "teacher": "James",
+      "student": "Lukas",
+      "duration_minutes": 55,
+      "utterance_count": 443,
+      "key_error_patterns": ["v2_word_order", "modal_verb_final", "false_friends", "w_v_pronunciation", "preposition_transfer"]
+    },
+    {
+      "lesson_id": "emu-uk-en-b2-01",
+      "l1": "Ukrainian",
+      "l2": "English",
+      "level": "B2",
+      "theme": "Technology and privacy",
+      "teacher": "Rachel",
+      "student": "Andrii",
+      "duration_minutes": 60,
+      "utterance_count": 402,
+      "key_error_patterns": ["article_overuse_abstract", "fossilized_article_omission", "preposition_errors", "conditional_mixing", "collocation_errors"]
+    },
+    {
+      "lesson_id": "emu-es-en-b2-01",
+      "l1": "Spanish",
+      "l2": "English",
+      "level": "B2",
+      "theme": "Future of work and AI",
+      "teacher": "Rachel",
+      "student": "Pablo",
+      "duration_minutes": 60,
+      "utterance_count": 526,
+      "key_error_patterns": ["false_friends", "null_subject", "preposition_transfer", "ser_estar_calque", "collocation_errors"]
+    },
+    {
+      "lesson_id": "emu-de-en-b2-01",
+      "l1": "German",
+      "l2": "English",
+      "level": "B2",
+      "theme": "Climate change and responsibility",
+      "teacher": "James",
+      "student": "Katrin",
+      "duration_minutes": 60,
+      "utterance_count": 478,
+      "key_error_patterns": ["v2_word_order_subordinate", "false_friends", "pragmatic_directness", "compound_calques", "relative_clause_errors"]
+    },
+    {
+      "lesson_id": "emu-uk-en-a1-02",
+      "l1": "Ukrainian",
+      "l2": "English",
+      "level": "A1",
+      "theme": "Daily routine and time",
+      "teacher": "Sarah",
+      "student": "Dmytro",
+      "duration_minutes": 55,
+      "utterance_count": 359,
+      "key_error_patterns": ["article_omission", "third_person_s_omission", "verb_tense", "l1_insertions", "aspect_confusion"]
+    }
+  ]
+}

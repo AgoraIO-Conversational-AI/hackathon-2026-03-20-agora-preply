@@ -1,0 +1,46 @@
+{
+  "skill_name": "analyze-lesson-level",
+  "lesson_id": "emu-es-en-b2-01",
+  "student_id": "student-pablo",
+  "level": "B2",
+  "confidence": "high",
+  "reasoning": "Applied CEFR companion volume (2020) conversation descriptors across five dimensions: range, accuracy, fluency, interaction, coherence. Pablo demonstrates solid B2 competence with C1 flashes in range and interaction, but fossilized L1 transfer errors in accuracy (null subjects, false friends, prepositional calques) prevent classification as B2+ or C1. The error profile is characteristic of an upper B2 Spanish-English speaker: strong communicative competence undermined by persistent structural transfer. Assessment confidence is high due to the 60-minute sample covering multiple communicative functions (narrating, arguing, negotiating, formal writing) across professional and personal topics.",
+  "dimensions": {
+    "range": "B2+",
+    "accuracy": "B2-",
+    "fluency": "B2",
+    "interaction": "B2+/C1",
+    "coherence": "B2"
+  },
+  "strengths": [
+    "Argumentative fluency",
+    "Business vocabulary breadth",
+    "Self-monitoring development",
+    "Hedging and academic register",
+    "Formal writing"
+  ],
+  "gaps": [
+    "Null subject omission (Accuracy) [exercise_focus: true]",
+    "False friends (Range) [exercise_focus: true]",
+    "Prepositional calques from Spanish \"de\" (Accuracy) [exercise_focus: true]",
+    "Collocation accuracy (Range) [exercise_focus: true]",
+    "Progressive aspect overuse (Accuracy) [exercise_focus: false]",
+    "Conditional structure in if-clauses (Accuracy) [exercise_focus: true]"
+  ],
+  "suggestions": [
+    "Design targeted practice for null subject insertion in embedded clauses. Use gap-fill exercises with \"I think ___ is\", \"The problem is that ___ is\" structures. This is the highest-priority fossilized error.",
+    "Create a false friends flashcard set for the 4 pairs identified (assist/attend, sensible/sensitive, comprehensive/understanding, actually/currently). Review at start of each lesson.",
+    "Collocation drills using make/do/give/take/hold/attend with business nouns. Use matching and categorization exercises.",
+    "Preposition focus: create sentences requiring \"depend on\", \"interested in\", \"consist of\", \"independent of\", \"discuss [direct object]\". Drill until automatic.",
+    "Continue debate-format activities - they generate rich output and surface errors under communicative pressure. Introduce more hedging and academic register.",
+    "Start the false friends journal as discussed. Add a sentence pair for each: \"comprensivo = understanding, comprehensive = complete\".",
+    "Before sending work emails, check for: missing \"it\" subjects, false friends (actually/currently, assist/attend), and collocations (make/do/give).",
+    "Record the 3-minute AI argument as homework. Listen back and count null subject omissions.",
+    "Read one Economist article daily. Underline collocations - especially make/do/give/take patterns.",
+    "Switch Freakonomics podcast to English version for commute listening."
+  ],
+  "zpd": {
+    "lower": "B2",
+    "upper": "C1"
+  }
+}

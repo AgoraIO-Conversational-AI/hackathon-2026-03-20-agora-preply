@@ -1,0 +1,183 @@
+{
+  "skill_name": "generate-classtime-questions",
+  "lesson_id": "emu-de-en-a1-01",
+  "student_id": "student-lukas",
+  "reasoning": "Applied error taxonomy to 14 errors identified in the lesson analysis. Selected 7 errors with exercise_priority >= 3 for question generation. Used ZPD calibration from level assessment (A1 lower bound, A2 upper bound): 2 questions at zpd_lower (confidence building with recognition tasks), 3 at zpd_target (boundary practice mixing recognition and production), 2 at zpd_stretch (production tasks requiring active recall). Error patterns targeted: V2 word order transfer (sorter + gap), 3rd person -s omission (gap choices + choice), past tense with time expressions (gap blank), preposition transfer by/with (gap choices + categorizer), false friend become/get (choice). Distractors use the student's actual errors, German L1 transfer forms, and developmental errors common at A1.",
+  "session_title": "Practice: Transport & Directions - Lukas (2026-03-20)",
+  "feedback_mode": "practice",
+  "questions": [
+    {
+      "source_ref": {
+        "error_index": 3,
+        "error_type": "grammar",
+        "subtype": "subject_verb_agreement",
+        "original": "She take the underground.",
+        "corrected": "She takes the underground.",
+        "severity": "major",
+        "pattern_ref": "third_person_s"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_lower",
+      "payload": {
+        "title": "Third person singular: choose the correct verb form",
+        "template_text": "My wife {0} the underground to work every morning.",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "takes", "is_correct": true},
+              {"content": "take", "is_correct": false},
+              {"content": "taking", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "Third person singular (he, she, it) in present simple adds -s: she takes, he drives, it goes.",
+        "content": "In the lesson you said: 'She take the underground.'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 2,
+        "error_type": "grammar",
+        "subtype": "preposition",
+        "original": "I go with the car.",
+        "corrected": "I go by car.",
+        "severity": "major",
+        "pattern_ref": "preposition_transport"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_lower",
+      "payload": {
+        "title": "Transport prepositions: choose the correct word",
+        "template_text": "How do you get to work? - I go {0} bus.",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "by", "is_correct": true},
+              {"content": "with", "is_correct": false},
+              {"content": "on", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "Use 'by' for transport: by bus, by car, by train. Use 'with' for people: with my friend. The exception is 'on foot'.",
+        "content": "In the lesson you said: 'I go with the car.' The correct form is 'I go by car.'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 5,
+        "error_type": "grammar",
+        "subtype": "verb_tense",
+        "original": "Last Monday I take the train.",
+        "corrected": "Last Monday I took the train.",
+        "severity": "major",
+        "pattern_ref": "past_tense_time_expression"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Past tense: irregular verb 'take'",
+        "template_text": "Last Monday I {0} the train because my car was broken.",
+        "gaps": [
+          {
+            "type": "blank",
+            "solution": "took"
+          }
+        ],
+        "explanation": "Past time expressions (last Monday, yesterday, last week) require past tense. Take -> took (irregular).",
+        "content": "In the lesson you said: 'Last Monday I take the train.' Remember: take -> took."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 6,
+        "error_type": "grammar",
+        "subtype": "word_order",
+        "original": "Yesterday drove I to work.",
+        "corrected": "Yesterday I drove to work.",
+        "severity": "major",
+        "pattern_ref": "v2_word_order"
+      },
+      "payload_type": "sorter",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Word order: put the words in the correct order",
+        "items": ["Yesterday", "I", "drove", "to work"],
+        "explanation": "In English, the subject always comes before the verb: Yesterday + I + drove + to work. Unlike German, English does not move the subject after the verb when a time word comes first."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 10,
+        "error_type": "grammar",
+        "subtype": "subject_verb_agreement",
+        "original": "The bus go every ten minutes.",
+        "corrected": "The bus goes every ten minutes.",
+        "severity": "moderate",
+        "pattern_ref": "third_person_s"
+      },
+      "payload_type": "choice",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Which sentence is correct?",
+        "choices": [
+          {"text": "The bus go every ten minutes.", "is_correct": false},
+          {"text": "The bus goes every ten minutes.", "is_correct": true},
+          {"text": "The bus going every ten minutes.", "is_correct": false}
+        ],
+        "explanation": "'The bus' is third person singular (= it), so the verb needs -s: the bus goes, the train arrives, the tram stops.",
+        "content": "In the lesson you said: 'The bus go every ten minutes.'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 12,
+        "error_type": "vocabulary",
+        "subtype": "false_friend",
+        "original": "I become nervous when I am lost.",
+        "corrected": "I get nervous when I am lost.",
+        "severity": "major",
+        "pattern_ref": "become_get_false_friend"
+      },
+      "payload_type": "choice",
+      "difficulty": "zpd_stretch",
+      "payload": {
+        "title": "Choose the correct sentence",
+        "choices": [
+          {"text": "I become nervous when I am lost in a new city.", "is_correct": false},
+          {"text": "I get nervous when I am lost in a new city.", "is_correct": true},
+          {"text": "I receive nervous when I am lost in a new city.", "is_correct": false}
+        ],
+        "explanation": "German 'bekommen' = English 'get' or 'receive'. English 'become' = German 'werden' (to change into something). For temporary states, use 'get': I get nervous, I get tired, I get hungry.",
+        "content": "In the lesson you said: 'I become nervous.' Remember: become is not bekommen!"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 2,
+        "error_type": "grammar",
+        "subtype": "preposition",
+        "original": "It takes thirty minutes with the car.",
+        "corrected": "It takes thirty minutes by car.",
+        "severity": "moderate",
+        "pattern_ref": "preposition_transport"
+      },
+      "payload_type": "categorizer",
+      "difficulty": "zpd_stretch",
+      "payload": {
+        "title": "Sort: use 'by' or 'with'?",
+        "categories": ["by", "with"],
+        "items": [
+          {"text": "bus", "category_index": 0},
+          {"text": "my colleague", "category_index": 1},
+          {"text": "car", "category_index": 0},
+          {"text": "train", "category_index": 0},
+          {"text": "my friend", "category_index": 1},
+          {"text": "taxi", "category_index": 0}
+        ],
+        "explanation": "Use 'by' for transport (by bus, by car, by train, by taxi). Use 'with' for people (with my colleague, with my friend). Remember: German 'mit dem Bus' does not translate to 'with the bus'."
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+*.whl
+.Python
+.eggs/
+.venv/
+venv/
+.tox/
+.coverage
+.coverage.*
+.pytest_cache/
+htmlcov/
+*.mo
+*.pot
+
+# Node
+node_modules/
+.cache/
+.pnp/
+.vite/
+
+# Build
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Django
+*.sqlite3
+local_settings.py
+staticfiles/
+media/
+
+# uv
+backend/.venv/
+
+# Temporal
+temporal-data/
+
+# CLAUDE local
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Docker override (Postgres.app users)
+docker-compose.override.yml
+
+# Chrome extension build
+chrome_extension/dist/
+
+# Lock files
+frontend/bun.lockb
+
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/.terraform.lock.hcl
+terraform/tfplan
+
+# Backend logs
+backend/logs/

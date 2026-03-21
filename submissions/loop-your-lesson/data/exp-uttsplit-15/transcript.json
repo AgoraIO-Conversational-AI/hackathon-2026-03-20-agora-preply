@@ -1,0 +1,2772 @@
+{
+  "lesson_id": "exp-uttsplit-15",
+  "teacher_id": "",
+  "student_ids": [],
+  "subject_type": "language",
+  "subject_config": {
+    "language_pair": "uk-pl",
+    "l1": "Ukrainian",
+    "l2": "Polish"
+  },
+  "date": "2026-03-16",
+  "duration_minutes": 64,
+  "utterances": [
+    {
+      "speaker": "Vasyl",
+      "text": "Cześć,",
+      "timestamp": "00:10",
+      "confidence": 0.46
+    },
+    {
+      "speaker": "Kasia",
+      "text": "dzień dobry. Dzień dobry. Co słychać?",
+      "timestamp": "00:11",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Jestem szczęśliwy, że teraz w poniedziałek.",
+      "timestamp": "00:16",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Okej, że początek nowego tygodnia, że dzieci poszły do szkoły? Dzieci poszły do szkoły I do żłobka.",
+      "timestamp": "00:22",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Mamy nadzieję, że wszyscy będą zdrowi, bo w bloku teraz tylko 5 człowiek. O, po prostu nie jest. Obersu, bez pięcioro dzieci. Dlaczego? Bo mają jakąś wirusy RSV, jak to będzie po polsku? Nie wiem. RSV, tak. Super, RSV.",
+      "timestamp": "00:32",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Nie, źle. Tak, ale Już mamy piękne, wspaniałe fauny na tydzień. Już wiedziała. Pewnie czy nie wiedziała? Ola, mi tam coś napomknęła, także prawdopodobnie gdzieś idziecie. Planujemy do Barcelony już. Ekspert! W czwartek jedziemy z Warszawy, a w środę już planujemy jechać pociągiem do Warszawy. A to ty jakbyś mówił, bo chyba ty hackathon, o którym mówiłeś. Tak!",
+      "timestamp": "00:52",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Jak będziesz nagrywał,",
+      "timestamp": "01:21",
+      "confidence": 0.51
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "dobrze? Ty będziesz nagrywał. W sensie głos? Tak. To tylka.",
+      "timestamp": "01:24",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "O, to będzie piękny hackathon, jak zawsze. Ty jak tam Leon? Jak Leon. Dobrze, poszedł do przedszkola, ale nadal mam wątpliwości, może jutro zostanie w domu jeszcze. No",
+      "timestamp": "01:32",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "niestety nie",
+      "timestamp": "01:46",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "idzie nam tak dobrze jak myślałem z wyzdrowieniem, plus ja poległam. Wykropłaś, a ty jak się czujesz? Może być lepiej, ale generalnie jest ok. Gwargat się nie trzyma. Jasne, crazy.",
+      "timestamp": "01:48",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Kasia",
+      "text": "A opowiedz mi o tym hackathonie. Na czym mam powiedzieć? Co to jest?",
+      "timestamp": "02:02",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Jest Barcelona, piękne miasto I jest możliwość po prostu zobaczyć co to za miasto. Ja myślę o super możemy",
+      "timestamp": "02:06",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "Kasia",
+      "text": "pojednaty połączyć",
+      "timestamp": "02:17",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Kasia",
+      "text": "czegoś dla rodziny razem z czymś switchowym dla mnie. Ja nie wiem czy coś wymyśliliśmy czy nie.",
+      "timestamp": "02:21",
+      "confidence": 0.74
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Heckethone",
+      "timestamp": "02:30",
+      "confidence": 0.42
+    },
+    {
+      "speaker": "Kasia",
+      "text": "pierwsze słowo to musimy",
+      "timestamp": "02:32",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "użyć",
+      "timestamp": "02:37",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Kasia",
+      "text": "to AI next-gen AI. Temat",
+      "timestamp": "02:39",
+      "confidence": 0.6
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Preplay. Nie wiem czy Ty słuchałaś o tym serwisie czy nie. Czy słyszałam? Nie, nie słyszałam.",
+      "timestamp": "02:43",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Priplay jest",
+      "timestamp": "02:52",
+      "confidence": 0.65
+    },
+    {
+      "speaker": "Kasia",
+      "text": "firmą",
+      "timestamp": "02:55",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Kasia",
+      "text": "z Ukraińcami.",
+      "timestamp": "02:57",
+      "confidence": 0.48
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Okej,",
+      "timestamp": "03:03",
+      "confidence": 0.33
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "początkująca co w naszej środy? To",
+      "timestamp": "03:04",
+      "confidence": 0.52
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "ona założona?",
+      "timestamp": "03:08",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Założona. Założona przez Ukraińców. Tam w zespole naprawdę jest dużo Ukraińców. Ma już 3 czy 4 biura w różnych krajach. Jest Parsewona 1 kraj z tych. Czy Hiszpanie? Hiszpanie, krajach, miastach. Jest Parsewona, jest Londyn, jest Kijów, myślę że w Stanach też może być. A już ma,",
+      "timestamp": "03:11",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Kasia",
+      "text": "ocenia się więcej o tym miliarda dolarów. Spora",
+      "timestamp": "03:38",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Kasia",
+      "text": "firma. Spora firma. A czym oni się zajmują? Oni łączą nauczyciele z klientem.",
+      "timestamp": "03:43",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Kasia",
+      "text": "I tam jest różne nauczyciele. Najpierw w branży jest nauczenie języka I często ci nauczyciele, którzy szukają",
+      "timestamp": "03:52",
+      "confidence": 0.76
+    },
+    {
+      "speaker": "Kasia",
+      "text": "studentów,",
+      "timestamp": "04:04",
+      "confidence": 0.27
+    },
+    {
+      "speaker": "Kasia",
+      "text": "rejestrują",
+      "timestamp": "04:08",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "Kasia",
+      "text": "się tam nagrywają jaki jest piękny marketing wideo o tym jaki oni piękni nauczyciele",
+      "timestamp": "04:12",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "Kasia",
+      "text": "włączają sobie tam ceną za zajęcie no I dalej już studenci też",
+      "timestamp": "04:20",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Kasia",
+      "text": "rejestrują się I szukają sobie tych nauczycieli I wtedy już jest mecz zaczynają się",
+      "timestamp": "04:26",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Kasia",
+      "text": "się",
+      "timestamp": "04:35",
+      "confidence": 0.62
+    },
+    {
+      "speaker": "Kasia",
+      "text": "1 jednego I dalej już uczą się. Ok, poznają się ze sobą? Poznają się ze sobą.",
+      "timestamp": "04:37",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Kasia",
+      "text": "I celu tego hackathonu",
+      "timestamp": "04:46",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "Kasia",
+      "text": "jest wprowadzenie, EI do tego żeby zrobić to nauczenie",
+      "timestamp": "04:49",
+      "confidence": 0.66
+    },
+    {
+      "speaker": "Kasia",
+      "text": "bardziej korzystne dla każdego. Dla nauczycieli, dla ucznia",
+      "timestamp": "04:56",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "Kasia",
+      "text": "no I po prostu dla firmy też, bo oni już chcą mieć duże pieniądze z tego. A ten, zastosowanie tego AI podczas zajęć będzie polegało na czym? No to zależy na te pomysły.",
+      "timestamp": "05:02",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Kasia",
+      "text": "To nie pokażę. Jest 3,",
+      "timestamp": "05:17",
+      "confidence": 0.53
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "są 3 kierunki.",
+      "timestamp": "05:23",
+      "confidence": 0.76
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Jest kierunek, który będzie już pomagał bezpośrednio?",
+      "timestamp": "05:33",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Bezpośrednio? Bezpośrednio",
+      "timestamp": "05:38",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Kasia",
+      "text": "podczas zajęcia I który będą pomagali między zajęciami. I mój pomysł więcej o tym co będzie między zajęciami, a nie to co będzie podczas zajęć. Bardzo doceniam,",
+      "timestamp": "05:40",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Kasia",
+      "text": "że my mamy offline zajęcia I nie chcę żeby moim nauczycielem był jakiś AI awatarek. Ale to będzie 1 rzecz. A ty myślisz, tak będzie, żeby właśnie, no bo bardzo dużo teraz jest nawet tak sobie przeglądam tutaj",
+      "timestamp": "05:53",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Kasia",
+      "text": "sylwetki tych No zobacz, to każdy nauczyciel już muszę A też wizytówki. Tak, ukrywa tej wizytówki, już pisze o cenę na te zajęcia I niestety nauczyciel nie będzie wszystko to otrzymywał.",
+      "timestamp": "06:08",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Tak, ale no I zobacz, jest już 56",
+      "timestamp": "06:23",
+      "confidence": 0.68
+    },
+    {
+      "speaker": "Kasia",
+      "text": "lekcji. On 4000 e lekcje już prowadzono pani Karolino.",
+      "timestamp": "06:27",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "No I świetnie. Ale niestety nie wszystko te nauczyciele mają. To to co ty mówisz? W sensie, że oni płacą jakiś odsetek na tej platformie za to, że mogą tam szukać.",
+      "timestamp": "06:35",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "To mi się wydaje że jest takie naturalne.",
+      "timestamp": "06:49",
+      "confidence": 0.72
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Naprawdę oni mają tam dużo tych studentów I na wszelki. 3 napięci, 3",
+      "timestamp": "06:52",
+      "confidence": 0.67
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Wizualizacja,",
+      "timestamp": "07:01",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Kasia",
+      "text": "progress,",
+      "timestamp": "07:03",
+      "confidence": 0.65
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "wizualizacja postępu nauki. Tak.",
+      "timestamp": "07:06",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Akceleracja",
+      "timestamp": "07:11",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Kasia",
+      "text": "nauki razem z agentami I średnim, żeby wykorzystanie tego",
+      "timestamp": "07:15",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "AI przez w czasie rzeczywistym.",
+      "timestamp": "07:22",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Takie myślę, że tam będą projekty, które będą po prostu po wyjściu",
+      "timestamp": "07:26",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Kasia",
+      "text": "całkowicie",
+      "timestamp": "07:33",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Kasia",
+      "text": "zamieniać nauczyciele, ale mnie to nie podoba. Ale to może też będzie np.",
+      "timestamp": "07:35",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Praktyka np. My mamy teraz zajęcie I to dalej, na czym polega mój pomysł? Ja nie zdradzę nikomu, gdyby coś mówić śmiało. Poufne informacje. Bardzo ja już tylko będę otwartym jak on będzie korzystny nie tylko przez tego hackathona I preplay, ale dla wszystkich I naprawdę nagrywam po prostu dlatego żeby dalej",
+      "timestamp": "07:42",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Kasia",
+      "text": "promizować to nasze zajęcie. Jasne. Każdy",
+      "timestamp": "08:07",
+      "confidence": 0.59
+    },
+    {
+      "speaker": "Kasia",
+      "text": "nauczyciel ma swój",
+      "timestamp": "08:12",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Kasia",
+      "text": "proces nauczania, ale ja bym może prognozować",
+      "timestamp": "08:16",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Kasia",
+      "text": "moje błędy, twoje kierunki I polecanie",
+      "timestamp": "08:20",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Kasia",
+      "text": "zorganizować jakąś informację dla mnie I dla ciebie. Dla ciebie to może być Takie podsumowanie, nie? No na początku. Coś takiego robiłeś? Tak, Jak ty zamiestował? Zamiast? Zamiast tego, żeby uczyć się, ja już czegoś robiłem jak zawsze.",
+      "timestamp": "08:25",
+      "confidence": 0.76
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Ale to jest jakby podobnie, to jest kontynuacja",
+      "timestamp": "08:44",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Kasia",
+      "text": "tego pomysłu, że mamy już nagrywanie I nie muszę to zauważyć od pre-pay, bo kiedy już poczytasz co tam nauczyciele piszą o tym pre-pay, on nie jest bardzo szczęśliwy. Nie są? Nie.",
+      "timestamp": "08:49",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Bo pierwsze zajęcie jest bezpłatne. I kiedy na przykład nauczyciel ma 8 zajęć, 6 zajęć jest nowych I tylko 2 już będą kontynuować na drugie zajęcie, no to 6 godzin poszło w plecy. Ok, plecy, jeśli sobie umówić bez Maćki, bez przekleństw. Ja",
+      "timestamp": "09:04",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "myślę, że to nie jest troche. Ja myślę, że my nie musimy jej tam dalej jeszcze dłużej jeszcze Ale ja na przykład też prowadzę zawsze wszystkim pierwszą lekcję bezpłatnie. Nie znam nauczyciela, który tak nie robi. Jedyne co, no to faktycznie może tam ta stawka, którą mają godzinową, ja jestem ciekawa jaki procent pobiera. Ja nie wiem, bo ja czytałem, że może być 30 procent.",
+      "timestamp": "09:23",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Całkiem okej.",
+      "timestamp": "09:49",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "W sensie wiesz, ja sobie analizuję na podstawie tego co wiem o innych pracach jak na przykład moja mama jest fryzjerką, tak? I ona dostaje,",
+      "timestamp": "09:52",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "jak tam wyrabia minimum miesięczne, to dostaje od każdego klienta poza minimum 30 procent dodatkowych, ale 30 procent, 70 procent zabiera sobie pracodawca, biorąc pod uwagę reklamę, narzędzia I inne rzeczy. To jest całkiem nawet ok. Nie wiem kiedy ja, ok 119 złotych może nie tak złe jak brzmi, ale kiedy już ludzie tam na przykład mają 50.30 procent z tych rodzin. Albo 45. No",
+      "timestamp": "10:02",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Kasia",
+      "text": "ok, tylko zaczyna. Kiedy już będzie miała więcej tych uczniów I lekcji to myślę, będę podejmowała sobie te ceny.",
+      "timestamp": "10:35",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Tak ja rozumiem. To jest marketplace. Ja myślę,",
+      "timestamp": "10:46",
+      "confidence": 0.76
+    },
+    {
+      "speaker": "Kasia",
+      "text": "że oni mają oparcie na to jest możliwości",
+      "timestamp": "10:50",
+      "confidence": 0.69
+    },
+    {
+      "speaker": "Kasia",
+      "text": "być nie tylko marketplacem, a być",
+      "timestamp": "10:56",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Kasia",
+      "text": "dalej ten występs of use, że kiedy ty już rozmawiasz z",
+      "timestamp": "11:00",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Kasia",
+      "text": "uczniami I mówisz im, że ok idziemy do innej platformy np. Do Whatsapp. Tak, żeby nie płacić tych 30 procent, no to niestety będziesz zablokowana. A oni nagrywają I analizują to, co ty mówisz? Ja nie wiem. Toczą Mam pewno.",
+      "timestamp": "11:07",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Teraz oni nie nagrywają, bo to już możesz zgłoszenie dać. Tak. Może będą nagrywali I dlatego tam idę na ten hackathon, żeby niby zgłoszenie już wszystko było nagrywane, ale ja myślę, że",
+      "timestamp": "11:29",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Kasia",
+      "text": "tego nagrywania nie muszę być superwizji typu nachleb prowadzenie",
+      "timestamp": "11:44",
+      "confidence": 0.62
+    },
+    {
+      "speaker": "Kasia",
+      "text": "kontroli chyba tak nie prowadzenie kontroli a robić super moc dla nauczycieli I dla ucznia Czyli żeby to było jakby w Engleen's situation, tak? Czyli każdy jest na wygranej pozycji. Tak, na przykład dla nauczyciela ty już masz 8 zajęć następnego dnia I od rana już otrzymujesz brief o tym jakie zajęcia masz, jakie uczniowie robili oni jakieś domowe zajęcia, mam rezultaty,",
+      "timestamp": "11:52",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Kasia",
+      "text": "wyniki, jakie błędy robili I możliwość nabić",
+      "timestamp": "12:23",
+      "confidence": 0.64
+    },
+    {
+      "speaker": "Kasia",
+      "text": "polecanie o tym co możecie sprawdzić retro tam przez poprzednie zdanie czy przez retrospekcje",
+      "timestamp": "12:29",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "Kasia",
+      "text": "przez retrospekcje na poprzednie. No I to może zrobić ja jeżeli ty OK widzisz 8 zajęć ten człowiek nie robiłem",
+      "timestamp": "12:37",
+      "confidence": 0.67
+    },
+    {
+      "speaker": "Kasia",
+      "text": "nic w domu, a inni chrzest np. Mają swoje zdanie I ty już możesz jak chcesz lub masz czas zobaczyć jakie zdanie już były zrobione I jakie błędy były dopuszczone. Zostały popełnione, no tak. No",
+      "timestamp": "12:45",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Kasia",
+      "text": "I dla ucznia, że między zajęciami tak. Czasem nauczyciel daje różne zajęcia zdanie, ale to zawsze teraz idę na przykład modny I je zdrukujesz super. Może być Telegram, być jakiś screen, może czegoś innego. Ja myślę, że to może być trochę",
+      "timestamp": "13:01",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "Kasia",
+      "text": "szybsze I jakieś niż bardziej",
+      "timestamp": "13:20",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Kasia",
+      "text": "jakościowe, integrowane.",
+      "timestamp": "13:24",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Prepure lub po prostu inny serwis, bo nie wiem czy to będzie",
+      "timestamp": "13:27",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Kasia",
+      "text": "na pewno założyć do platformy I.",
+      "timestamp": "13:32",
+      "confidence": 0.51
+    },
+    {
+      "speaker": "Kasia",
+      "text": "No I tam będą jakieś tam formative assessment, zdanie gdzie człowiek może tam few in the geb lub inne",
+      "timestamp": "13:37",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "Kasia",
+      "text": "różne pytania już uzupełnij. Uzupełnili się. Tak, okej. No I to wszystko będą analizowane na",
+      "timestamp": "13:46",
+      "confidence": 0.68
+    },
+    {
+      "speaker": "Kasia",
+      "text": "nagrywania naszego zajęcia a dalej będzie kolejka zajęć no I tam już będziesz widziała progres jest na przykład Olian który już zobaczysz że już idę do B2 jest na przykład Łasek który jest na B1 I czasem nie tam tam nie powiedziałabym że jesteś na B1 ale A2, dobrze przepraszam",
+      "timestamp": "13:55",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "tak w soclarstwie znowu czegoś czegoś czegoś coś powtarzalność do poprzednia coś to to jest coś co trata tata kontynuacja prawda o życiu a podnosić cenę podejmować decyzje bo nie jest to było różnicy tak",
+      "timestamp": "14:19",
+      "confidence": 0.65
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "piniatyp wyborów za chorągszość to zarzuty podnosić",
+      "timestamp": "14:36",
+      "confidence": 0.58
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Podejmować, co jak brat jest, ty podejmować decyzje, podejmować wyzwanie. Na przykład jedziesz na ten hackathon, ty podjąłeś wyzwanie. Podejmować możesz pracę w jakimś zespole nowym, czy coś takiego. No I Jacy, znaczy",
+      "timestamp": "14:40",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "znajomenek, tylko nietypowa wniosku, no.",
+      "timestamp": "14:58",
+      "confidence": 0.53
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Jacy są nauczyciele, jacy są uczniowie I a jak się okaże nas to może ja go dość to nie jacy a jakie?",
+      "timestamp": "15:02",
+      "confidence": 0.69
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Bo jest niecem nas w frontu przed choinką, to one jakie błędy popełniają.",
+      "timestamp": "15:11",
+      "confidence": 0.52
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "No I błędy można popełnić.",
+      "timestamp": "15:17",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Lepiej to brzmi niż zrobić popełnić błędy. Nikt nie lubi popełniać błędów",
+      "timestamp": "15:21",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "fajnie że można to przeanalizować.",
+      "timestamp": "15:29",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Ja wracając do tematu o którym rozmawialiśmy o tych opiniach negatywnych",
+      "timestamp": "15:32",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "chciałam cię zapytać czy ty coś pamiętasz? O tych opiniach? Nie czy ty pamiętasz słowa które tu były? Nie pamiętam nie pamiętam możemy teraz to zrobić przepraszam bardzo",
+      "timestamp": "15:39",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Zapytam cię, cię, nie wiem czy chcę żebyś robił zadania",
+      "timestamp": "15:52",
+      "confidence": 0.76
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "tutaj, nie.",
+      "timestamp": "15:58",
+      "confidence": 0.58
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Dobra, to zróbmy tak. Na koniec zajęć wrócimy do tych słów. Natomiast teraz ja bym chciała z tobą zacząć coś innego. Mamy",
+      "timestamp": "16:01",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "przed nami tekst, który jest wypełniony błędami. Ale to nie będą błędy takie typowe.",
+      "timestamp": "16:13",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "To będą błędy połączenia między słowami albo jakaś będzie kajka na język ukraiński. I twoim zadaniem na początku jest jak najwięcej tych błędów tutaj wyszukać. Na przykład czytasz I słyszysz, że coś ci nie brzmi tak jak powinno. Zaznaczasz to sobie. Dobranoc. Spróbujemy.",
+      "timestamp": "16:20",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Ostatnio pokolciłem",
+      "timestamp": "16:40",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "Kasia",
+      "text": "się ze swoim najlepszym kupnem za głupotę.",
+      "timestamp": "16:44",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Chodzi o to, że on czekał mnie na przystanku przeszło 40 minut. Przeszło mi nie podobało. Ale jest to słowo poprawne.",
+      "timestamp": "16:51",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "A 2 pyta mi chodzi o tym Czy ten jest mój żart? Czy to będę brał alkoholika?",
+      "timestamp": "17:04",
+      "confidence": 0.55
+    },
+    {
+      "speaker": "Kasia",
+      "text": "My se czytamy? Tak Nieeee Może wyrobiliśmy to? Ja pamiętam że tam jest Michał tak który już wziął taki przepraszam",
+      "timestamp": "17:11",
+      "confidence": 0.71
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "ja mam inny temat ale ja niestety byłem pewna że nie robiliśmy tego nie my możemy zrobić to raz jeszcze Możemy. Zobaczcie Piotrze w tym. Ale",
+      "timestamp": "17:23",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Kasia",
+      "text": "my naprawdę to robiliśmy? Michał to był było dziwne,",
+      "timestamp": "17:34",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "Kasia",
+      "text": "że",
+      "timestamp": "17:40",
+      "confidence": 0.99
+    },
+    {
+      "speaker": "Kasia",
+      "text": "taka historia była o książce dla studentów",
+      "timestamp": "17:43",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Kasia",
+      "text": "I myślę że umiem że to ciocię taka czyta a nie to książka dla dorosłych a nie dla dzieci nie to trzeba mieć to dla dorosłych że to jest normalne w Polsce że ludzie piją wódkę przed tym jak idź do przyjaciela",
+      "timestamp": "17:47",
+      "confidence": 0.71
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "kurka no dobra no to nie jest pisz pisz pisz? Nie my idziemy dalej",
+      "timestamp": "18:04",
+      "confidence": 0.6
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "zobaczysz zapisy w ED jak trewa to cyperkast no tak widzę zaraz w tym kochane w cietnikach",
+      "timestamp": "18:11",
+      "confidence": 0.44
+    },
+    {
+      "speaker": "Kasia",
+      "text": "ja dla siebie nic nie będzie zobacz możesz sobie wyobrazić że dany temperplay już masz zajęcia I wszystko nagrywanie Mhmm. To jest teraz?",
+      "timestamp": "18:22",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Ja wiem. Może, może nie.",
+      "timestamp": "18:34",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "To tym bardziej, jeśli czytaliśmy to już, to na pewno powinieneś zauważyć błędy",
+      "timestamp": "18:40",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "za głupotę, widzisz tam chodzi jeśli o co chodzi o co poszło to I kłócić się też można o coś o głupotę o głupotę I",
+      "timestamp": "18:49",
+      "confidence": 0.74
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "tutaj powinno chodzi o",
+      "timestamp": "19:02",
+      "confidence": 0.63
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "o to super,",
+      "timestamp": "19:07",
+      "confidence": 0.64
+    },
+    {
+      "speaker": "Kasia",
+      "text": "no to dawaj spróbujemy bo już nie wiem czy dam rady",
+      "timestamp": "19:11",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Kasia",
+      "text": "dobrze, konkurs o głupocie chodzi o to że A Ola już dała radę z wszystkim tak szybko czy nie? To ona już to robiła 2 miesiące temu czy czy ona już wiedziała że to był geneza AO",
+      "timestamp": "19:15",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "Kasia",
+      "text": "chodzi o to, że on czekał mnie na przystanku przeszło 40 minut skąd mogłem wiedzieć, że mam już wyjść z domu skoro nie napisał ku mnie żadnych wiadomości. Czekaj, skoro skąd mogłem wiedzieć, że mam już wyjść z domu?",
+      "timestamp": "19:32",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Proszę Cię, Bucha. Z domu? Tak.",
+      "timestamp": "19:55",
+      "confidence": 0.6
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Skoro nie napisał Ku mnie. Ja nie rozumiem. Ku, ku. Żadnych wiadomości. Zrobię normalną. Ja napisałam Ciebie.",
+      "timestamp": "20:03",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Skoro napisał do mnie. No tak. A co to jest kukule?",
+      "timestamp": "20:16",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Ku, chcę też jak duo, a ręce pisze jak w rysyjskiej moje typu",
+      "timestamp": "20:22",
+      "confidence": 0.67
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "I to jest ku czci bohaterów.",
+      "timestamp": "20:29",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Taki sam przyimek. Tak.",
+      "timestamp": "20:32",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Kiedy po godzinie przeszedłem w umówione miejsce, Michał zaczął",
+      "timestamp": "20:37",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Kasia",
+      "text": "grzeczeć, że",
+      "timestamp": "20:43",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Kasia",
+      "text": "rozczarował się we mnie bo on nigdy by tak nie postąpił. Mi",
+      "timestamp": "20:46",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "Kasia",
+      "text": "wszystko brzmi normalnie. Mi też.",
+      "timestamp": "20:54",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Zupełnie nie rozumiałem o czym mu chodzi. Bo umówiliśmy się na 17. Na 17. I",
+      "timestamp": "20:57",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Kasia",
+      "text": "równo od tej godziny do niego dołączyłem.",
+      "timestamp": "21:07",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "I dalej to uzupełniłem o",
+      "timestamp": "21:12",
+      "confidence": 0.45
+    },
+    {
+      "speaker": "Kasia",
+      "text": "co mówi bo umówiliśmy",
+      "timestamp": "21:15",
+      "confidence": 0.57
+    },
+    {
+      "speaker": "Kasia",
+      "text": "się na 17",
+      "timestamp": "21:23",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Kasia",
+      "text": "a Iron o tej godzinie do niego dołączyłem cieszyłem",
+      "timestamp": "21:25",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Kasia",
+      "text": "się temu spotkaniu ponieważ chciałem go opowiedzieć o tym co stało się 3 dni temu.",
+      "timestamp": "21:30",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Cieszyłem się tym pytaniem, ponieważ chciałem go jemu opowiedzieć. O",
+      "timestamp": "21:39",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Kasia",
+      "text": "To.",
+      "timestamp": "21:50",
+      "confidence": 0.58
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Opowiedzieć o czym? O tym, o tym co",
+      "timestamp": "21:53",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "Kasia",
+      "text": "stało się 3 dni temu. On jednak był",
+      "timestamp": "21:59",
+      "confidence": 0.97
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "I dało się w niebogłosy. Super. Wszystko to jest ok. Rozwścieczony to znaczy wściekły, czyli taki wiesz rozdrażniony, suchy.",
+      "timestamp": "22:06",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "A daru siedzę?",
+      "timestamp": "22:19",
+      "confidence": 0.57
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Czasami",
+      "timestamp": "22:22",
+      "confidence": 0.35
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "dzieci drą się.",
+      "timestamp": "22:25",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Dauć się. Bo",
+      "timestamp": "22:28",
+      "confidence": 0.5
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "to jest nawiązanie do buzi. Bo jeśli ty krzyczysz, to ja buzia aż się niedługo podrze. Dlatego drzeć się, te kryciawe.",
+      "timestamp": "22:32",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Daruj się, krzyczał.",
+      "timestamp": "22:43",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Niebogłosy tylko dosyć holosne. Tak. Chciałem wytłumaczyć mu, że się pomylił",
+      "timestamp": "22:49",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "Kasia",
+      "text": "I to jego wina,",
+      "timestamp": "22:57",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Kasia",
+      "text": "że mnie dzwonił, ale on nie dopuszczał mnie do głosu, co więcej przeżywał, przerywał mnie cały czas. Dobra.",
+      "timestamp": "23:00",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Że się pomylił I to jego wina tak,",
+      "timestamp": "23:13",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "że",
+      "timestamp": "23:18",
+      "confidence": 0.97
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "nie zadzwonił że do mnie nie do mnie że spowił tak",
+      "timestamp": "23:20",
+      "confidence": 0.66
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Ale on nie dopuszczał mnie do głosu, co więcej",
+      "timestamp": "23:29",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "przerywał mnie cały czas. I tu jest 1, którego można nie zauważyć. Przerywać można komuś. On przerywał?",
+      "timestamp": "23:34",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Komu?",
+      "timestamp": "23:47",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Mi. On",
+      "timestamp": "23:48",
+      "confidence": 0.68
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "mi przerywał cały czas.",
+      "timestamp": "23:51",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Nie rozumiałem, dlaczego chciał się o tym spierać",
+      "timestamp": "23:54",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Kasia",
+      "text": "zamiast po prostu wyjaśnić sytuację.",
+      "timestamp": "23:59",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Zaczął mi przedrzeźniać",
+      "timestamp": "24:03",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Kasia",
+      "text": "jednym słowem zachowywał się dziwnie.",
+      "timestamp": "24:07",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Normalnie wszystko. Zaczął przedrzeźniać kogo? Mnie tak",
+      "timestamp": "24:12",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "Kasia",
+      "text": "a tam jaka jest różnica przeżywał mi przerywał mnie mnie",
+      "timestamp": "24:20",
+      "confidence": 0.53
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Zaczął mnie przetrzeźniać.",
+      "timestamp": "24:29",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Kasia",
+      "text": "W pewnym momencie",
+      "timestamp": "24:32",
+      "confidence": 0.99
+    },
+    {
+      "speaker": "Kasia",
+      "text": "podszedłem do niego nieco bliżej I poczułem zapach aukogolu.",
+      "timestamp": "24:35",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Michał był już mocno podchylony.",
+      "timestamp": "24:41",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Wydaje mi się, że właśnie dlatego zachowywał się dość agresywnie I nietypowo.",
+      "timestamp": "24:44",
+      "confidence": 0.98
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Jest wszystko OK? Zaproponowałem dla niego pod włoskie do domu, bo bałem się, że wpadnie pod samochód lub stanie go się coś złego. Wstanie z nim się jemu. Jemu. Jemu. A korekta? Z Taniemu. Tak. Taniemu się coś złego. A zszedłem z podwózku. Zaproponowałem.",
+      "timestamp": "24:55",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Jemu.",
+      "timestamp": "25:23",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Podwózki do domu. Dobrze.",
+      "timestamp": "25:25",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "W",
+      "timestamp": "25:32",
+      "confidence": 0.53
+    },
+    {
+      "speaker": "Kasia",
+      "text": "zasadzie nie czekałem jego odpowiedzi,",
+      "timestamp": "25:33",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Kasia",
+      "text": "pomogłem mu",
+      "timestamp": "25:37",
+      "confidence": 0.97
+    },
+    {
+      "speaker": "Kasia",
+      "text": "wsiąść na samochód,",
+      "timestamp": "25:40",
+      "confidence": 0.71
+    },
+    {
+      "speaker": "Kasia",
+      "text": "zapiąłem mu pasy I pojechaliśmy do jego domu",
+      "timestamp": "25:44",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "I z tym samochodem jak to jest?",
+      "timestamp": "25:54",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Pomogłem mu wsiąść do samochodu. Tak jest.",
+      "timestamp": "25:57",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Następnego dnia otrzymałem wiadomość, że przeprosina mi, a brzmiała ona tak: Dobra. Muszę się przed tobą przeprosić.",
+      "timestamp": "26:04",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Głupio wyszło. Nie chciałem ci obrazić. Po prostu rozstałem się z Marianą I musiałem jakoś odreagować chciałem ukryć od ciebie ten fakt",
+      "timestamp": "26:16",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Kasia",
+      "text": "ale chodziłem obok żabki I skusiła mnie promocja na małpki wypiłem kilka tych buteleczek I zupełnie odpłynąłem",
+      "timestamp": "26:31",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "Kasia",
+      "text": "odpłynąłem",
+      "timestamp": "26:44",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Kasia",
+      "text": "odpłynąłem nie gniełeś się do mnie nie gniełeś się na mnie tak dobra okej tam na górze jeszcze jest kilka",
+      "timestamp": "26:47",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "na widzami w berszu wróci muszę ciebie",
+      "timestamp": "26:58",
+      "confidence": 0.3
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "przeprosić Tak, aby sieszej",
+      "timestamp": "27:15",
+      "confidence": 0.58
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Muszę ciebie przeprosić",
+      "timestamp": "27:18",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Ubo łyż to nie chciałem cię prosić tut, niech u ciebie. Tak, to beee. Tak,",
+      "timestamp": "27:25",
+      "confidence": 0.51
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "I tut, ostatnio chciałem ukryć od ciebie ten fakt. I ukryć można parę tkę myślisz. Więc ukryć przed tobą. Chciałem ukryć przed tobą ten fakt.",
+      "timestamp": "27:36",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Jest.",
+      "timestamp": "27:58",
+      "confidence": 0.64
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Kurczę, przepraszam, naprawdę myślałam, że może by nie robiliśmy, ale pięknie.",
+      "timestamp": "28:00",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Wracając pamięcią do tych zajęć, kiedy robiliśmy, to odnalazłeś więcej błędów teraz niż odnalazłeś wtedy. Co już nie jest złe. Ale te połączenia, zwłaszcza ukryć przed tobą, uciekać przed tobą.",
+      "timestamp": "28:09",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Trzeba ukryć przed tobą. Tak samo zaczął mnie przedrzeźniać I przeżywać komuczemu. I jeszcze są do zapamiętania, tak? Jeszcze kilka razy będziemy musieli po nich przejechać się.",
+      "timestamp": "28:23",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "To w takim razie my zostawiamy ten temat sobie I porozmawiamy jeszcze o modzie, bo my kiedyś rozmawialiśmy o modzie. Czy pamiętasz czytaliśmy taki fajny tekst Gdzie były scenariusze jak będzie w 2000 e 25 roku wyglądała moda I co będzie znosić ciało I z tobą ocenialiśmy czy one się spełniły czy nie. Ale poza",
+      "timestamp": "28:36",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "tematem tego czy aktualny jest czy nie czasem właśnie nadchodzi",
+      "timestamp": "29:00",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "czas na zmiany garderoby.",
+      "timestamp": "29:06",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Czy ty często zmieniasz swoją garderobę?",
+      "timestamp": "29:09",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Nie tak często, nie wiem, co wierzę może często wtedy już będzie porównywać.",
+      "timestamp": "29:13",
+      "confidence": 0.65
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Porównywać? Kiedy będę porównywać ze sobą",
+      "timestamp": "29:19",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "Kasia",
+      "text": "trzecim czy czwartym czy piątej klasie to teraz ja bardzo często ogarniam już swojego garderobę wtedy była 1 koszula która bardzo się mi podobała I nosiła jej cały rok ojejku naprawdę jaka to była koszula? No już przed wrześniem poszliśmy do bazaru na targ I",
+      "timestamp": "29:25",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Kasia",
+      "text": "pamiętam czy tam było napisane adidas",
+      "timestamp": "29:50",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Kasia",
+      "text": "I no tak",
+      "timestamp": "29:53",
+      "confidence": 0.66
+    },
+    {
+      "speaker": "Kasia",
+      "text": "szary",
+      "timestamp": "29:56",
+      "confidence": 0.63
+    },
+    {
+      "speaker": "Kasia",
+      "text": "to światowy,",
+      "timestamp": "29:58",
+      "confidence": 0.34
+    },
+    {
+      "speaker": "Kasia",
+      "text": "krej I sweterneki.",
+      "timestamp": "30:00",
+      "confidence": 0.22
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Szary I jasny",
+      "timestamp": "30:04",
+      "confidence": 0.67
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "rękawy.",
+      "timestamp": "30:07",
+      "confidence": 0.71
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Było napisane Adidas.",
+      "timestamp": "30:09",
+      "confidence": 0.65
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "To nie była koszula, to była bluza. Tak, to.",
+      "timestamp": "30:12",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Kłowta Tonstock. To",
+      "timestamp": "30:18",
+      "confidence": 0.6
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "bluza adidas była noszona cały czas. Tak.",
+      "timestamp": "30:21",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "U nas w Chmielińskim też jest duży targ. Chmieliński był słynny z tego targu I tam często też można było znaleźć takie rzeczy tylko to był Abibas Timderland I podobne brandy Ja też wiem, że takie było ale pamiętam jak muszę nazwać takie coś? Podrobka?",
+      "timestamp": "30:25",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Podróbka. Wszyscy",
+      "timestamp": "30:48",
+      "confidence": 0.62
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "chyba zaliczyli chodzenie w podróbkach",
+      "timestamp": "30:52",
+      "confidence": 0.97
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Natomiast mówisz, wtedy nie zmieniałeś często, teraz zmieniasz często",
+      "timestamp": "30:55",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "czy mam",
+      "timestamp": "31:00",
+      "confidence": 0.25
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "koszulę jaka to jest koszula? W co? Ja też mam koszulę z kolejnym wzorem w kratę w kratę I tak samo jak ty mam pod spodem T-shirt ty masz jaki? Ja mam szary",
+      "timestamp": "31:05",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Nie, szary Przepraszam Piękny różowy, szary Rudny róż A ty już światło różowe Jasne róż Co jeszcze masz na sobie dzisiaj? Zegarek mam ta część ubrania Dzięki Co jeszcze? Mam spodenki Spodenki? Nie,",
+      "timestamp": "31:20",
+      "confidence": 0.71
+    },
+    {
+      "speaker": "Kasia",
+      "text": "mam szorstamen spodnie",
+      "timestamp": "31:42",
+      "confidence": 0.47
+    },
+    {
+      "speaker": "Kasia",
+      "text": "obuwie,",
+      "timestamp": "31:46",
+      "confidence": 0.92
+    },
+    {
+      "speaker": "Kasia",
+      "text": "noski, sok skarpetki",
+      "timestamp": "31:47",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Jakiego koloru masz skarpetki? Różnych kolorów Mam ciemnozielony,",
+      "timestamp": "31:54",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Kasia",
+      "text": "ale we",
+      "timestamp": "32:00",
+      "confidence": 0.61
+    },
+    {
+      "speaker": "Kasia",
+      "text": "wzór,",
+      "timestamp": "32:04",
+      "confidence": 0.54
+    },
+    {
+      "speaker": "Kasia",
+      "text": "kilce, kruchemy",
+      "timestamp": "32:06",
+      "confidence": 0.44
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Ale kruchy czy same krapeczki? Kruchy Pokaż",
+      "timestamp": "32:09",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "A no to w grochy!",
+      "timestamp": "32:15",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Grochy! Zielone skarpety w grochy A druga skarpeta różni się od tej nitki To",
+      "timestamp": "32:18",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Kasia",
+      "text": "jest komplet Okej",
+      "timestamp": "32:24",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "Kasia",
+      "text": "spodnie masz takie spodnie to czarne to sportowe jakieś? To z rezerw nie to nie jest to sportowe po prostu enti który mi bardzo się upodobał kiedy już",
+      "timestamp": "32:27",
+      "confidence": 0.69
+    },
+    {
+      "speaker": "Kasia",
+      "text": "znosił jedni to kupują takie same",
+      "timestamp": "32:43",
+      "confidence": 0.71
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Rozumiem możesz mi powiedzieć ile mam na sobie poza jakąś ludową? Widzę, że ty masz jeans dziś, tufli, baleriny,",
+      "timestamp": "32:48",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "Kasia",
+      "text": "masz remin",
+      "timestamp": "32:58",
+      "confidence": 0.38
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "to jest pasek, jaki pasek?",
+      "timestamp": "33:00",
+      "confidence": 0.61
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Światło zielone I tone zielone.",
+      "timestamp": "33:05",
+      "confidence": 0.55
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "To okej dawaj",
+      "timestamp": "33:09",
+      "confidence": 0.63
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "cienki",
+      "timestamp": "33:12",
+      "confidence": 0.34
+    },
+    {
+      "speaker": "Kasia",
+      "text": "ze skóry, skórzany",
+      "timestamp": "33:14",
+      "confidence": 0.69
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Babeliny",
+      "timestamp": "33:18",
+      "confidence": 0.53
+    },
+    {
+      "speaker": "Kasia",
+      "text": "ciemno-bordowi",
+      "timestamp": "33:20",
+      "confidence": 0.46
+    },
+    {
+      "speaker": "Kasia",
+      "text": "I też Skórzany Nie masz skarpet Nie mam skarpet Czy to nie jest zimno ciebie dziś? Czy nie zimno mi nie? Dziś bardzo zimno I niestety dzień Myślisz?",
+      "timestamp": "33:23",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Jeszcze masz preklaso naszyjnik",
+      "timestamp": "33:40",
+      "confidence": 0.67
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "pamiętasz mówiliśmy kiedyś ty się śmiałeś też naszyjnik",
+      "timestamp": "33:45",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "naszyjnik mam a ty lubisz nosić coś takiego na sobie poza zegarkiem? Czasami mężczyźni mają albo",
+      "timestamp": "33:49",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "też łańcuszki",
+      "timestamp": "33:58",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Kasia",
+      "text": "na przykład z tym z krzyżykiem Nie wiem ile mam lat, ale już mam naszyjnik taki drewniany",
+      "timestamp": "34:00",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Kasia",
+      "text": "drewniany",
+      "timestamp": "34:07",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Kasia",
+      "text": "kiedy wróciliśmy z Krymu I tam już bardzo dużo tych wszystkich prekras, no to po prostu prekrasy takie były. No I",
+      "timestamp": "34:09",
+      "confidence": 0.68
+    },
+    {
+      "speaker": "Kasia",
+      "text": "już miałem",
+      "timestamp": "34:20",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Kasia",
+      "text": "naszyjnik",
+      "timestamp": "34:23",
+      "confidence": 0.64
+    },
+    {
+      "speaker": "Kasia",
+      "text": "drewnianego z Krymu pamiętam, że nosiłem jego nie wiem może miesiąc może 2 ale tak już było okej a co ty pokazywałeś co ty masz bo ja też mam",
+      "timestamp": "34:24",
+      "confidence": 0.72
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Ring",
+      "timestamp": "34:38",
+      "confidence": 0.56
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Nas je słowo Parstein ukraiński, prawda? To pierścionek Pierścionek Ale jak szła same ośce, szyte I ja majątce obrączka obrączka tak pierścionek ty mogłeś dać Oli zaręczynowy I dopiero potem obrączka no to super czy Ola dostawała pierścionek zaręczynowy? Tak",
+      "timestamp": "34:43",
+      "confidence": 0.76
+    },
+    {
+      "speaker": "Kasia",
+      "text": "były gotowe u innych Kijowych przez",
+      "timestamp": "35:02",
+      "confidence": 0.59
+    },
+    {
+      "speaker": "Kasia",
+      "text": "ludzi no to nie było takie zamawiane w jakimś dużym sklepie a jak robić na robotę wow to jeszcze",
+      "timestamp": "35:07",
+      "confidence": 0.74
+    },
+    {
+      "speaker": "Kasia",
+      "text": "praca ręczna no tak pamiętam kiedy jeszcze był nie wiem lat może trochę więcej miałem z Reszku miałeś kolczyk? Miałem kolczyk jaki kolczyk?",
+      "timestamp": "35:16",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Prosty taki malutki",
+      "timestamp": "35:31",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "ale taki gwóźdź czy",
+      "timestamp": "35:35",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "Kasia",
+      "text": "takie kółeczko? Gwóźdź, po prostu tylko kipka",
+      "timestamp": "35:38",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "nie nie może gdzieś z małym zdjęciem ja nawet nie wyobrażam sobie ciebie z kolczykiem",
+      "timestamp": "35:44",
+      "confidence": 0.76
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Niesamowite. Chyba mi kiedyś Ola pokazywała 1 zdjęcie I nie wiem czy to z waszego ślubu cerkiewnego kościelnego czy ze ślubu",
+      "timestamp": "35:51",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "kurcze ja nie wiem jakie wy śluby mieliście nie pamiętam ale Ola była w takiej białej sukience ty byłeś w koszuli I ty miałeś bardzo śmieszną fryzurę taką dużą tutaj wysoką było coś takiego zmieniałeś swój styl od czasu do czasu? Tak miałem tylko fryzury długie włosy I nie ma dużo tego kleju dlatego żeby ono zawsze tak połączyło żeby było do góry no nie zawsze do góry ale takie",
+      "timestamp": "36:03",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Kasia",
+      "text": "długie włosy I on takie piękne już szli",
+      "timestamp": "36:32",
+      "confidence": 0.67
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "do czyli ty musiałeś jeszcze modelować je codziennie ooo to jest wymagające czy nie chcesz wrócić do czegoś takiego? Nie na razie nie chcę razie nie ja jestem szczęśliwy że jeszcze mam włosy",
+      "timestamp": "36:37",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Kasia",
+      "text": "ale",
+      "timestamp": "36:51",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Kasia",
+      "text": "nie chcę bo to dużo czasu potrzebuję teraz już mam tych dzieci które też coraz czegoś potrzebują mam swoją żonę też ma jakiejś swojej potrzeby nie wiem dlaczego tu jeszcze te włosy śniadanie zrobiłem dla dziecka już dla siebie to już zjadł pyę a Oli mówi że a dla mnie to kończy się robi to śniadanie Ola powiedziała tobie? Tak Że dla niej trzeba zawieźć śniadanie Tak, że jak tak, że ona już całą noc nie śpi mały świadek już potrzebuje jej już co minuty",
+      "timestamp": "36:52",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Kasia",
+      "text": "a ja już po prostu zjadłem to śniadanie które już przygotował dla Dawidy no nie wiem jakiego ile było tak jak z niekogą ale już tak było no na szczęście Dawid nie chciał jeść te śniadanie które jak przygotował to już go poszło do woli ale już ona musiała przygotować dla Dawida też Okej, możesz mi powiedzieć co to było, co ty przygotowałeś dla Dawida, a on musiał Twaróg,",
+      "timestamp": "37:26",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "twaróg albo ser biały Z owocami To było moje ulubione śniadanie z dzieciństwa, ale musiał tam być jogurt, musiał to być słodkie, ostrej tam były różne owoce były jabłka, był banan, jeszcze",
+      "timestamp": "37:49",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Kasia",
+      "text": "aberkosy",
+      "timestamp": "38:07",
+      "confidence": 0.66
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "ze suszynit morela susza",
+      "timestamp": "38:08",
+      "confidence": 0.56
+    },
+    {
+      "speaker": "Kasia",
+      "text": "na morela To co trzeba nazwać po prostu. I jeszcze były jeszcze jakieś takie curkie kesslenke",
+      "timestamp": "38:12",
+      "confidence": 0.51
+    },
+    {
+      "speaker": "Kasia",
+      "text": "żurawina. A, żurawina. I też suszona? Też suszona. A no to od żurawiny to dosyć słodkie jesz I jeszcze cynamon? Jest jeszcze cynamon Dziecko tak pięknie wyglądało nie wiem dlaczego on mówi, że nie chce tak często jeść tego twarogu",
+      "timestamp": "38:21",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Kasia",
+      "text": "twarogu",
+      "timestamp": "38:42",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "Kasia",
+      "text": "a ty miałeś takie samo śniadanie? Tak bo ja zawsze kiedy łączę to wszystko to mam 1 duży taras ale kiedy już daję swojemu synu to wszystko było pięknie tak wyglądało ten nowy talerze już kładzie jemu go przykładem jest bardzo precyzyjna osoba",
+      "timestamp": "38:43",
+      "confidence": 0.74
+    },
+    {
+      "speaker": "Kasia",
+      "text": "tam już tak wygląda jak",
+      "timestamp": "39:02",
+      "confidence": 0.52
+    },
+    {
+      "speaker": "Kasia",
+      "text": "w restauracji",
+      "timestamp": "39:06",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Kasia",
+      "text": "zależy z jakiej nogi będzie wstawał mój syn nie zawsze on jest I jaki będzie miał humor nie zawsze",
+      "timestamp": "39:08",
+      "confidence": 0.76
+    },
+    {
+      "speaker": "Kasia",
+      "text": "docenia co ta tato dla mnie mu robi oooo worek jeszcze raz teraz będzie kryczał",
+      "timestamp": "39:16",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Czy ty zawsze robisz sobie śniadanie sam? Bo kiedyś opowiadałeś właśnie, że ty robisz sam śniadanie bo ty wstajesz wcześniej z Dawidem a Ola ze światem troszeczkę głośniej No zaraz już świat wstaję przed Dawidem Wow! To o której? O szóstej? Teraz już zrezygnowaliśmy z tego mleka I on niestety dalej prosi jego. I o szóstej już tak często czasem o pięć:trzydzieści",
+      "timestamp": "39:23",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Kasia",
+      "text": "już śpiewa pieśni o tym że on chce mleka czyli po prostu mamy no I tak już z tego czasu mamy",
+      "timestamp": "39:53",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Kasia",
+      "text": "wczesne pobudki wczesne pobudki to jest tak dziś wstaliśmy rano Oli już przygotowała śniadanie dla świata I parę razy",
+      "timestamp": "40:05",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Kasia",
+      "text": "równocześnie? Równocześnie ja gotowałem dla Dawida włączyliśmy drzaz no I wtedy już Dawid wstał I myślałem że będzie no normalnie nastrój ale wiesz zobacz powiedziałem tobie o naszym ranku Bardzo dobrze. Ale jeszcze miałem długie włosy.",
+      "timestamp": "40:15",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Nie wiem czy ty Ty też miałeś długie włosy? Tak, ja miałem długie włosy. Ty",
+      "timestamp": "40:32",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Kasia",
+      "text": "masz zdjęcie tego. No teraz nie mam.",
+      "timestamp": "40:38",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Już miałem To to Dawid",
+      "timestamp": "40:41",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "Kasia",
+      "text": "tak jakby idzie w twoje ślady takich długich jak Dawid teraz ma nigdy nie miałem ale był taki",
+      "timestamp": "40:44",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Kasia",
+      "text": "okres życia kiedy miałem te długie włosy taka korzona kurtka",
+      "timestamp": "40:53",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Urodziny Dawida, było wspaniałe. Cieszę się. My naprawdę, czytaliśmy się Byłoby",
+      "timestamp": "41:13",
+      "confidence": 0.54
+    },
+    {
+      "speaker": "Kasia",
+      "text": "pięknie,",
+      "timestamp": "41:21",
+      "confidence": 0.42
+    },
+    {
+      "speaker": "Kasia",
+      "text": "przyszli, było tam dużo dorosłych ludzi. Dawid wyglądał bardzo szczęśliwym dzieckiem I to mi bardzo się cieszyło.",
+      "timestamp": "41:23",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Takie krótkie, widok na skacze. I to wszyscy są Wasi goście?",
+      "timestamp": "41:34",
+      "confidence": 0.62
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Tak 16 dzieci 16 dzieci wszyscy z Dawidek Kołasy no I rodzeństwo.",
+      "timestamp": "41:43",
+      "confidence": 0.71
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "A jak to jest? To się wykupuje po prostu otwarte wejście czy zgłaszasz ilość dzieci? Zgłaszamy ilość, zapisujemy.",
+      "timestamp": "41:51",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Niestety dzieci, które bardzo uwielbiają chipsy, to dzieci były No a jak?",
+      "timestamp": "42:06",
+      "confidence": 0.71
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Myślałam, że Oli uda się przemycić jakieś zdrowe przekąski. Było, ale dzieci",
+      "timestamp": "42:15",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Kasia",
+      "text": "mówią, że były najlepsze urodziny przez chipsy I cola.",
+      "timestamp": "42:22",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Zdecydowaliśmy. Ekstra. Czy",
+      "timestamp": "42:28",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "dostał wszystko co chciał Dawid? Tam też Ja myślę, dostał dużo wrażenia. Przynieśli prezenty? O super.",
+      "timestamp": "42:32",
+      "confidence": 0.74
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "I te ciastka, które ty projektowałeś, te chałyta? Tak, tak, tak.",
+      "timestamp": "42:41",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Wspaniałe on jeszcze jest, moja żona też śpiewa,",
+      "timestamp": "42:49",
+      "confidence": 0.67
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "wstała.",
+      "timestamp": "42:53",
+      "confidence": 0.54
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Świat coś konsumuje.",
+      "timestamp": "42:54",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Kasia",
+      "text": "No I było wspaniałe.",
+      "timestamp": "42:57",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Ekstra, widzę Julka. Tak, dużo dzieci. Normalne dzieci, nie wiem czy dużo, ale ja mam atmosferę I jak chcę tą emocyjną jestem zadowolony. Jesteśmy zadowoleni. Super. Dzięki. Cieszę się bardzo. My mamy prezent dla was. To jest super. Przed czwartkiem musimy gdzieś jeszcze się spotkać. Wręczyć",
+      "timestamp": "43:01",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "prezent. Ekstra! Jeszcze piesek.",
+      "timestamp": "43:26",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Naprawdę piesek taki jak kator na",
+      "timestamp": "43:31",
+      "confidence": 0.68
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "ten. Wiesz co on wygląda jak z jakiejś bajki, gdzieś ten piesek jest w bajce zwierzęta tajemnicze",
+      "timestamp": "43:34",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "zwierzę? Coś",
+      "timestamp": "43:41",
+      "confidence": 0.47
+    },
+    {
+      "speaker": "Kasia",
+      "text": "takiego, tak. Coś takiego. Dziękuję,",
+      "timestamp": "43:43",
+      "confidence": 0.62
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "coś takiego. Coś takiego.",
+      "timestamp": "43:48",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Cieszę się, było fajnie I myślałam, może w niedzielę gdzieś tam wyjdziecie, ale ja akurat padłam w niedzielę I do ciebie trafiliśmy, bo po prostu też fatalnie się czułam, także no niestety tak wypadło. Powiedz mi kiedy świat ma urodziny? 24 jako. 4. Czyli",
+      "timestamp": "43:51",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "też zupełnie bliziutko, prawdziwy dzień.",
+      "timestamp": "44:10",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Czy świat też będzie zapraszał wszystkich do manii I skakania czy do zdradysk? Na szczęście nie, ale już ma takie",
+      "timestamp": "44:14",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Kasia",
+      "text": "marzenie, I Ma",
+      "timestamp": "44:22",
+      "confidence": 0.68
+    },
+    {
+      "speaker": "Kasia",
+      "text": "taką chęć, że mamy kulki, babuny. Już urodzinowy Dawida zostawiają w domu I on mówi, że wszyscy te babuny będzie prawda żłobka wszystkie te balony zawiesza wszystkie te balony prawda żłobka a ona mówi, że tam napisano 9 nie 2 nie 3 a on mówi nic nie szkodzi już 9 mi też pasuje no bo przecież on ciągle chce być jak Dawid także wcale się nie dziwię",
+      "timestamp": "44:26",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "dobra, dzięki update jest To co? Czytamy? Co tam za zmianą garderoby? Próbujemy",
+      "timestamp": "44:55",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Czy twoja kobieta mówi, że nie ma co założyć?",
+      "timestamp": "45:08",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Nie wiecie nie ma co nie wiem to już nie rzeczy ale może być czasem ona daje sobie radę na szczęście czasem mogę tego mówić ale wtedy już denerwuje że nie ma czasu dlatego żeby po prostu",
+      "timestamp": "45:12",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Kasia",
+      "text": "pójść I wybrać sobie czegoś czasem pamiętam że",
+      "timestamp": "45:28",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Kasia",
+      "text": "kiedy już ma od czas I nic nie pasuje I wtedy ona jest taka",
+      "timestamp": "45:36",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Kasia",
+      "text": "smutna że ten czas który odnalazła przez tydzień poszedł kotuby twist na marne na marne okej Podobno wiele kobiet narzeka na brak ubrań w szafie lub wprost przeciwnie",
+      "timestamp": "45:43",
+      "confidence": 0.83
+    },
+    {
+      "speaker": "Kasia",
+      "text": "ich nadmiar",
+      "timestamp": "46:00",
+      "confidence": 0.97
+    },
+    {
+      "speaker": "Kasia",
+      "text": "jedne czekają na lepsze jutro I nie wyrzucają,",
+      "timestamp": "46:02",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Kasia",
+      "text": "przepraszam I nie wyrzucają body w",
+      "timestamp": "46:12",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Kasia",
+      "text": "rozmiarze XS. Chociaż od 5 lat chodzą w typowych L-kach. Tak jak pessaty.",
+      "timestamp": "46:17",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Inne robią remanent I pozbywają",
+      "timestamp": "46:26",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Kasia",
+      "text": "się wszystkiego, w czym już nie chcą chodzić. Nie ma jednak znaczenia liczba",
+      "timestamp": "46:33",
+      "confidence": 0.92
+    },
+    {
+      "speaker": "Kasia",
+      "text": "ścianek",
+      "timestamp": "46:43",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Kasia",
+      "text": "gdy żaden z elementów do siebie nie pasuje lub jest już znoszony I traci muszką.",
+      "timestamp": "46:45",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Trąci? I trąci muszką. Nie wiedziałem co to oznacza. Dawaj pudełeźdź. Więc elementem do siebie nie pasuje lub jest już znoszony I trąci muszką. Myszką. I tak trąci typu jak popachuje",
+      "timestamp": "46:55",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "myszką I ją to pto staresze",
+      "timestamp": "47:12",
+      "confidence": 0.49
+    },
+    {
+      "speaker": "Kasia",
+      "text": "tak właśnie",
+      "timestamp": "47:16",
+      "confidence": 0.47
+    },
+    {
+      "speaker": "Kasia",
+      "text": "było w moim przypadku dlatego postawiłam",
+      "timestamp": "47:22",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Kasia",
+      "text": "na zmiany swojej garderoby w pierwszej kolejności rozeznałam",
+      "timestamp": "47:27",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Kasia",
+      "text": "się w temacie I znalazłam marki które mnie interesują Z racji tego, że nie noszę syntetycznych włókien mój wybór był stosunkowo okrojony.",
+      "timestamp": "47:35",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Stawiam na wysoką jakość I naturalne materiały takie jak len, bawełna,",
+      "timestamp": "47:50",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Kasia",
+      "text": "bawełna,",
+      "timestamp": "47:58",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Kasia",
+      "text": "jedwab,",
+      "timestamp": "48:01",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Kasia",
+      "text": "wełna, skóra,",
+      "timestamp": "48:03",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "Kasia",
+      "text": "skóra",
+      "timestamp": "48:06",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Co za tym idzie musiałem odrzucić",
+      "timestamp": "48:12",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Kasia",
+      "text": "niezliczone",
+      "timestamp": "48:16",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Kasia",
+      "text": "rzeczy marek. Ważne",
+      "timestamp": "48:18",
+      "confidence": 0.45
+    },
+    {
+      "speaker": "Kasia",
+      "text": "jest dla mnie to aby firma miała",
+      "timestamp": "48:23",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Kasia",
+      "text": "spójną kolekcje, które",
+      "timestamp": "48:26",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "Kasia",
+      "text": "będą modne przez wiele sezonów. Inaczej mówiąc",
+      "timestamp": "48:30",
+      "confidence": 0.96
+    },
+    {
+      "speaker": "Kasia",
+      "text": "musi szyć klasyczne ubranie.",
+      "timestamp": "48:36",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Ok I teraz patrzymy sobie niezliczone rzesze marek rzesza zrzeszeniem co nas tu boją pojednania",
+      "timestamp": "48:40",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "rzesze marek cepreum bahato Ona",
+      "timestamp": "48:50",
+      "confidence": 0.72
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "stawia na wysoką jakość. Stawiać na coś, preferować coś, tak?",
+      "timestamp": "48:57",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "I chyba tyle z tych słów, które tutaj są. Możemy iść dalej?",
+      "timestamp": "49:03",
+      "confidence": 0.97
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Nie przepadam za sklepem stacjonarnym",
+      "timestamp": "49:10",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Kasia",
+      "text": "z ruchem obsługi, układaniem na siebie tych wszystkich fatalaszków",
+      "timestamp": "49:17",
+      "confidence": 0.74
+    },
+    {
+      "speaker": "Kasia",
+      "text": "przebieraniem się co 30",
+      "timestamp": "49:25",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Kasia",
+      "text": "minut I długimi godzinami spędzonymi w poszukiwaniu",
+      "timestamp": "49:30",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Kasia",
+      "text": "czegoś wyjątkowego.",
+      "timestamp": "49:35",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Wolę zakupy online, bo znam swoje wymiary. Poza tym jestem zwolenniczką",
+      "timestamp": "49:38",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Kasia",
+      "text": "różnych,",
+      "timestamp": "49:47",
+      "confidence": 0.49
+    },
+    {
+      "speaker": "Kasia",
+      "text": "luźnych ubrań.",
+      "timestamp": "49:48",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Dlatego zdaję sobie sprawę z tego, że muszę wybrać rzeczy o rozmiar większy niż",
+      "timestamp": "49:50",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Kasia",
+      "text": "sugeruje producent. Dobra,",
+      "timestamp": "50:00",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Kasia",
+      "text": "to chyba jest ok. Dosłownie kawałeczek nam został Dobrze Coś tutaj było takiego? Nie, znaczy normalnie, ale może się czuję, że już nie tak szybko czytam może już jestem zmęczony czegoś takiego, ale nie wiem Coś takiego",
+      "timestamp": "50:04",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Tak, coś takiego.",
+      "timestamp": "50:21",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Podejrzałem, że multum ludzi jest w multum ludzi jest w stanie",
+      "timestamp": "50:24",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Kasia",
+      "text": "iść ubrać, iż ubranie trzeba przymierzyć",
+      "timestamp": "50:34",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Kasia",
+      "text": "przed jego zakupem. Ja rozumiem to podejście, zupełnie nie przeszkadza",
+      "timestamp": "50:39",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "Kasia",
+      "text": "mi kupowanie w ciemno.",
+      "timestamp": "50:46",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Mimo, że nie widzę sobie w danej rzeczy jestem w stanie przewidzieć czy będę tym korzystnie wyglądać czy lepiej dać sobie spokój z takim fasonem Ok.",
+      "timestamp": "50:49",
+      "confidence": 0.88
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Poznajemy ciągle kobiecą",
+      "timestamp": "51:06",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "perspektywę w tych kupowaniach rzeczy. Ja jestem pewna, że podejście mężczyzn różni się tak czy siak do kupowania rzeczy. Jak ty masz? Czy ty w ogóle utożsamiasz się z tym, ktoś ma? Czy ty masz ubranie mniejszego rozmiaru na czas kiedy schudniesz?",
+      "timestamp": "51:10",
+      "confidence": 0.92
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Tak, ale nie wiem. Typu ja mam, mam te t-shirty który bardzo mi się podoba I który mam nadzieję już będzie przez 3 4 miesiące odziewać z NOP-anowi Ale w sensie te t-shirty one są mniejsze niż Tak, być I ty jeszcze je zachowujesz Czyli",
+      "timestamp": "51:30",
+      "confidence": 0.79
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "tutaj mamy jakieś podobieństwo Druga sprawa to te",
+      "timestamp": "51:52",
+      "confidence": 0.91
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "składy, materiały itd. Czy zwracasz uwagę? Czy tam jest taki skład czy taki czy siaki? Nie wiem, ja mniej więcej zwracam",
+      "timestamp": "51:58",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "Kasia",
+      "text": "uwagę na marki",
+      "timestamp": "52:08",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Kasia",
+      "text": "czy",
+      "timestamp": "52:12",
+      "confidence": 0.37
+    },
+    {
+      "speaker": "Kasia",
+      "text": "reserwt I to już mi wystarczy. Okej trzecia kwestia czy ty",
+      "timestamp": "52:17",
+      "confidence": 0.65
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "przepadasz ze sklepami stacjonarnymi czy wolisz zakupy online? Moja żona lubi kupować online I ona bardzo się",
+      "timestamp": "52:24",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Kasia",
+      "text": "nie denerwuje w ogóle że móc muszę czegoś zwracać. Musi coś zwracać. Ja nie wiem dlaczego tak to już muszę zapamiętać.",
+      "timestamp": "52:34",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Muszę ona już kupuje nie tylko dla siebie ale I dla dzieci I jak coś muszę zwracać tak no to po prostu to I robię czasem można czekać do ostatniego dnia kiedy może zwracać I wtedy idę I zwracać co mi",
+      "timestamp": "52:43",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Kasia",
+      "text": "pasuje. Ja myślę, często często pasują. Moje dzieci nie zawsze już",
+      "timestamp": "53:02",
+      "confidence": 0.72
+    },
+    {
+      "speaker": "Kasia",
+      "text": "zobaczą zdjęcie to super, a kiedy już",
+      "timestamp": "53:10",
+      "confidence": 0.93
+    },
+    {
+      "speaker": "Kasia",
+      "text": "przyjdę do domu to świat często nie chce nosić.",
+      "timestamp": "53:15",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "To jest fajne bo właśnie mi Ola o tym mówiła ja mówiłam że po Leonie mam kilka rzeczy w normalnym stanie tam jakieś sweterki jakieś tam spodnie mam I że zrobię jej zdjęcie ona mówi Boże to jest tak trudne bo czasem świat zupełnie nie chce nosić rzeczy jeśli to na przykład tam nie naj nie coś tam także on bardzo jest taki",
+      "timestamp": "53:21",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "wybiera w tych ubraniach jest niesamowite bo ja po prostu kupuję",
+      "timestamp": "53:47",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "daje Leonowi mówię ubieraj ją uspokoić niestety",
+      "timestamp": "53:53",
+      "confidence": 0.66
+    },
+    {
+      "speaker": "Kasia",
+      "text": "nie to jest nie wiem mamy rzecz rezerw tutaj bardzo w bielości to kiedy czegoś potrzebuję to tam zajdę na 15 minut mi to wystarczy okej to jednak stacjonarnie wolisz kupować niż online tak nieprawda dlaczego Online szybciej? No ja nie wiem czy szybciej Tak jest klik, już Ale ja nie wiem czy ono będzie mi pasowało",
+      "timestamp": "53:58",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Tak musisz zmierzyć",
+      "timestamp": "54:22",
+      "confidence": 0.59
+    },
+    {
+      "speaker": "Kasia",
+      "text": "mie więcej ważny komfort od wyglądu. Okej. No wygląd też może być. Ale ważniejsze jest czy ubranie jest wygodne. Tak. Ja możesz sobie wziąć na przykład 3, 4 pary",
+      "timestamp": "54:25",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Kasia",
+      "text": "dni I",
+      "timestamp": "54:41",
+      "confidence": 0.64
+    },
+    {
+      "speaker": "Kasia",
+      "text": "odbierze sobie jedną czy 2 wybiorę wybiorę Ok Ja",
+      "timestamp": "54:44",
+      "confidence": 0.74
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "ostatnio też wolę zakupy online mimo że stacjonarnie uwielbiam kupować ale mam wrażenie, że online jest większy wybór ciekawe może być ale też nie wiem czekanie 5 dni aż później to dojdzie a potem zwrote także zgadzam się tu z tobą z tym że za dużo się nie denerwujesz o tych zwrotach nie wiesz co już nie odrzuca ciebie jak w sklepie nie nie odrzuca się nakurwy tego chodź się znam a czyli nie denerwujesz",
+      "timestamp": "54:49",
+      "confidence": 0.74
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Nie, mnie zwroty nie denerwują. Ja czasami po prostu o nich zapominam. To jest gorsze. No. Raz tak kupiłam Leonowi 2 pary kaloszy I jeszcze byłam bardzo ambitną mamą że powinny być bear footy I tak dalej więc kalosze były po 200 złotych za parę I zostały 2 bo nie odesłałam tej drugiej nie zdążyłam w czasie I tutaj jakby to mnie nauczyło że trzeba odsyłać jak coś faktycznie jest Ja też mam bear footy Tak? No bardzo mi podoba, chodzę do selowni w pierfootach O proszę, nie ja bardziej wiesz tam że I szerokie I bear footy żeby ta stopa normalnie się rozwijała ale już nie bawię się w to I kalosze kupuję takie zwykłe bo nie chodzi w nich tak często ostatnie ostatnie kawałeczek które czytaliśmy to to to też dotyczy właśnie tego przymierzenia no I ty mówisz że ty wolisz przymierzyć także wiemy o co chodzi wiesz co, nie będziemy dalej",
+      "timestamp": "55:21",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "iść w ten tekst",
+      "timestamp": "56:23",
+      "confidence": 0.99
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "bardziej pójdziemy o to do słów dobra bo",
+      "timestamp": "56:26",
+      "confidence": 0.71
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "my wkładamy coś, zakładamy coś, ubieramy coś I ubieramy się.",
+      "timestamp": "56:30",
+      "confidence": 0.92
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Czyli teraz od Was sina, odjęte same. Wkładać można",
+      "timestamp": "56:35",
+      "confidence": 0.65
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "ubrania,",
+      "timestamp": "56:40",
+      "confidence": 0.63
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "buty, kapcie, tam, czapkę, wszystko co chcesz. Zakładać.",
+      "timestamp": "56:42",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Można psu obrożę kaganiec albo sobie tylko te takie elementy drobne. Wkładam to, to, to no I zakładam kolczyki dzieci nie",
+      "timestamp": "56:48",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Kasia",
+      "text": "czapki to muszą krzyczeć do dzieci wkładaj czapkę, super",
+      "timestamp": "57:03",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "a Ola czasami może założyć jakiś",
+      "timestamp": "57:09",
+      "confidence": 0.89
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "naszyjnik, nie? Albo może założyć okulary. Ty też czasami zakładasz okulary. Ubieramy się, przepraszam, ubieramy tylko kogoś, to ktoś co nas nie ma, cię o siam, to wdziehajmu, sadź, to wdziehajmu, no to jasno szok, kohois.",
+      "timestamp": "57:14",
+      "confidence": 0.69
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "A tak samo ubieramy się, to już w coś I co my z Sebelą. Wdziehajmu, bo to już jakoś.",
+      "timestamp": "57:33",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Mam pytania do Ciebie co do tego wykładu może ostatnie. Czy Ty masz jakieś rzeczy, których nigdy nie założysz? W sensie takim: o nie, to na pewno nie.",
+      "timestamp": "57:41",
+      "confidence": 0.87
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Tata I wannie?",
+      "timestamp": "57:52",
+      "confidence": 0.49
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Ale ja nie wiem czy to aaa że nie zrobisz tatuażu? Nie planuję na razie",
+      "timestamp": "57:54",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Kasia",
+      "text": "teraz już może więcej otwarte do tego ale lokalnie planuję a ty masz? Okej nie nie mam a chcesz? Nie no ja nie wiem może być kiedy zrobię a kiedy stniem a co dlatego jest zmienia w dół?",
+      "timestamp": "58:02",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Może",
+      "timestamp": "58:15",
+      "confidence": 0.3
+    },
+    {
+      "speaker": "Kasia",
+      "text": "zmieniać swoją",
+      "timestamp": "58:17",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "swoje zdanie. Zdanie ma to. Okej. A co do ubrań? Co do ubrań A może czegoś nie lubisz? Ty na przykład bardzo jesteś w takim stylu bardziej sportowym w sensie mój mąż na odwrót on jakoś tak bardzo jest przyzwyczajony chodzić klasycznie ubrany nie tak komfortowo",
+      "timestamp": "58:22",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Kasia",
+      "text": "czy no nie no klasyczne ubranie to piękne ubranie to też nie podoba lepszy od transwestycji przepraszam",
+      "timestamp": "58:45",
+      "confidence": 0.67
+    },
+    {
+      "speaker": "Kasia",
+      "text": "na przykład no tam nie mogę sobie wyobrazić tam robić tam makijaż lub Czyli drag queen nie będziesz? Nie będę tak no w Stanach byłem no to jest tam każdy czuje siebie dobrze ale niestety ono nie pasuje do mnie a klasyczne",
+      "timestamp": "58:54",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Kasia",
+      "text": "ubranie mi podoba się ale po prostu nie tak komfortowo okej ale ja mogę wyobrazić sobie tam jakieś piękne",
+      "timestamp": "59:13",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Kasia",
+      "text": "koszule w garnitur tak I tak no",
+      "timestamp": "59:22",
+      "confidence": 0.59
+    },
+    {
+      "speaker": "Kasia",
+      "text": "uwielbiam",
+      "timestamp": "59:27",
+      "confidence": 0.44
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "taki wygląd Czy często w ogóle pamiętasz sytuacje kiedy zakładałeś garnitur? U mężczyzn to tak dziewczyny taka suknia barowa kilka wydarzeń w życiu kiedy to robisz tak samo mężczyźni z garniturami",
+      "timestamp": "59:29",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Czy miałeś na przykład studniówkę garnitur zakładałeś? Kiedy chodziłem do liceum to codziennie chodziliśmy w garniturach Uuu, poważnie? Prawie w kostiumach hotelu? Tak To",
+      "timestamp": "59:44",
+      "confidence": 0.76
+    },
+    {
+      "speaker": "Kasia",
+      "text": "był wymóg taki? Taki wymóg, tak Od 8 do 11 klasy Od 8 do 11",
+      "timestamp": "59:57",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "Kasia",
+      "text": "ale zawsze w ciągu trzech lat",
+      "timestamp": "60:05",
+      "confidence": 0.59
+    },
+    {
+      "speaker": "Kasia",
+      "text": "to miałem",
+      "timestamp": "60:12",
+      "confidence": 0.72
+    },
+    {
+      "speaker": "Kasia",
+      "text": "może 2 garnitury może 3 nie wiem już ostatni klas pamiętam kiedy już wszyscy",
+      "timestamp": "60:14",
+      "confidence": 0.81
+    },
+    {
+      "speaker": "Kasia",
+      "text": "chłopcy",
+      "timestamp": "60:20",
+      "confidence": 0.98
+    },
+    {
+      "speaker": "Kasia",
+      "text": "kupują sobie ci garnitury na wywózk ja pamiętam że nie rozumiem dlaczego po co nie",
+      "timestamp": "60:21",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Kasia",
+      "text": "rozumiem po co potrzebują tej garnitury. No I tak. Na 1 dzień. No to ja chodziłem w swoim tym garniturze, a te pieniądze, które już rodzice dziękuję bardzo, daliśmy dołączył do",
+      "timestamp": "60:30",
+      "confidence": 0.74
+    },
+    {
+      "speaker": "Kasia",
+      "text": "swoich pieniędzy kupiliśmy bilety na Analiza. Oooo,",
+      "timestamp": "60:44",
+      "confidence": 0.72
+    },
+    {
+      "speaker": "Kasia",
+      "text": "a ten garnitur młot jak było? Okej nie ma pieniędzy",
+      "timestamp": "61:01",
+      "confidence": 0.63
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "masz policzone?",
+      "timestamp": "61:10",
+      "confidence": 0.46
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Co ja mam policzone? Za przedni miesiąc",
+      "timestamp": "61:12",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "nie, przepraszam, miną policzę nie obiecywałam ci, że ja policzę",
+      "timestamp": "61:17",
+      "confidence": 0.69
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "tak umawialiśmy się tak? No to bałeś też już miesiąc przeszedł minął już miesiąc minął",
+      "timestamp": "61:22",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "zostawię to wszystko. Nie, dalej rozliczymy się dopiero jak wrócicie, dobrze? Możemy. Nie, bo to będzie akurat koniec miesiąca. To ja zostawię tu 400 I już wtedy my policzymy po prostu tylko zostanie. Mi się wydaje, że to za dużo, ale powiedzmy że tak.",
+      "timestamp": "61:31",
+      "confidence": 0.77
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Ja to zaraz sobie zapiszę. Dobrze. Piszę się sobie podamy sam.",
+      "timestamp": "61:47",
+      "confidence": 0.67
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Znaleźć. Moja żona znalazła",
+      "timestamp": "61:54",
+      "confidence": 0.78
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "czas, a my razem? Znaleźliśmy. Znaleźliśmy.",
+      "timestamp": "61:58",
+      "confidence": 0.82
+    },
+    {
+      "speaker": "Kasia",
+      "text": "Znaleźli.",
+      "timestamp": "62:07",
+      "confidence": 0.66
+    },
+    {
+      "speaker": "Kasia",
+      "text": "SPY.",
+      "timestamp": "62:11",
+      "confidence": 0.36
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Czekoladę.",
+      "timestamp": "62:14",
+      "confidence": 0.94
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Oś tund? Pewni zupełnie. I znowu budynek Bytysa.",
+      "timestamp": "62:15",
+      "confidence": 0.68
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Zupełnie.",
+      "timestamp": "62:21",
+      "confidence": 0.63
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Tak super bo może nie zrozumiecie że ty masz na uwadze te cyclavocaros no płacicie prawie no ecabooka supportage zupełnie nie rozumiem proszę",
+      "timestamp": "62:25",
+      "confidence": 0.68
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "mi nalać kawę do pełna Dobrze",
+      "timestamp": "62:37",
+      "confidence": 0.86
+    },
+    {
+      "speaker": "Vasyl",
+      "text": "Dlaczego? Ja po prostu przelać do pełna No I w garniturze ja chodziłem w garniturze że jest ok to zróbmy tak, że właśnie wyjeżdżacie w czwartek",
+      "timestamp": "62:42",
+      "confidence": 0.73
+    },
+    {
+      "speaker": "Kasia",
+      "text": "ja nie wiem kiedy ale już przez tydzień my przyjedziemy za tydzień przyjedziemy w niedzielę późno to poniedziałek nie będzie pasowało może być wtorek tutaj nie niestety no okej a chcesz zobaczyć się w środę? Nie nie chcę przepraszam",
+      "timestamp": "62:59",
+      "confidence": 0.84
+    },
+    {
+      "speaker": "Kasia",
+      "text": "to 31 się umówimy my tak często już widzimy się przypomnijmy jestem poprawimy to ale bardzo doceniam nasze zajęcie dziękuję za cierpliwość",
+      "timestamp": "63:20",
+      "confidence": 0.74
+    }
+  ],
+  "transcription_meta": {
+    "provider": "deepgram",
+    "model": "nova-3",
+    "avg_confidence": 0.76,
+    "languages_detected": [
+      "pl"
+    ],
+    "verbatim": true
+  }
+}

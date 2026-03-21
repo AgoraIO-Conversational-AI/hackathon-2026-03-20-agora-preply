@@ -1,0 +1,212 @@
+{
+  "skill_name": "generate-classtime-questions",
+  "lesson_id": "emu-uk-en-a1-02",
+  "student_id": "student-dmytro",
+  "reasoning": "Applied error taxonomy to 24 errors from lesson analysis. Selected 7 questions targeting the 4 highest-priority error patterns: third person -s (exercise_priority 5, 3 questions), preposition for time at/on (priority 5, 1 question), article omission (priority 4, 1 question), preposition for transport by (priority 4, 1 question), and present simple vs continuous (priority 4, 1 question). ZPD calibration based on A1+ assessment: zpd_lower (2 questions, 29%) for confidence building on recognized patterns, zpd_target (3 questions, 43%) at the learning boundary, zpd_stretch (2 questions, 29%) for production challenge. Used student's actual errors as distractors and Ukrainian L1 transfer patterns for plausible alternatives. Third person -s gets heaviest coverage as it is the core lesson target and most frequent error with emerging self-correction.",
+  "session_title": "Practice: Daily routines and telling time - Dmytro (2026-03-21)",
+  "feedback_mode": "practice",
+  "questions": [
+    {
+      "source_ref": {
+        "error_index": 7,
+        "error_type": "grammar",
+        "subtype": "subject_verb_agreement",
+        "original": "My wife wake up at six because she go to school early",
+        "corrected": "My wife wakes up at six because she goes to school early",
+        "severity": "major",
+        "pattern_ref": "third_person_s"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Third person -s: daily routine verbs",
+        "template_text": "My wife {0} up at six o'clock because she {1} to school early.",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "wakes", "is_correct": true},
+              {"content": "wake", "is_correct": false},
+              {"content": "waking", "is_correct": false}
+            ]
+          },
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "goes", "is_correct": true},
+              {"content": "go", "is_correct": false},
+              {"content": "going", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "With he, she, it - add -s to the verb. 'She wakes up', 'she goes'. Verbs ending in -o add -es: go -> goes.",
+        "content": "Your original sentence: 'My wife wake up at six because she go to school early'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 5,
+        "error_type": "grammar",
+        "subtype": "preposition",
+        "original": "on seven o'clock",
+        "corrected": "at seven o'clock",
+        "severity": "major",
+        "pattern_ref": "preposition_time"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Prepositions for time: at, on, in",
+        "template_text": "I start work {0} nine o'clock {1} Monday.",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "at", "is_correct": true},
+              {"content": "on", "is_correct": false},
+              {"content": "in", "is_correct": false}
+            ]
+          },
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "on", "is_correct": true},
+              {"content": "at", "is_correct": false},
+              {"content": "in", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "Use 'at' for clock times (at nine o'clock), 'on' for days (on Monday), 'in' for months and seasons (in March, in winter).",
+        "content": "Your original sentence: 'I start work on nine o'clock'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 2,
+        "error_type": "grammar",
+        "subtype": "subject_verb_agreement",
+        "original": "client want many things",
+        "corrected": "the client wants many things",
+        "severity": "major",
+        "pattern_ref": "third_person_s"
+      },
+      "payload_type": "choice",
+      "difficulty": "zpd_lower",
+      "payload": {
+        "title": "Which sentence uses the correct verb form?",
+        "choices": [
+          {"text": "The client want many things.", "is_correct": false},
+          {"text": "The client wants many things.", "is_correct": true},
+          {"text": "The client wanting many things.", "is_correct": false}
+        ],
+        "explanation": "With third person singular subjects (he, she, it, the client), add -s to the verb: the client wants.",
+        "content": "Your original sentence: 'client want many things'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 15,
+        "error_type": "grammar",
+        "subtype": "preposition",
+        "original": "I go on car",
+        "corrected": "I go by car",
+        "severity": "major",
+        "pattern_ref": "preposition_transport"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Prepositions for transport",
+        "template_text": "I go to work {0} car. My wife goes {1} minibus.",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "by", "is_correct": true},
+              {"content": "on", "is_correct": false},
+              {"content": "in", "is_correct": false}
+            ]
+          },
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "by", "is_correct": true},
+              {"content": "on", "is_correct": false},
+              {"content": "with", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "Use 'by' for mode of transport: by car, by bus, by train, by minibus. We say 'on foot' for walking.",
+        "content": "Your original sentence: 'I go on car'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 12,
+        "error_type": "grammar",
+        "subtype": "subject_verb_agreement",
+        "original": "She make amazing borshch",
+        "corrected": "She makes amazing borshch",
+        "severity": "moderate",
+        "pattern_ref": "third_person_s"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_stretch",
+      "payload": {
+        "title": "Third person -s: describe what she does",
+        "template_text": "She {0} amazing borshch. She {1} very well. She {2} books in the evening.",
+        "gaps": [
+          {"type": "blank", "solution": "makes"},
+          {"type": "blank", "solution": "cooks"},
+          {"type": "blank", "solution": "reads"}
+        ],
+        "explanation": "Add -s for he/she/it: make -> makes, cook -> cooks, read -> reads. With verbs ending in consonant + e, just add -s.",
+        "content": "Describe your wife's routine using the correct verb forms."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 0,
+        "error_type": "grammar",
+        "subtype": "article_omission",
+        "original": "I am working on new project",
+        "corrected": "I am working on a new project",
+        "severity": "moderate",
+        "pattern_ref": "article_omission"
+      },
+      "payload_type": "boolean",
+      "difficulty": "zpd_lower",
+      "payload": {
+        "title": "'I have lunch in office every day' is correct English",
+        "is_correct": false,
+        "explanation": "We need articles: 'I have lunch in the office every day.' Use 'the' when both speakers know which office is meant."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 19,
+        "error_type": "grammar",
+        "subtype": "tense_choice",
+        "original": "I am sometimes meeting with friends",
+        "corrected": "I sometimes meet friends",
+        "severity": "moderate",
+        "pattern_ref": "continuous_for_habitual"
+      },
+      "payload_type": "categorizer",
+      "difficulty": "zpd_stretch",
+      "payload": {
+        "title": "Sort: present simple (habits) or present continuous (right now)?",
+        "categories": ["Present simple (habits)", "Present continuous (right now)"],
+        "items": [
+          {"text": "I drive to work every day.", "category_index": 0},
+          {"text": "I am driving to work right now.", "category_index": 1},
+          {"text": "She cooks dinner every evening.", "category_index": 0},
+          {"text": "She is cooking dinner at the moment.", "category_index": 1},
+          {"text": "I sometimes meet friends at the weekend.", "category_index": 0},
+          {"text": "I am meeting a friend today.", "category_index": 1}
+        ],
+        "explanation": "Use present simple for habits and routines (every day, usually, always). Use present continuous for actions happening now or at this moment (right now, at the moment)."
+      }
+    }
+  ]
+}

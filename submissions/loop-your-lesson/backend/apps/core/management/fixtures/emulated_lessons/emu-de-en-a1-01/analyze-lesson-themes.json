@@ -1,0 +1,361 @@
+{
+  "skill_name": "analyze-lesson-themes",
+  "lesson_id": "emu-de-en-a1-01",
+  "student_id": "student-lukas",
+  "reasoning": "Applied CEFR A1 descriptors to evaluate vocabulary level-appropriateness and communicative function classification. Themes were identified by topic shifts in the conversation, and vocabulary was split into active (student-produced) and passive (teacher-introduced, student understood). Communicative functions follow the CEFR functional categories: describing, narrating, explaining, requesting information. The pedagogical arc shows a well-structured lesson moving from activation to input to controlled practice to freer practice, consistent with a PPP (Presentation-Practice-Production) approach.",
+  "lesson_arc": "The lesson follows a classic PPP structure. It opens with a warm-up conversation about Lukas's work week (activation of prior knowledge, surfacing of errors for the lesson topic). The teacher uses Lukas's natural error (\"I go with the car\") as a bridge into the planned topic: transport and directions. The presentation phase introduces transport vocabulary, verb collocations (take/drive/ride/walk), and the \"go by\" structure. Controlled practice follows with tense drills (present/past/future transport sentences). The lesson then transitions to directions vocabulary (position words, landmarks) and progresses through increasingly free practice: repeating directions, giving directions from a map, and finally a phone role-play giving directions to a colleague. The review phase consolidates with a correct/incorrect exercise and a summary of key error patterns. Homework is assigned for continued practice.",
+  "themes": [
+    {
+      "topic": "Work and daily routine",
+      "communicative_function": "narrating, describing",
+      "initiated_by": "teacher",
+      "transcript_range": "00:00 - 02:32",
+      "vocabulary_active": [
+        {
+          "term": "project",
+          "context": "\"We have a new project at my company\"",
+          "level": "A2"
+        },
+        {
+          "term": "design (verb)",
+          "context": "\"I must design a new system\" (after teacher help)",
+          "level": "A2"
+        },
+        {
+          "term": "water supply",
+          "context": "\"the water in a building\" -> teacher supplied term",
+          "level": "A2"
+        },
+        {
+          "term": "floors",
+          "context": "\"Twelve floors\" (self-translated from Stockwerke)",
+          "level": "A1"
+        },
+        {
+          "term": "home office",
+          "context": "\"No more home office\"",
+          "level": "A1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "plumbing system",
+          "context": "teacher offered as alternative",
+          "level": "B1"
+        },
+        {
+          "term": "commute",
+          "context": "\"you have to commute every day\"",
+          "level": "A2"
+        }
+      ],
+      "chunks": [
+        "\"I have a lot of work\" (corrected from \"very much work\")",
+        "\"It takes thirty minutes\""
+      ]
+    },
+    {
+      "topic": "Transport vocabulary and verb collocations",
+      "communicative_function": "describing, explaining",
+      "initiated_by": "teacher",
+      "transcript_range": "02:32 - 11:30",
+      "vocabulary_active": [
+        {
+          "term": "bus",
+          "context": "listed and used in sentences",
+          "level": "A1"
+        },
+        {
+          "term": "train",
+          "context": "listed and used in sentences",
+          "level": "A1"
+        },
+        {
+          "term": "tram",
+          "context": "repeated from teacher",
+          "level": "A1"
+        },
+        {
+          "term": "underground",
+          "context": "used in \"She takes the underground\"",
+          "level": "A1"
+        },
+        {
+          "term": "taxi",
+          "context": "\"taxi is same in German\"",
+          "level": "A1"
+        },
+        {
+          "term": "car",
+          "context": "used throughout",
+          "level": "A1"
+        },
+        {
+          "term": "bicycle",
+          "context": "listed",
+          "level": "A1"
+        },
+        {
+          "term": "on foot",
+          "context": "used correctly",
+          "level": "A1"
+        },
+        {
+          "term": "take (transport)",
+          "context": "\"I take the bus\"",
+          "level": "A1"
+        },
+        {
+          "term": "drive",
+          "context": "\"I drive to work\"",
+          "level": "A1"
+        },
+        {
+          "term": "walk",
+          "context": "used in sentences",
+          "level": "A1"
+        },
+        {
+          "term": "broken",
+          "context": "\"my car was broken\" (after teacher help)",
+          "level": "A1"
+        },
+        {
+          "term": "garage",
+          "context": "\"my car is at the garage\" (after teacher help)",
+          "level": "A1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "subway / metro",
+          "context": "teacher offered as alternatives to underground",
+          "level": "A1"
+        },
+        {
+          "term": "cycle (verb)",
+          "context": "teacher mentioned as alternative to \"ride\"",
+          "level": "A1"
+        },
+        {
+          "term": "broken down",
+          "context": "\"My car had broken down\"",
+          "level": "A2"
+        }
+      ],
+      "chunks": [
+        "\"I go by + transport\"",
+        "\"I take the + transport\"",
+        "\"How do you get to work?\"",
+        "\"It takes + time + by + transport\"",
+        "\"go on foot\" (exception to \"go by\" pattern)",
+        "\"a five-minute walk\" / \"a ten-minute drive\""
+      ]
+    },
+    {
+      "topic": "Directions vocabulary and position words",
+      "communicative_function": "describing, explaining",
+      "initiated_by": "teacher",
+      "transcript_range": "13:05 - 18:14",
+      "vocabulary_active": [
+        {
+          "term": "left / right",
+          "context": "repeated and used",
+          "level": "A1"
+        },
+        {
+          "term": "straight (on)",
+          "context": "used in directions",
+          "level": "A1"
+        },
+        {
+          "term": "turn",
+          "context": "\"turn left, turn right\"",
+          "level": "A1"
+        },
+        {
+          "term": "cross",
+          "context": "\"cross the street\"",
+          "level": "A1"
+        },
+        {
+          "term": "traffic light",
+          "context": "used in giving directions",
+          "level": "A1"
+        },
+        {
+          "term": "next to",
+          "context": "\"next to a big car park\"",
+          "level": "A1"
+        },
+        {
+          "term": "opposite",
+          "context": "\"opposite a restaurant\"",
+          "level": "A1"
+        },
+        {
+          "term": "between",
+          "context": "\"between the car park and the pharmacy\"",
+          "level": "A1"
+        },
+        {
+          "term": "on the corner",
+          "context": "repeated",
+          "level": "A1"
+        },
+        {
+          "term": "pharmacy",
+          "context": "learned and used (from Apotheke)",
+          "level": "A1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "zebra crossing",
+          "context": "teacher introduced, cognate with German",
+          "level": "A1"
+        },
+        {
+          "term": "pedestrian crossing",
+          "context": "teacher introduced",
+          "level": "A2"
+        },
+        {
+          "term": "go past",
+          "context": "teacher introduced",
+          "level": "A1"
+        },
+        {
+          "term": "at the end of / at the beginning of",
+          "context": "teacher introduced",
+          "level": "A1"
+        },
+        {
+          "term": "timetable / schedule",
+          "context": "teacher supplied for Fahrplan",
+          "level": "A2"
+        }
+      ],
+      "chunks": [
+        "\"turn left/right at the...\"",
+        "\"go straight on\"",
+        "\"cross the street at the traffic light\"",
+        "\"on your left/right\"",
+        "\"on the left-hand side / right-hand side\""
+      ]
+    },
+    {
+      "topic": "Asking for and giving directions - map exercise",
+      "communicative_function": "requesting information, explaining, narrating",
+      "initiated_by": "teacher",
+      "transcript_range": "18:14 - 43:50",
+      "vocabulary_active": [
+        {
+          "term": "leave",
+          "context": "\"Leave the train station\"",
+          "level": "A1"
+        },
+        {
+          "term": "continue",
+          "context": "\"Continue straight on\" (after teacher prompt)",
+          "level": "A2"
+        },
+        {
+          "term": "along",
+          "context": "\"I walk along High Street\"",
+          "level": "A1"
+        },
+        {
+          "term": "landmark",
+          "context": "understood concept, used German \"Wahrzeichen\"",
+          "level": "A2"
+        },
+        {
+          "term": "bus stop",
+          "context": "used after teacher introduced",
+          "level": "A1"
+        },
+        {
+          "term": "nearest",
+          "context": "\"where is the nearest supermarket?\"",
+          "level": "A1"
+        },
+        {
+          "term": "lost",
+          "context": "\"I am lost\"",
+          "level": "A1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "turning (noun)",
+          "context": "\"take the first turning on the left\"",
+          "level": "A2"
+        },
+        {
+          "term": "onto",
+          "context": "\"turn left onto High Street\"",
+          "level": "A2"
+        }
+      ],
+      "chunks": [
+        "\"Excuse me, where is the...?\"",
+        "\"Sorry, could you repeat that?\"",
+        "\"Sorry, could you speak more slowly?\"",
+        "\"I'm sorry, I'm lost. Could you help me?\"",
+        "\"It's about a X-minute walk\"",
+        "\"You're welcome\""
+      ]
+    },
+    {
+      "topic": "False friends and L1 awareness",
+      "communicative_function": "explaining, metalinguistic discussion",
+      "initiated_by": "student",
+      "transcript_range": "24:26 - 25:29",
+      "vocabulary_active": [
+        {
+          "term": "get (nervous)",
+          "context": "corrected from \"become nervous\"",
+          "level": "A1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "false friend",
+          "context": "teacher used the term",
+          "level": "metalinguistic"
+        },
+        {
+          "term": "transfer error",
+          "context": "teacher used the term",
+          "level": "metalinguistic"
+        }
+      ],
+      "chunks": [
+        "\"I get nervous\" (vs \"I become nervous\")"
+      ]
+    },
+    {
+      "topic": "Review and consolidation",
+      "communicative_function": "explaining, self-assessment",
+      "initiated_by": "teacher",
+      "transcript_range": "44:50 - 55:05",
+      "vocabulary_active": [
+        {
+          "term": "(all transport terms)",
+          "context": "recalled from memory",
+          "level": "A1"
+        },
+        {
+          "term": "(all direction terms)",
+          "context": "recalled from memory",
+          "level": "A1"
+        }
+      ],
+      "vocabulary_passive": [],
+      "chunks": [
+        "\"Where, what, when, why, want\" (pronunciation practice set)"
+      ]
+    }
+  ]
+}

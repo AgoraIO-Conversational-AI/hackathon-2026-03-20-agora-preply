@@ -1,0 +1,385 @@
+{
+  "skill_name": "analyze-lesson-themes",
+  "lesson_id": "emu-uk-en-a1-02",
+  "student_id": "student-dmytro",
+  "reasoning": "Applied CEFR A1-A2 vocabulary and communicative function descriptors to identify themes, vocabulary tiers, and the pedagogical arc. The lesson follows a classic communicative approach: warm-up with personalized context, presentation of new language (telling time), guided practice with daily routine vocabulary, grammar focus on present simple and frequency adverbs, and free production through extended descriptions of routines. The teacher consistently uses the student's real life as context, which maximizes engagement and memorability at A1.",
+  "lesson_arc": "The lesson follows a clear four-stage pedagogical progression: (1) warm-up and needs analysis through casual conversation about work, (2) presentation of telling-the-time vocabulary (half past, quarter past/to, past/to), (3) guided practice combining time expressions with daily routine verbs in present simple, and (4) extended production tasks requiring the student to describe routines for himself, his wife, and his friend using third person -s and frequency adverbs. The teacher scaffolds complexity incrementally - first person routines, then third person, then negatives, then adverbs of frequency - culminating in a multi-paragraph monologue about a typical Monday. Homework extends the cycle with a writing task (Saturday paragraph) and a real-world practice task (saying clock times mentally).",
+  "themes": [
+    {
+      "topic": "Work and IT projects",
+      "communicative_function": "describing / reporting",
+      "initiated_by": "teacher",
+      "transcript_range": "00:05 - 01:22",
+      "vocabulary_active": [
+        {
+          "term": "project",
+          "context": "\"new project for bank\"",
+          "level": "A1"
+        },
+        {
+          "term": "application",
+          "context": "\"mobile application\"",
+          "level": "A2"
+        },
+        {
+          "term": "developer",
+          "context": "\"I am developer\"",
+          "level": "A2"
+        },
+        {
+          "term": "code",
+          "context": "\"I write code\"",
+          "level": "A2"
+        },
+        {
+          "term": "client",
+          "context": "\"client want many things\"",
+          "level": "A2"
+        },
+        {
+          "term": "deadline",
+          "context": "\"project have deadline\"",
+          "level": "A2"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "common",
+          "context": "\"that's very common in IT\"",
+          "level": "A2"
+        },
+        {
+          "term": "responsibilities",
+          "context": "\"no responsibilities\"",
+          "level": "B1"
+        }
+      ],
+      "chunks": [
+        "\"working on a project\"",
+        "\"write code for\"",
+        "\"there isn't enough time\""
+      ]
+    },
+    {
+      "topic": "Telling the time",
+      "communicative_function": "describing / explaining",
+      "initiated_by": "teacher",
+      "transcript_range": "03:38 - 06:50",
+      "vocabulary_active": [
+        {
+          "term": "half past",
+          "context": "\"half past seven\"",
+          "level": "A1"
+        },
+        {
+          "term": "quarter past",
+          "context": "\"quarter past six\"",
+          "level": "A1"
+        },
+        {
+          "term": "quarter to",
+          "context": "\"quarter to nine\"",
+          "level": "A1"
+        },
+        {
+          "term": "past",
+          "context": "\"twenty past seven\"",
+          "level": "A1"
+        },
+        {
+          "term": "to",
+          "context": "\"ten to eight\"",
+          "level": "A1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "quarter",
+          "context": "\"a quarter - one fourth\"",
+          "level": "A1"
+        }
+      ],
+      "chunks": [
+        "\"half past [hour]\"",
+        "\"quarter past [hour]\"",
+        "\"quarter to [hour]\"",
+        "\"[minutes] past/to [hour]\""
+      ]
+    },
+    {
+      "topic": "Daily routine vocabulary",
+      "communicative_function": "narrating / describing",
+      "initiated_by": "teacher",
+      "transcript_range": "07:08 - 16:43",
+      "vocabulary_active": [
+        {
+          "term": "wake up",
+          "context": "\"I wake up at seven\"",
+          "level": "A1"
+        },
+        {
+          "term": "have breakfast",
+          "context": "\"I have breakfast\"",
+          "level": "A1"
+        },
+        {
+          "term": "drive to work",
+          "context": "\"I drive to work\"",
+          "level": "A1"
+        },
+        {
+          "term": "start work",
+          "context": "\"I start work at nine\"",
+          "level": "A1"
+        },
+        {
+          "term": "have lunch",
+          "context": "\"I have lunch at one\"",
+          "level": "A1"
+        },
+        {
+          "term": "finish work",
+          "context": "\"I finish work at six\"",
+          "level": "A1"
+        },
+        {
+          "term": "come home",
+          "context": "\"I come home at half past six\"",
+          "level": "A1"
+        },
+        {
+          "term": "have dinner",
+          "context": "\"I have dinner at seven\"",
+          "level": "A1"
+        },
+        {
+          "term": "go to bed",
+          "context": "\"I go to bed at half past eleven\"",
+          "level": "A1"
+        },
+        {
+          "term": "brush teeth",
+          "context": "\"brush my teeth\"",
+          "level": "A1"
+        },
+        {
+          "term": "wash face",
+          "context": "\"wash my face\"",
+          "level": "A1"
+        },
+        {
+          "term": "rest",
+          "context": "\"I rest a little bit\"",
+          "level": "A1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "snooze button",
+          "context": "\"you hit the snooze button\"",
+          "level": "A2"
+        },
+        {
+          "term": "lunch box",
+          "context": "\"a lunch box\"",
+          "level": "A1"
+        },
+        {
+          "term": "container",
+          "context": "\"a container\"",
+          "level": "A1"
+        },
+        {
+          "term": "scrambled eggs",
+          "context": "\"scrambled eggs?\"",
+          "level": "A2"
+        },
+        {
+          "term": "fried eggs",
+          "context": "\"fried eggs\"",
+          "level": "A1"
+        }
+      ],
+      "chunks": [
+        "\"go to bed\"",
+        "\"wake up at [time]\"",
+        "\"drive to work\"",
+        "\"by car / by bus / by train\""
+      ]
+    },
+    {
+      "topic": "Third person present simple",
+      "communicative_function": "narrating / describing",
+      "initiated_by": "teacher",
+      "transcript_range": "17:16 - 22:49",
+      "vocabulary_active": [
+        {
+          "term": "wakes up",
+          "context": "\"she wakes up at six\"",
+          "level": "A1"
+        },
+        {
+          "term": "goes",
+          "context": "\"she goes to work\"",
+          "level": "A1"
+        },
+        {
+          "term": "starts",
+          "context": "\"she starts work at eight\"",
+          "level": "A1"
+        },
+        {
+          "term": "finishes",
+          "context": "\"she finishes work at three\"",
+          "level": "A1"
+        },
+        {
+          "term": "cooks",
+          "context": "\"she cooks very well\"",
+          "level": "A1"
+        },
+        {
+          "term": "reads",
+          "context": "\"she reads books\"",
+          "level": "A1"
+        },
+        {
+          "term": "watches",
+          "context": "\"she watches TV\"",
+          "level": "A1"
+        },
+        {
+          "term": "doesn't",
+          "context": "\"she doesn't like fish\"",
+          "level": "A1"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "romance novels",
+          "context": "\"romance novels or romantic books\"",
+          "level": "A2"
+        },
+        {
+          "term": "Korean dramas",
+          "context": "context from student",
+          "level": "A2"
+        }
+      ],
+      "chunks": [
+        "\"she doesn't + base verb\"",
+        "\"remember the 's'\""
+      ]
+    },
+    {
+      "topic": "Adverbs of frequency",
+      "communicative_function": "describing / narrating",
+      "initiated_by": "teacher",
+      "transcript_range": "23:44 - 31:48",
+      "vocabulary_active": [
+        {
+          "term": "always",
+          "context": "\"I always drink coffee\"",
+          "level": "A1"
+        },
+        {
+          "term": "usually",
+          "context": "\"I usually wake up at seven\"",
+          "level": "A1"
+        },
+        {
+          "term": "sometimes",
+          "context": "\"I sometimes eat out\"",
+          "level": "A1"
+        },
+        {
+          "term": "never",
+          "context": "\"I never cook\"",
+          "level": "A1"
+        },
+        {
+          "term": "rarely",
+          "context": "\"we rarely eat out\"",
+          "level": "A2"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "often",
+          "context": "introduced in frequency scale",
+          "level": "A1"
+        },
+        {
+          "term": "seldom",
+          "context": "introduced in frequency scale",
+          "level": "B1"
+        },
+        {
+          "term": "eat out",
+          "context": "\"eat out means to eat at a restaurant\"",
+          "level": "A2"
+        }
+      ],
+      "chunks": [
+        "\"adverb + main verb\" word order",
+        "\"once a month\"",
+        "\"eat out\""
+      ]
+    },
+    {
+      "topic": "Comparing workday vs weekend + describing others",
+      "communicative_function": "narrating / comparing",
+      "initiated_by": "teacher",
+      "transcript_range": "28:19 - 44:08",
+      "vocabulary_active": [
+        {
+          "term": "stay at home",
+          "context": "\"I stay at home\"",
+          "level": "A1"
+        },
+        {
+          "term": "meet friends",
+          "context": "\"I sometimes meet friends\"",
+          "level": "A1"
+        },
+        {
+          "term": "remotely",
+          "context": "\"he works remotely\"",
+          "level": "A2"
+        },
+        {
+          "term": "bachelor",
+          "context": "\"he is bachelor\"",
+          "level": "A2"
+        },
+        {
+          "term": "order food",
+          "context": "\"he sometimes orders pizza\"",
+          "level": "A2"
+        },
+        {
+          "term": "gamer",
+          "context": "\"he is big gamer\"",
+          "level": "A2"
+        }
+      ],
+      "vocabulary_passive": [
+        {
+          "term": "remote worker",
+          "context": "\"he's a remote worker\"",
+          "level": "A2"
+        },
+        {
+          "term": "too lazy",
+          "context": "\"he's too lazy to cook\"",
+          "level": "A2"
+        }
+      ],
+      "chunks": [
+        "\"works from home\"",
+        "\"too lazy to + verb\"",
+        "\"spend time with\""
+      ]
+    }
+  ]
+}

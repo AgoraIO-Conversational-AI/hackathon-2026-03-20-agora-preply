@@ -1,0 +1,189 @@
+{
+  "skill_name": "generate-classtime-questions",
+  "lesson_id": "emu-es-en-a1-01",
+  "student_id": "student-carmen",
+  "reasoning": "Applied error taxonomy to 25 classified errors. Selected 7 questions targeting the highest-priority error patterns: 3rd person -s (exercise_priority 5, 8 occurrences), null subject 'it' (priority 4-5, 5 occurrences), false friends (priority 4, 2 occurrences), prepositions (priority 3, 4 occurrences), there is/are agreement (priority 3), and age construction (priority 5). ZPD calibration based on A1+ level assessment: zpd_lower targets recognition of rules already corrected in lesson (boolean, choice), zpd_target tests application in context (gap with choices, sorter), zpd_stretch requires production recall (gap with blank). Difficulty distribution: 2 zpd_lower (29%), 3 zpd_target (43%), 2 zpd_stretch (29%). Distractors use Carmen's actual errors, L1 transfer patterns from Spanish, and common developmental forms at A1.",
+  "session_title": "Practice: Family and Home - Carmen (2026-03-20)",
+  "feedback_mode": "practice",
+  "questions": [
+    {
+      "source_ref": {
+        "error_index": 9,
+        "error_type": "grammar",
+        "subtype": "subject_verb_agreement",
+        "original": "My father work in a hospital",
+        "corrected": "My father works in a hospital",
+        "severity": "major",
+        "pattern_ref": "3rd_person_s"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Third person -s: complete the sentence",
+        "template_text": "My father {0} in a hospital. He {1} people every day.",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "works", "is_correct": true},
+              {"content": "work", "is_correct": false},
+              {"content": "working", "is_correct": false}
+            ]
+          },
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "helps", "is_correct": true},
+              {"content": "help", "is_correct": false},
+              {"content": "helping", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "With he/she/it, add -s to the verb in present simple: he works, he helps.",
+        "content": "Your original sentence: 'My father work in a hospital'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 12,
+        "error_type": "grammar",
+        "subtype": "subject_verb_agreement",
+        "original": "My mother don't like cats",
+        "corrected": "My mother doesn't like cats",
+        "severity": "major",
+        "pattern_ref": "3rd_person_s"
+      },
+      "payload_type": "choice",
+      "difficulty": "zpd_lower",
+      "payload": {
+        "title": "Which sentence is correct?",
+        "choices": [
+          {"text": "My mother don't like cats.", "is_correct": false},
+          {"text": "My mother doesn't like cats.", "is_correct": true},
+          {"text": "My mother not like cats.", "is_correct": false}
+        ],
+        "explanation": "With he/she/it, the negative is 'doesn't' (does + not), not 'don't'.",
+        "content": "Your original sentence: 'My mother don't like cats'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 1,
+        "error_type": "grammar",
+        "subtype": "null_subject",
+        "original": "Is very cold today in London",
+        "corrected": "It is very cold today in London",
+        "severity": "moderate",
+        "pattern_ref": "null_subject"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Add the missing subject",
+        "template_text": "{0} is very cold today. {1} is because we are in London in winter.",
+        "gaps": [
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "It", "is_correct": true},
+              {"content": "Is", "is_correct": false},
+              {"content": "This", "is_correct": false}
+            ]
+          },
+          {
+            "type": "choices",
+            "choices": [
+              {"content": "It", "is_correct": true},
+              {"content": "Is", "is_correct": false},
+              {"content": "That", "is_correct": false}
+            ]
+          }
+        ],
+        "explanation": "English always needs a subject. Use 'it' as a dummy subject for weather, time, and impersonal statements: 'It is cold', 'It is because...'",
+        "content": "Your original sentences: 'Is very cold today' and 'Is because I practice a lot'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 4,
+        "error_type": "vocabulary",
+        "subtype": "false_friend",
+        "original": "Actually I live in London for three months",
+        "corrected": "Currently I live in London for three months",
+        "severity": "moderate",
+        "pattern_ref": "false_friends"
+      },
+      "payload_type": "boolean",
+      "difficulty": "zpd_lower",
+      "payload": {
+        "title": "'Actually' in English means 'actualmente' (currently)",
+        "is_correct": false,
+        "explanation": "'Actually' means 'en realidad' (in fact). To say 'actualmente', use 'currently'. This is a common false friend between Spanish and English."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 7,
+        "error_type": "grammar",
+        "subtype": "verb_form",
+        "original": "She have sixteen years",
+        "corrected": "She is sixteen years old",
+        "severity": "major",
+        "pattern_ref": "age_construction"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_stretch",
+      "payload": {
+        "title": "How do we express age in English?",
+        "template_text": "My sister {0} sixteen years old. My grandmother {1} eighty years old.",
+        "gaps": [
+          {"type": "blank", "solution": "is"},
+          {"type": "blank", "solution": "is"}
+        ],
+        "explanation": "In English, we use 'be' for age: 'she IS sixteen years old.' In Spanish you say 'tiene dieciseis anos' (has sixteen years), but English uses 'is' instead of 'has'.",
+        "content": "Your original sentence: 'She have sixteen years'"
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 17,
+        "error_type": "grammar",
+        "subtype": "word_order",
+        "original": "My mother is a woman very nice",
+        "corrected": "My mother is a very nice woman",
+        "severity": "moderate",
+        "pattern_ref": "adjective_word_order"
+      },
+      "payload_type": "sorter",
+      "difficulty": "zpd_target",
+      "payload": {
+        "title": "Arrange the words to describe Carmen's mother",
+        "items": ["My", "mother", "is", "a", "very", "nice", "woman"],
+        "explanation": "In English, adjectives go BEFORE the noun: 'a very nice woman', not 'a woman very nice'. In Spanish it is the opposite: 'una mujer muy simpática'."
+      }
+    },
+    {
+      "source_ref": {
+        "error_index": 13,
+        "error_type": "grammar",
+        "subtype": "subject_verb_agreement",
+        "original": "she have two cats",
+        "corrected": "she has two cats",
+        "severity": "major",
+        "pattern_ref": "3rd_person_s"
+      },
+      "payload_type": "gap",
+      "difficulty": "zpd_stretch",
+      "payload": {
+        "title": "Complete with the correct form of 'have'",
+        "template_text": "My aunt {0} two cats. She {1} a big house with a garden.",
+        "gaps": [
+          {"type": "blank", "solution": "has"},
+          {"type": "blank", "solution": "has"}
+        ],
+        "explanation": "With he/she/it, 'have' becomes 'has'. 'My aunt has two cats. She has a big house.'",
+        "content": "Your original sentence: 'she have two cats'"
+      }
+    }
+  ]
+}

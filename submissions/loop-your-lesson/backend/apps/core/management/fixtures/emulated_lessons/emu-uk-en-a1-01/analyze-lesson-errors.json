@@ -1,0 +1,298 @@
+{
+  "skill_name": "analyze-lesson-errors",
+  "lesson_id": "emu-uk-en-a1-01",
+  "student_id": "student-oksana",
+  "reasoning": "Applied the error taxonomy (grammar, vocabulary, pragmatic categories) with severity calibrated against CEFR A1 descriptors. Ukrainian-English interlanguage patterns from theory/interlanguage were used to distinguish L1 transfer errors (age expression with \"have\", preposition \"on\" for \"to\", zero-article system) from developmental errors common to all A1 learners (plural -s omission, 3rd person -s omission). At A1, verb tense errors in narration and article omission are expected and rated moderate rather than major; however, systematic SVA omission and L1 preposition transfer are flagged as high-priority exercise targets because they impede communication clarity.",
+  "talk_ratio": {
+    "student_pct": 48,
+    "teacher_pct": 52
+  },
+  "errors": [
+    {
+      "type": "grammar",
+      "subtype": "verb_tense",
+      "severity": "moderate",
+      "original": "I go to park",
+      "corrected": "I went to the park",
+      "explanation": "Used present simple \"go\" to narrate a past event (weekend). Also missing definite article \"the\" before \"park\".",
+      "timestamp": "00:28",
+      "communicative_impact": "medium",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "recast",
+      "exercise_priority": 4,
+      "error_index": 1
+    },
+    {
+      "type": "grammar",
+      "subtype": "article",
+      "severity": "minor",
+      "original": "weather is nice",
+      "corrected": "The weather was nice",
+      "explanation": "Missing definite article \"the\" before \"weather\" and used present tense for past narration.",
+      "timestamp": "00:44",
+      "communicative_impact": "low",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "recast",
+      "exercise_priority": 3,
+      "error_index": 2
+    },
+    {
+      "type": "grammar",
+      "subtype": "verb_tense",
+      "severity": "moderate",
+      "original": "I go with my children",
+      "corrected": "I went with my children",
+      "explanation": "Present simple used for past narration, same pattern as error #1.",
+      "timestamp": "01:02",
+      "communicative_impact": "medium",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "none",
+      "exercise_priority": 4,
+      "error_index": 3
+    },
+    {
+      "type": "grammar",
+      "subtype": "verb_tense",
+      "severity": "moderate",
+      "original": "children play. I sit and look",
+      "corrected": "The children played. I sat and watched",
+      "explanation": "Present tense narration of past events. Three verbs affected in one utterance.",
+      "timestamp": "01:55",
+      "communicative_impact": "medium",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "recast",
+      "exercise_priority": 4,
+      "error_index": 5
+    },
+    {
+      "type": "grammar",
+      "subtype": "verb_tense",
+      "severity": "moderate",
+      "original": "I buy food",
+      "corrected": "I bought food",
+      "explanation": "Present simple for past event, continuing the narration pattern.",
+      "timestamp": "02:58",
+      "communicative_impact": "medium",
+      "l1_transfer": true,
+      "l1_transfer_explanation": "same aspect-based narration transfer",
+      "correction_strategy": "none",
+      "exercise_priority": 3,
+      "error_index": 7
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "moderate",
+      "original": "My family like very much",
+      "corrected": "My family likes it very much",
+      "explanation": "Missing 3rd person -s on \"like\". Also missing object pronoun \"it\".",
+      "timestamp": "04:42",
+      "communicative_impact": "medium",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "recast",
+      "exercise_priority": 4,
+      "error_index": 8
+    },
+    {
+      "type": "grammar",
+      "subtype": "article",
+      "severity": "moderate",
+      "original": "This is apple",
+      "corrected": "This is an apple",
+      "explanation": "Missing indefinite article \"an\" before vowel-initial noun.",
+      "timestamp": "05:14",
+      "communicative_impact": "medium",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 9
+    },
+    {
+      "type": "grammar",
+      "subtype": "verb_tense",
+      "severity": "moderate",
+      "original": "I cook chicken yesterday",
+      "corrected": "I cooked chicken yesterday",
+      "explanation": "Past time adverb \"yesterday\" with present tense verb.",
+      "timestamp": "07:52",
+      "communicative_impact": "medium",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "recast",
+      "exercise_priority": 3,
+      "error_index": 10
+    },
+    {
+      "type": "grammar",
+      "subtype": "plural",
+      "severity": "minor",
+      "original": "Many dish with potato",
+      "corrected": "Many dishes with potatoes",
+      "explanation": "Missing plural -s on both \"dish\" and \"potato\" after quantifier \"many\".",
+      "timestamp": "09:35",
+      "communicative_impact": "low",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "none",
+      "exercise_priority": 3,
+      "error_index": 12
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "moderate",
+      "original": "bread cost one pound",
+      "corrected": "The bread costs one pound",
+      "explanation": "Missing 3rd person -s on \"cost\". Also missing article.",
+      "timestamp": "18:50",
+      "communicative_impact": "medium",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "explicit",
+      "exercise_priority": 4,
+      "error_index": 13
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "moderate",
+      "original": "The cheese cost two pounds fifty",
+      "corrected": "The cheese costs two pounds fifty",
+      "explanation": "Same SVA pattern as #13 - missing 3rd person -s.",
+      "timestamp": "19:42",
+      "communicative_impact": "medium",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "recast",
+      "exercise_priority": 4,
+      "error_index": 14
+    },
+    {
+      "type": "grammar",
+      "subtype": "plural",
+      "severity": "minor",
+      "original": "two pound",
+      "corrected": "two pounds",
+      "explanation": "Missing plural -s after number.",
+      "timestamp": "17:00",
+      "communicative_impact": "low",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "explicit",
+      "exercise_priority": 3,
+      "error_index": 15
+    },
+    {
+      "type": "grammar",
+      "subtype": "plural",
+      "severity": "moderate",
+      "original": "four tomato",
+      "corrected": "four tomatoes",
+      "explanation": "Missing plural -s, repeated pattern. Occurred during role-play task.",
+      "timestamp": "28:57",
+      "communicative_impact": "medium",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "recast",
+      "exercise_priority": 4,
+      "error_index": 16
+    },
+    {
+      "type": "grammar",
+      "subtype": "subject_verb_agreement",
+      "severity": "moderate",
+      "original": "She want to know everything",
+      "corrected": "She wants to know everything",
+      "explanation": "Missing 3rd person -s on \"want\".",
+      "timestamp": "31:47",
+      "communicative_impact": "medium",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "recast",
+      "exercise_priority": 4,
+      "error_index": 17
+    },
+    {
+      "type": "vocabulary",
+      "subtype": "adjective_adverb",
+      "severity": "moderate",
+      "original": "I don't speak English good",
+      "corrected": "I don't speak English well",
+      "explanation": "Used adjective \"good\" instead of adverb \"well\" to modify the verb \"speak\".",
+      "timestamp": "32:07",
+      "communicative_impact": "medium",
+      "l1_transfer": false,
+      "l1_transfer_explanation": "",
+      "correction_strategy": "explicit",
+      "exercise_priority": 3,
+      "error_index": 18
+    }
+  ],
+  "error_patterns": [
+    {
+      "pattern": "past_tense_narration",
+      "error_ids": [
+        1,
+        3,
+        5,
+        6,
+        7,
+        10
+      ]
+    },
+    {
+      "pattern": "subject_verb_agreement_3s",
+      "error_ids": [
+        8,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "pattern": "plural_s_omission",
+      "error_ids": [
+        11,
+        12,
+        15,
+        16
+      ]
+    },
+    {
+      "pattern": "article_omission",
+      "error_ids": [
+        2,
+        9,
+        13
+      ]
+    },
+    {
+      "pattern": "l1_preposition_transfer",
+      "error_ids": [
+        6
+      ]
+    },
+    {
+      "pattern": "l1_age_calque",
+      "error_ids": [
+        4
+      ]
+    },
+    {
+      "pattern": "adjective_adverb_confusion",
+      "error_ids": [
+        18
+      ]
+    }
+  ],
+  "summary": {
+    "total_errors": 15,
+    "estimated_level": "A1"
+  }
+}
